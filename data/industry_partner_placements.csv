@@ -1,0 +1,640 @@
+record_id,student_id,partner_name,engagement_type,start_date,end_date,status,annual_ctc_lpa
+PL-00001,ST2023-0001,Tarnwick Healthcare,Placement,2026-09-25,,Joined,3.78
+PL-00002,ST2023-0002,Drayholt Auto Components,Placement,2026-07-04,,Joined,2.33
+PL-00003,ST2023-0005,Sorrelby Diagnostics,Placement,2026-09-17,,Joined,3.74
+PL-00004,ST2023-0007,Vantrel Data Labs,Placement,2026-08-28,,Joined,3.69
+PL-00005,ST2023-0008,Pembric Hospitality,Placement,2026-07-23,,Offer Accepted,4.74
+PL-00006,ST2023-0009,Pembric Hospitality,Placement,2026-08-25,,Joined,3.04
+PL-00007,ST2023-0010,Brindlecove Retail,Placement,2026-09-06,,Joined,4.38
+PL-00008,ST2023-0011,Sorrelby Diagnostics,Placement,2026-08-13,,Joined,3.83
+PL-00009,ST2023-0012,Marlowe Mart Stores,Placement,2026-09-20,,Joined,2.29
+PL-00010,ST2023-0013,Fenmoor Freight,Placement,2026-08-24,,Joined,3.32
+PL-00011,ST2023-0015,Cardale Business Services,Placement,2026-08-02,,Joined,2.81
+PL-00012,ST2023-0016,Pembric Hospitality,Placement,2026-07-06,,Offer Accepted,3.25
+PL-00013,ST2023-0017,Cardale Business Services,Placement,2026-08-25,,Joined,2.78
+PL-00014,ST2023-0019,Brindlecove Retail Pvt Ltd,Placement,2026-09-16,,Joined,4.3
+PL-00015,ST2023-0020,Fenmoor Freight,Placement,2026-07-30,,Joined,2.73
+PL-00016,ST2023-0021,Tarnwick Healthcare,Placement,2026-08-14,,Joined,3.36
+PL-00017,ST2023-0022,Quillmarsh Logistics,Placement,2026-08-28,,Joined,4.4
+PL-00018,ST2023-0026,Brindlecove Retail,Placement,2026-08-10,,Joined,4.77
+PL-00019,ST2023-0027,Drayholt Auto Components,Placement,2026-09-07,,Joined,3.79
+PL-00020,ST2023-0028,Ostrella Analytics,Placement,2026-09-29,,Joined,3.56
+PL-00021,ST2023-0030,Cardale Business Services,Placement,2026-07-18,,Joined,4.36
+PL-00022,ST2023-0031,Tarnwick Healthcare,Placement,2026-09-25,,Joined,3.4
+PL-00023,ST2023-0032,Marlowe Mart Stores,Placement,2026-08-10,,Joined,4.41
+PL-00024,ST2023-0033,Tarnwick Healthcare,Placement,2026-08-05,,Joined,3.68
+PL-00025,ST2023-0034,Brindlecove Retail Pvt Ltd,Placement,2026-07-21,,Joined,2.23
+PL-00026,ST2023-0036,Velloran Motors,Placement,2026-08-09,,Joined,2.52
+PL-00027,ST2023-0037,Sorrelby Diagnostics,Placement,2026-07-25,,Offer Accepted,4.65
+PL-00028,ST2023-0038,Marlowe Mart Stores,Placement,2026-08-28,,Joined,2.81
+PL-00029,ST2023-0039,Brindlecove Retail,Placement,2026-09-21,,Joined,2.55
+PL-00030,ST2023-0041,Pembric Hospitality,Placement,2026-07-20,,Joined,4.12
+PL-00031,ST2023-0042,Velloran Motors,Placement,2026-07-11,,Joined,4.31
+PL-00032,ST2023-0043,Marlowe Mart Stores,Placement,2026-07-15,,Joined,4.68
+PL-00033,ST2023-0044,Velloran Motors,Placement,2026-09-30,,Joined,3.66
+PL-00034,ST2023-0046,Marlowe Mart Stores,Placement,2026-09-04,,Joined,3.6
+PL-00035,ST2023-0048,Marlowe Mart Stores,Placement,2026-08-16,,Joined,2.68
+PL-00036,ST2023-0049,Fenmoor Freight,Placement,2026-08-02,,Joined,4.17
+PL-00037,ST2023-0051,Ostrella Analytics,Placement,2026-07-26,,Joined,3.79
+PL-00038,ST2023-0053,Brindlecove Retail,Placement,2026-07-04,,Joined,3.27
+PL-00039,ST2023-0054,Vantrel Data Labs,Placement,2026-07-17,,Offer Accepted,4.61
+PL-00040,ST2023-0055,Cardale Business Services,Placement,2026-07-21,,Joined,3.06
+PL-00041,ST2023-0056,Vantrel Data Labs,Placement,2026-09-01,,Offer Accepted,4.15
+PL-00042,ST2023-0057,Drayholt Auto Components,Placement,2026-08-10,,Joined,2.8
+PL-00043,ST2023-0058,Marlowe Mart Stores,Placement,2026-09-14,,Joined,2.77
+PL-00044,ST2023-0060,Pembric Hospitality,Placement,2026-08-07,,Joined,2.86
+PL-00045,ST2023-0061,Cardale Business Services,Placement,2026-07-18,,Offer Accepted,3.28
+PL-00046,ST2023-0062,Sorrelby Diagnostics,Placement,2026-07-15,,Joined,4.78
+PL-00047,ST2023-0063,Vantrel Data Labs,Placement,2026-08-01,,Joined,3.23
+PL-00048,ST2023-0064,Quillmarsh Logistics,Placement,2026-08-04,,Joined,4.03
+PL-00049,ST2023-0065,Brindlecove Retail,Placement,2026-07-18,,Joined,2.3
+PL-00050,ST2023-0066,Marlowe Mart Stores,Placement,2026-07-04,,Joined,4.14
+PL-00051,ST2023-0068,Ostrella Analytics,Placement,2026-07-02,,Joined,3.88
+PL-00052,ST2023-0069,Vantrel Data Labs,Placement,2026-08-10,,Joined,4.55
+PL-00053,ST2023-0070,Cardale Business Services,Placement,2026-09-15,,Joined,2.49
+PL-00054,ST2023-0071,Marlowe Mart Stores,Placement,2026-08-30,,Joined,4.55
+PL-00055,ST2023-0073,Sorrelby Diagnostics,Placement,2026-09-05,,Joined,4.64
+PL-00056,ST2023-0077,Brindlecove Retail,Placement,2026-09-16,,Joined,3.92
+PL-00057,ST2023-0078,Tarnwick Healthcare,Placement,2026-09-23,,Joined,4.4
+PL-00058,ST2023-0079,Fenmoor Freight,Placement,2026-08-06,,Offer Accepted,4.72
+PL-00059,ST2023-0080,Brindlecove Retail Pvt Ltd,Placement,2026-07-13,,Joined,2.93
+PL-00060,ST2023-0083,Marlowe Mart Stores,Placement,2026-07-13,,Joined,4.78
+PL-00061,ST2023-0085,Velloran Motors,Placement,2026-07-21,,Joined,4.74
+PL-00062,ST2023-0086,Sorrelby Diagnostics,Placement,2026-07-11,,Joined,4.1
+PL-00063,ST2023-0087,Vantrel Data Labs,Placement,2026-09-30,,Joined,3.52
+PL-00064,ST2023-0088,Ostrella Analytics,Placement,2026-08-28,,Offer Accepted,3.31
+PL-00065,ST2023-0089,Pembric Hospitality,Placement,2026-08-01,,Joined,2.54
+PL-00066,ST2023-0090,Cardale Business Services,Placement,2026-07-12,,Joined,4.23
+PL-00067,ST2023-0091,Fenmoor Freight,Placement,2026-09-26,,Joined,2.25
+PL-00068,ST2023-0092,Ostrella Analytics,Placement,2026-09-24,,Joined,3.8
+PL-00069,ST2023-0093,Quillmarsh Logistics,Placement,2026-08-22,,Joined,4.44
+PL-00070,ST2023-0096,Vantrel Data Labs,Placement,2026-09-20,,Offer Accepted,2.89
+PL-00071,ST2023-0100,Ostrella Analytics,Placement,2026-07-28,,Joined,2.67
+PL-00072,ST2023-0101,Velloran Motors,Placement,2026-08-10,,Joined,4.21
+PL-00073,ST2023-0102,Vantrel Data Labs,Placement,2026-07-27,,Joined,4.52
+PL-00074,ST2023-0103,Drayholt Auto Components,Placement,2026-07-14,,Joined,3.51
+PL-00075,ST2023-0105,Tarnwick Healthcare,Placement,2026-08-24,,Joined,3.46
+PL-00076,ST2023-0107,Fenmoor Freight,Placement,2026-09-08,,Joined,2.89
+PL-00077,ST2023-0108,Fenmoor Freight,Placement,2026-09-03,,Joined,3.34
+PL-00078,ST2023-0109,Fenmoor Freight,Placement,2026-09-01,,Offer Accepted,2.8
+PL-00079,ST2023-0110,Drayholt Auto Components,Placement,2026-07-12,,Joined,3.17
+PL-00080,ST2023-0111,Marlowe Mart Stores,Placement,2026-09-16,,Joined,4.3
+PL-00081,ST2023-0112,Drayholt Auto Components,Placement,2026-09-20,,Joined,4.77
+PL-00082,ST2023-0114,Sorrelby Diagnostics,Placement,2026-09-14,,Offer Accepted,2.7
+PL-00083,ST2023-0116,Drayholt Auto Components,Placement,2026-09-21,,Joined,4.23
+PL-00084,ST2023-0117,Drayholt Auto Components,Placement,2026-09-28,,Joined,3.83
+PL-00085,ST2023-0118,Fenmoor Freight,Placement,2026-07-20,,Joined,3.22
+PL-00086,ST2023-0120,Ostrella Analytics,Placement,2026-07-13,,Joined,3.23
+PL-00087,ST2023-0121,Tarnwick Healthcare,Placement,2026-08-21,,Joined,4.73
+PL-00088,ST2023-0122,Quillmarsh Logistics,Placement,2026-07-01,,Joined,2.96
+PL-00089,ST2023-0124,Velloran Motor,Placement,2026-08-14,,Offer Accepted,3.93
+PL-00090,ST2023-0126,Ostrella Analytics,Placement,2026-07-21,,Joined,2.2
+PL-00091,ST2023-0128,Drayholt Auto Components,Placement,2026-08-26,,Joined,3.47
+PL-00092,ST2023-0129,Velloran Motors,Placement,2026-08-16,,Joined,3.17
+PL-00093,ST2023-0130,Tarnwick Healthcare,Placement,2026-09-12,,Joined,2.21
+PL-00094,ST2023-0131,Brindlecove Retail,Placement,2026-08-22,,Joined,4.6
+PL-00095,ST2023-0132,Drayholt Auto Components,Placement,2026-08-09,,Offer Accepted,4.21
+PL-00096,ST2023-0133,Brindlecove Retail,Placement,2026-09-08,,Joined,4.2
+PL-00097,ST2023-0134,Pembric Hospitality,Placement,2026-07-13,,Offer Accepted,3.35
+PL-00098,ST2023-0136,Drayholt Auto Components,Placement,2026-09-03,,Joined,3.31
+PL-00099,ST2023-0137,Ostrella Analytics,Placement,2026-09-13,,Joined,2.52
+PL-00100,ST2023-0138,Ostrella Analytics,Placement,2026-09-04,,Joined,3.68
+PL-00101,ST2023-0139,Velloran Motors,Placement,2026-08-17,,Joined,4.19
+PL-00102,ST2023-0141,Quillmarsh Logistics,Placement,2026-08-29,,Joined,3.57
+PL-00103,ST2023-0142,Fenmoor Freight,Placement,2026-07-26,,Joined,3.22
+PL-00104,ST2023-0143,Sorrelby Diagnostics,Placement,2026-07-29,,Joined,3.22
+PL-00105,ST2023-0144,Tarnwick Healthcare,Placement,2026-08-06,,Joined,2.66
+PL-00106,ST2023-0145,Cardale Business Services,Placement,2026-07-09,,Joined,3.52
+PL-00107,ST2023-0146,Marlowe Mart Stores,Placement,2026-09-25,,Joined,3.03
+PL-00108,ST2023-0147,Cardale Business Services,Placement,2026-07-26,,Joined,2.66
+PL-00109,ST2023-0148,Vantrel Data Labs,Placement,2026-07-27,,Joined,3.84
+PL-00110,ST2023-0149,Fenmoor Freight,Placement,2026-07-03,,Joined,2.27
+PL-00111,ST2023-0150,Brindlecove Retail,Placement,2026-07-01,,Joined,2.3
+PL-00112,ST2023-0151,Cardale Business Services,Placement,2026-07-02,,Offer Accepted,3.35
+PL-00113,ST2023-0152,Zenthic Auto Works,Placement,2026-07-05,,Joined,3.64
+PL-00114,ST2023-0154,Quillmarsh Logistics,Placement,2026-07-02,,Joined,3.09
+PL-00115,ST2023-0155,Brindlecove Retail,Placement,2026-08-25,,Joined,3.22
+PL-00116,ST2023-0157,Vantrel Data Labs,Placement,2026-09-21,,Joined,2.69
+PL-00117,ST2023-0158,Tarnwick Healthcare,Placement,2026-07-11,,Joined,3.36
+PL-00118,ST2023-0159,Cardale Business Services,Placement,2026-08-23,,Joined,3.83
+PL-00119,ST2023-0160,Pembric Hospitality,Placement,2026-07-20,,Joined,2.95
+PL-00120,ST2023-0161,Drayholt Auto Components,Placement,2026-07-21,,Offer Accepted,3.71
+PL-00121,ST2023-0163,Vantrel Data Labs,Placement,2026-09-05,,Joined,2.97
+PL-00122,ST2023-0164,Ostrella Analytics,Placement,2026-08-26,,Offer Accepted,4.52
+PL-00123,ST2023-0165,Marlowe Mart Stores,Placement,2026-07-23,,Joined,4.0
+PL-00124,ST2023-0166,Brindlecove Retail,Placement,2026-07-04,,Offer Accepted,3.54
+PL-00125,ST2023-0167,Brindlecove Retail,Placement,2026-09-23,,Joined,3.57
+PL-00126,ST2023-0168,Velloran Motors,Placement,2026-08-13,,Joined,3.62
+PL-00127,ST2023-0169,Ostrella Analytics,Placement,2026-07-26,,Joined,2.8
+PL-00128,ST2023-0170,Drayholt Auto Components,Placement,2026-08-22,,Joined,3.88
+PL-00129,ST2023-0172,Brindlecove Retail,Placement,2026-09-20,,Joined,2.52
+PL-00130,ST2023-0173,Velloran Motors,Placement,2026-07-18,,Joined,3.43
+PL-00131,ST2023-0174,Fenmoor Freight,Placement,2026-09-01,,Joined,3.9
+PL-00132,ST2023-0175,Brindlecove Retail,Placement,2026-08-08,,Joined,3.95
+PL-00133,ST2023-0176,Drayholt Auto Components,Placement,2026-08-14,,Joined,3.28
+PL-00134,ST2023-0178,Marlowe Mart Stores,Placement,2026-08-19,,Offer Accepted,2.95
+PL-00135,ST2023-0179,Brindlecove Retail,Placement,2026-09-30,,Joined,2.46
+PL-00136,ST2023-0180,Brindlecove Retail,Placement,2026-08-12,,Joined,4.29
+PL-00137,ST2023-0181,Pembric Hospitality,Placement,2026-09-20,,Offer Accepted,3.57
+PL-00138,ST2023-0182,Vantrel Data Labs,Placement,2026-08-26,,Joined,3.38
+PL-00139,ST2023-0183,Ostrella Analytics,Placement,2026-07-02,,Joined,2.35
+PL-00140,ST2023-0185,Fenmoor Freight,Placement,2026-08-17,,Joined,2.98
+PL-00141,ST2023-0187,Marlowe Mart Stores,Placement,2026-07-05,,Joined,4.11
+PL-00142,ST2023-0190,Ostrella Analytics,Placement,2026-07-02,,Joined,3.86
+PL-00143,ST2023-0193,Velloran Motors,Placement,2026-09-02,,Joined,2.88
+PL-00144,ST2023-0195,Sorrelby Diagnostics,Placement,2026-08-11,,Joined,2.32
+PL-00145,ST2023-0196,Brindlecove Retail,Placement,2026-09-07,,Joined,4.75
+PL-00146,ST2023-0197,Brindlecove Retail,Placement,2026-09-30,,Joined,4.05
+PL-00147,ST2023-0198,Fenmoor Freight,Placement,2026-09-08,,Joined,3.59
+PL-00148,ST2023-0199,Tarnwick Healthcare,Placement,2026-08-20,,Offer Accepted,2.4
+PL-00149,ST2023-0202,Drayholt Auto Components,Placement,2026-07-14,,Joined,2.72
+PL-00150,ST2023-0203,Velloran Motors,Placement,2026-08-14,,Joined,4.56
+PL-00151,ST2023-0204,Velloran Motors,Placement,2026-07-12,,Joined,3.57
+PL-00152,ST2023-0207,Fenmoor Freight,Placement,2026-08-24,,Joined,3.87
+PL-00153,ST2023-0208,Marlowe Mart Stores,Placement,2026-09-14,,Joined,3.35
+PL-00154,ST2023-0209,Tarnwick Healthcare,Placement,2026-07-06,,Joined,2.91
+PL-00155,ST2023-0210,Velloran Motors,Placement,2026-07-04,,Joined,2.71
+PL-00156,ST2023-0211,Sorrelby Diagnostics,Placement,2026-07-02,,Joined,4.04
+PL-00157,ST2023-0213,Velloran Motors,Placement,2026-08-20,,Offer Accepted,3.77
+PL-00158,ST2023-0214,Pembric Hospitality,Placement,2026-08-06,,Joined,4.45
+PL-00159,ST2023-0215,Ostrella Analytics,Placement,2026-07-13,,Joined,4.71
+PL-00160,ST2023-0216,Vantrel Data Labs,Placement,2026-08-29,,Joined,3.27
+PL-00161,ST2023-0218,Sorrelby Diagnostics,Placement,2026-08-05,,Joined,2.78
+PL-00162,ST2023-0220,Drayholt Auto Components,Placement,2026-08-15,,Joined,3.45
+PL-00163,ST2023-0221,Brindlecove Retail,Placement,2026-09-14,,Offer Accepted,3.42
+PL-00164,ST2023-0223,Pembric Hospitality,Placement,2026-08-01,,Joined,3.02
+PL-00165,ST2023-0224,Marlowe Mart Stores,Placement,2026-09-09,,Joined,3.99
+PL-00166,ST2023-0225,Cardale Business Services,Placement,2026-08-27,,Offer Accepted,3.36
+PL-00167,ST2023-0226,Marlowe Mart Stores,Placement,2026-07-01,,Joined,3.69
+PL-00168,ST2023-0227,Marlowe Mart Stores,Placement,2026-08-19,,Joined,4.24
+PL-00169,ST2023-0230,Vantrel Data Labs,Placement,2026-07-25,,Joined,3.52
+PL-00170,ST2023-0232,Ostrella Analytics,Placement,2026-07-29,,Offer Accepted,4.24
+PL-00171,ST2023-0233,Velloran Motors,Placement,2026-07-24,,Offer Accepted,4.03
+PL-00172,ST2023-0234,Sorrelby Diagnostics,Placement,2026-08-07,,Joined,3.33
+PL-00173,ST2023-0237,Cardale Business Services,Placement,2026-09-07,,Joined,3.09
+PL-00174,ST2023-0238,Cardale Business Services,Placement,2026-09-24,,Joined,3.21
+PL-00175,ST2023-0239,Tarnwick Healthcare,Placement,2026-08-13,,Joined,2.93
+PL-00176,ST2023-0243,Brindlecove Retail,Placement,2026-09-30,,Joined,3.53
+PL-00177,ST2023-0244,Brindlecove Retail Pvt Ltd,Placement,2026-09-21,,Joined,3.14
+PL-00178,ST2023-0245,Fenmoor Freight,Placement,2026-08-31,,Joined,4.73
+PL-00179,ST2023-0246,Marlowe Mart Stores,Placement,2026-09-21,,Joined,2.75
+PL-00180,ST2023-0247,Drayholt Auto Components,Placement,2026-08-14,,Joined,3.82
+PL-00181,ST2023-0249,Sorrelby Diagnostics,Placement,2026-07-18,,Joined,2.63
+PL-00182,ST2023-0250,Sorrelby Diagnostics,Placement,2026-09-22,,Joined,2.37
+PL-00183,ST2023-0251,Velloran Motors,Placement,2026-09-03,,Joined,3.44
+PL-00184,ST2023-0257,Sorrelby Diagnostics,Placement,2026-09-16,,Joined,3.04
+PL-00185,ST2023-0259,Quillmarsh Logistics,Placement,2026-09-27,,Joined,2.59
+PL-00186,ST2023-0260,Tarnwick Healthcare,Placement,2026-07-10,,Joined,4.06
+PL-00187,ST2024-0001,Vantrel Data Labs,OJT,2026-07-08,2027-01-04,Ongoing,
+PL-00188,ST2024-0002,Fenmoor Freight,OJT,2026-08-17,2027-02-13,Ongoing,
+PL-00189,ST2024-0003,Sorrelby Diagnostics,OJT,2026-07-17,2027-01-13,Ongoing,
+PL-00190,ST2024-0004,Cardale Business Services,OJT,2026-07-17,2027-01-13,Ongoing,
+PL-00191,ST2024-0005,Velloran Motors,OJT,2026-08-04,2027-01-31,Ongoing,
+PL-00192,ST2024-0006,Marlowe Mart Stores,OJT,2026-07-22,2027-01-18,Ongoing,
+PL-00193,ST2024-0007,Vantrel Data Labs,OJT,2026-07-28,2027-01-24,Ongoing,
+PL-00194,ST2024-0008,Drayholt Auto Components,OJT,2026-08-02,2027-01-29,Ongoing,
+PL-00195,ST2024-0009,Ostrella Analytics,OJT,2026-07-30,2027-01-26,Ongoing,
+PL-00196,ST2024-0010,Drayholt Auto Components,OJT,2026-07-25,2027-01-21,Ongoing,
+PL-00197,ST2024-0011,Quillmarsh Logistics,OJT,2026-08-11,2027-02-07,Ongoing,
+PL-00198,ST2024-0014,Tarnwick Healthcare,OJT,2026-07-07,2027-01-03,Ongoing,
+PL-00199,ST2024-0015,Vantrel Data Labs,OJT,2026-07-05,2027-01-01,Ongoing,
+PL-00200,ST2024-0016,Sorrelby Diagnostics,OJT,2026-07-26,2027-01-22,Ongoing,
+PL-00201,ST2024-0017,Sorrelby Diagnostics,OJT,2026-07-30,2027-01-26,Ongoing,
+PL-00202,ST2024-0018,Fenmoor Freight,OJT,2026-08-07,2027-02-03,Ongoing,
+PL-00203,ST2024-0020,Fenmoor Freight,OJT,2026-07-10,2027-01-06,Ongoing,
+PL-00204,ST2024-0021,Marlowe Mart Stores,OJT,2026-08-19,2027-02-15,Ongoing,
+PL-00205,ST2024-0023,Quillmarsh Logistics,OJT,2026-07-21,2027-01-17,Ongoing,
+PL-00206,ST2024-0024,Vantrel Data Labs,OJT,2026-08-04,2027-01-31,Ongoing,
+PL-00207,ST2024-0025,Vantrel Data Labs,OJT,2026-08-07,2027-02-03,Ongoing,
+PL-00208,ST2024-0026,Ostrella Analytics,OJT,2026-07-28,2027-01-24,Ongoing,
+PL-00209,ST2024-0027,Marlowe Mart Stores,OJT,2026-07-18,2027-01-14,Ongoing,
+PL-00210,ST2024-0028,Velloran Motors,OJT,2026-08-07,2027-02-03,Ongoing,
+PL-00211,ST2024-0029,Tarnwick Healthcare,OJT,2026-07-24,2027-01-20,Ongoing,
+PL-00212,ST2024-0030,Tarnwick Healthcare,OJT,2026-08-10,2027-02-06,Ongoing,
+PL-00213,ST2024-0031,Vantrel Data Labs,OJT,2026-08-09,2027-02-05,Ongoing,
+PL-00214,ST2024-0032,Brindlecove Retail,OJT,2026-08-05,2027-02-01,Ongoing,
+PL-00215,ST2024-0033,Velloran Motors,OJT,2026-07-29,2027-01-25,Ongoing,
+PL-00216,ST2024-0034,Brindlecove Retail,OJT,2026-07-15,2027-01-11,Ongoing,
+PL-00217,ST2024-0036,Brindlecove Retail,OJT,2026-08-12,2027-02-08,Ongoing,
+PL-00218,ST2024-0037,Pembric Hospitality,OJT,2027-02-12,2026-08-16,Ongoing,
+PL-00219,ST2024-0038,Quillmarsh Logistics,OJT,2026-08-12,2027-02-08,Ongoing,
+PL-00220,ST2024-0040,Ostrella Analytics,OJT,2026-07-13,2027-01-09,Ongoing,
+PL-00221,ST2024-0041,Tarnwick Healthcare,OJT,2026-07-01,2026-12-28,Ongoing,
+PL-00222,ST2024-0043,Tarnwick Healthcare,OJT,2026-08-13,2027-02-09,Ongoing,
+PL-00223,ST2024-0045,Drayholt Auto Components,OJT,2026-08-16,2027-02-12,Ongoing,
+PL-00224,ST2024-0046,Brindlecove Retail,OJT,2026-07-17,2027-01-13,Ongoing,
+PL-00225,ST2024-0047,Fenmoor Freight,OJT,2026-07-21,2027-01-17,Ongoing,
+PL-00226,ST2024-0048,Pembric Hospitality,OJT,2026-08-20,2027-02-16,Ongoing,
+PL-00227,ST2024-0049,Fenmoor Freight,OJT,2026-08-14,2027-02-10,Ongoing,
+PL-00228,ST2024-0050,Tarnwick Healthcare,OJT,2026-08-02,2027-01-29,Ongoing,
+PL-00229,ST2024-0051,Ostrella Analytics,OJT,2026-07-12,2027-01-08,Ongoing,
+PL-00230,ST2024-0052,Zenthic Auto Works,OJT,2026-07-08,2027-01-04,Ongoing,
+PL-00231,ST2024-0053,Pembric Hospitality,OJT,2026-07-17,2027-01-13,Ongoing,
+PL-00232,ST2024-0054,Cardale Business Services,OJT,2026-07-01,2026-12-28,Ongoing,
+PL-00233,ST2024-0055,Quillmarsh Logistics,OJT,2026-08-14,2027-02-10,Ongoing,
+PL-00234,ST2024-0056,Vantrel Data Labs,OJT,2026-08-17,2027-02-13,Ongoing,
+PL-00235,ST2024-0057,Quillmarsh Logistics,OJT,2026-08-18,2027-02-14,Ongoing,
+PL-00236,ST2024-0058,Sorrelby Diagnostics,OJT,2026-07-04,2026-12-31,Ongoing,
+PL-00237,ST2024-0059,Marlowe Mart Stores,OJT,2026-08-20,2027-02-16,Ongoing,
+PL-00238,ST2024-0063,Marlowe Mart Stores,OJT,2026-07-12,2027-01-08,Ongoing,
+PL-00239,ST2024-0064,Sorrelby Diagnostics,OJT,2026-08-02,2027-01-29,Ongoing,
+PL-00240,ST2024-0065,Cardale Business Services,OJT,2026-08-03,2027-01-30,Ongoing,
+PL-00241,ST2024-0068,Drayholt Auto Components,OJT,2026-08-13,2027-02-09,Ongoing,
+PL-00242,ST2024-0069,Cardale Business Services,OJT,2026-07-25,2027-01-21,Ongoing,
+PL-00243,ST2024-0070,Pembric Hospitality,OJT,2026-08-15,2027-02-11,Ongoing,
+PL-00244,ST2024-0071,Tarnwick Healthcare,OJT,2026-07-12,2027-01-08,Ongoing,
+PL-00245,ST2024-0072,Drayholt Auto Components,OJT,2026-08-17,2027-02-13,Ongoing,
+PL-00246,ST2024-0074,Brindlecove Retail,OJT,2026-07-21,2027-01-17,Ongoing,
+PL-00247,ST2024-0075,Fenmoor Freight,OJT,2026-07-30,2027-01-26,Ongoing,
+PL-00248,ST2024-0076,Tarnwick Healthcare,OJT,2026-07-07,2027-01-03,Ongoing,
+PL-00249,ST2024-0077,Sorrelby Diagnostics,OJT,2026-07-29,2027-01-25,Ongoing,
+PL-00250,ST2024-0079,Pembric Hospitality,OJT,2026-07-16,2027-01-12,Ongoing,
+PL-00251,ST2024-0080,Sorrelby Diagnostics,OJT,2026-07-07,2027-01-03,Ongoing,
+PL-00252,ST2024-0081,Marlowe Mart Stores,OJT,2026-07-16,2027-01-12,Ongoing,
+PL-00253,ST2024-0082,Marlowe Mart Stores,OJT,2026-07-29,2027-01-25,Ongoing,
+PL-00254,ST2024-0083,Quillmarsh Logistics,OJT,2026-08-12,2027-02-08,Ongoing,
+PL-00255,ST2024-0084,Brindlecove Retail,OJT,2026-07-18,2027-01-14,Ongoing,
+PL-00256,ST2024-0085,Velloran Motors,OJT,2026-07-21,2027-01-17,Ongoing,
+PL-00257,ST2024-0086,Pembric Hospitality,OJT,2026-07-24,2027-01-20,Ongoing,
+PL-00258,ST2024-0087,Quillmarsh Logistics,OJT,2026-07-26,2027-01-22,Ongoing,
+PL-00259,ST2024-0089,Drayholt Auto Components,OJT,2026-07-07,2027-01-03,Ongoing,
+PL-00260,ST2024-0090,Brindlecove Retail,OJT,2026-08-15,2027-02-11,Ongoing,
+PL-00261,ST2024-0091,Velloran Motors,OJT,2026-07-13,2027-01-09,Ongoing,
+PL-00262,ST2024-0092,Vantrel Data Labs,OJT,2026-07-07,2027-01-03,Ongoing,
+PL-00263,ST2024-0093,Pembric Hospitality,OJT,2026-08-18,2027-02-14,Ongoing,
+PL-00264,ST2024-0095,Sorrelby Diagnostics,OJT,2026-07-26,2027-01-22,Ongoing,
+PL-00265,ST2024-0096,Cardale Business Services,OJT,2026-08-17,2027-02-13,Ongoing,
+PL-00266,ST2024-0097,Brindlecove Retail,OJT,2026-07-09,2027-01-05,Ongoing,
+PL-00267,ST2024-0098,Cardale Business Services,OJT,2026-07-21,2027-01-17,Ongoing,
+PL-00268,ST2024-0099,Cardale Business Services,OJT,2026-07-03,2026-12-30,Ongoing,
+PL-00269,ST2024-0100,Fenmoor Freight,OJT,2026-08-17,2027-02-13,Ongoing,
+PL-00270,ST2024-0101,Drayholt Auto Components,OJT,2026-08-18,2027-02-14,Ongoing,
+PL-00271,ST2024-0102,Brindlecove Retail,OJT,2026-08-02,2027-01-29,Ongoing,
+PL-00272,ST2024-0103,Vantrel Data Labs,OJT,2026-08-20,2027-02-16,Ongoing,
+PL-00273,ST2024-0104,Marlowe Mart Stores,OJT,2026-07-24,2027-01-20,Ongoing,
+PL-00274,ST2024-0105,Pembric Hospitality,OJT,2026-07-01,2026-12-28,Ongoing,
+PL-00275,ST2024-0106,Ostrella Analytics,OJT,2026-07-06,2027-01-02,Ongoing,
+PL-00276,ST2024-0107,Ostrella Analytics,OJT,2026-08-03,2027-01-30,Ongoing,
+PL-00277,ST2024-0108,Vantrel Data Labs,OJT,2026-08-16,2027-02-12,Ongoing,
+PL-00278,ST2024-0109,Marlowe Mart Stores,OJT,2026-08-11,2027-02-07,Ongoing,
+PL-00279,ST2024-0110,Ostrella Analytics,OJT,2026-07-20,2027-01-16,Ongoing,
+PL-00280,ST2024-0111,Fenmoor Freight,OJT,2026-08-17,2027-02-13,Ongoing,
+PL-00281,ST2024-0112,Fenmoor Freight,OJT,2026-08-03,2027-01-30,Ongoing,
+PL-00282,ST2024-0115,Pembric Hospitality,OJT,2026-07-15,2027-01-11,Ongoing,
+PL-00283,ST2024-0116,Vantrel Data Labs,OJT,2026-07-26,2027-01-22,Ongoing,
+PL-00284,ST2024-0117,Fenmoor Freight,OJT,2026-08-19,2027-02-15,Ongoing,
+PL-00285,ST2024-0118,Velloran Motors,OJT,2026-08-13,2027-02-09,Ongoing,
+PL-00286,ST2024-0119,Marlowe Mart Stores,OJT,2026-08-12,2027-02-08,Ongoing,
+PL-00287,ST2024-0120,Tarnwick Healthcare,OJT,2026-07-09,2027-01-05,Ongoing,
+PL-00288,ST2024-0121,Drayholt Auto Components,OJT,2026-07-12,2027-01-08,Ongoing,
+PL-00289,ST2024-0122,Marlowe Mart Stores,OJT,2026-08-07,2027-02-03,Ongoing,
+PL-00290,ST2024-0123,Brindlecove Retail,OJT,2026-07-07,2027-01-03,Ongoing,
+PL-00291,ST2024-0124,Fenmoor Freight,OJT,2026-08-10,2027-02-06,Ongoing,
+PL-00292,ST2024-0125,Tarnwick Healthcare,OJT,2026-07-22,2027-01-18,Ongoing,
+PL-00293,ST2024-0126,Fenmoor Freight,OJT,2026-07-13,2027-01-09,Ongoing,
+PL-00294,ST2024-0127,Pembric Hospitality,OJT,2026-07-05,2027-01-01,Ongoing,
+PL-00295,ST2024-0128,Brindlecove Retail,OJT,2026-07-02,2026-12-29,Ongoing,
+PL-00296,ST2024-0129,Vantrel Data Labs,OJT,2026-07-01,2026-12-28,Ongoing,
+PL-00297,ST2024-0130,Quillmarsh Logistics,OJT,2026-07-26,2027-01-22,Ongoing,
+PL-00298,ST2024-0131,Drayholt Auto Components,OJT,2026-08-19,2027-02-15,Ongoing,
+PL-00299,ST2024-0132,Brindlecove Retail,OJT,2026-07-12,2027-01-08,Ongoing,
+PL-00300,ST2024-0133,Sorrelby Diagnostics,OJT,2026-08-03,2027-01-30,Ongoing,
+PL-00301,ST2024-0134,Pembric Hospitality,OJT,2026-07-24,2027-01-20,Ongoing,
+PL-00302,ST2024-0135,Tarnwick Healthcare,OJT,2026-07-20,2027-01-16,Ongoing,
+PL-00303,ST2024-0136,Tarnwick Healthcare,OJT,2026-08-04,2027-01-31,Ongoing,
+PL-00304,ST2024-0137,Marlowe Mart Stores,OJT,2026-07-17,2027-01-13,Ongoing,
+PL-00305,ST2024-0138,Sorrelby Diagnostics,OJT,2026-08-07,2027-02-03,Ongoing,
+PL-00306,ST2024-0139,Sorrelby Diagnostics,OJT,2026-07-30,2027-01-26,Ongoing,
+PL-00307,ST2024-0141,Vantrel Data Labs,OJT,2026-07-10,2027-01-06,Ongoing,
+PL-00308,ST2024-0143,Quillmarsh Logistics,OJT,2026-08-18,2027-02-14,Ongoing,
+PL-00309,ST2024-0144,Fenmoor Freight,OJT,2026-07-10,2027-01-06,Ongoing,
+PL-00310,ST2024-0145,Pembric Hospitality,OJT,2026-07-03,2026-12-30,Ongoing,
+PL-00311,ST2024-0146,Sorrelby Diagnostics,OJT,2026-07-11,2027-01-07,Ongoing,
+PL-00312,ST2024-0147,Brindlecove Retail,OJT,2026-07-23,2027-01-19,Ongoing,
+PL-00313,ST2024-0148,Cardale Business Services,OJT,2026-08-18,2027-02-14,Ongoing,
+PL-00314,ST2024-0150,Marlowe Mart Stores,OJT,2026-07-27,2027-01-23,Ongoing,
+PL-00315,ST2024-0151,Sorrelby Diagnostics,OJT,2026-07-26,2027-01-22,Ongoing,
+PL-00316,ST2024-0152,Tarnwick Healthcare,OJT,2026-08-06,2027-02-02,Ongoing,
+PL-00317,ST2024-0153,Brindlecove Retail,OJT,2026-07-13,2027-01-09,Ongoing,
+PL-00318,ST2024-0155,Vantrel Data Labs,OJT,2026-08-07,2027-02-03,Ongoing,
+PL-00319,ST2024-0156,Brindlecove Retail,OJT,2026-08-11,2027-02-07,Ongoing,
+PL-00320,ST2024-0157,Tarnwick Healthcare,OJT,2026-07-18,2027-01-14,Ongoing,
+PL-00321,ST2024-0160,Brindlecove Retail Pvt Ltd,OJT,2026-07-26,2027-01-22,Ongoing,
+PL-00322,ST2024-0164,Tarnwick Healthcare,OJT,2026-08-06,2027-02-02,Ongoing,
+PL-00323,ST2024-0165,Velloran Motors,OJT,2026-07-02,2026-12-29,Ongoing,
+PL-00324,ST2024-0166,Marlowe Mart Stores,OJT,2026-07-02,2026-12-29,Ongoing,
+PL-00325,ST2024-0167,Cardale Business Services,OJT,2026-08-03,2027-01-30,Ongoing,
+PL-00326,ST2024-0168,Drayholt Auto Components,OJT,2026-08-02,2027-01-29,Ongoing,
+PL-00327,ST2024-0172,Cardale Business Services,OJT,2026-07-26,2027-01-22,Ongoing,
+PL-00328,ST2024-0173,Marlowe Mart Stores,OJT,2026-08-10,2027-02-06,Ongoing,
+PL-00329,ST2024-0174,Cardale Business Services,OJT,2026-07-07,2027-01-03,Ongoing,
+PL-00330,ST2024-0175,Vantrel Data Labs,OJT,2026-08-20,2027-02-16,Ongoing,
+PL-00331,ST2024-0176,Drayholt Auto Components,OJT,2026-08-18,2027-02-14,Ongoing,
+PL-00332,ST2024-0177,Quillmarsh Logistics,OJT,2026-07-07,2027-01-03,Ongoing,
+PL-00333,ST2024-0178,Sorrelby Diagnostics,OJT,2026-08-13,2027-02-09,Ongoing,
+PL-00334,ST2024-0179,Sorrelby Diagnostics,OJT,2026-07-04,2026-12-31,Ongoing,
+PL-00335,ST2024-0180,Marlowe Mart Stores,OJT,2026-08-15,2027-02-11,Ongoing,
+PL-00336,ST2024-0181,Drayholt Auto Components,OJT,2026-08-17,2027-02-13,Ongoing,
+PL-00337,ST2024-0182,Quillmarsh Logistics,OJT,2026-07-21,2027-01-17,Ongoing,
+PL-00338,ST2024-0184,Ostrella Analytics,OJT,2026-07-31,2027-01-27,Ongoing,
+PL-00339,ST2024-0185,Pembric Hospitality,OJT,2026-08-06,2027-02-02,Ongoing,
+PL-00340,ST2024-0186,Ostrella Analytics,OJT,2026-07-20,2027-01-16,Ongoing,
+PL-00341,ST2024-0187,Brindlecove Retail,OJT,2026-07-29,2027-01-25,Ongoing,
+PL-00342,ST2024-0188,Brindlecove Retail,OJT,2026-08-06,2027-02-02,Ongoing,
+PL-00343,ST2024-0189,Velloran Motors,OJT,2026-07-04,2026-12-31,Ongoing,
+PL-00344,ST2024-0190,Ostrella Analytics,OJT,2026-07-22,2027-01-18,Ongoing,
+PL-00345,ST2024-0191,Sorrelby Diagnostics,OJT,2026-08-17,2027-02-13,Ongoing,
+PL-00346,ST2024-0192,Velloran Motors,OJT,2026-08-06,2027-02-02,Ongoing,
+PL-00347,ST2024-0193,Cardale Business Services,OJT,2026-07-08,2027-01-04,Ongoing,
+PL-00348,ST2024-0194,Velloran Motors,OJT,2026-07-15,2027-01-11,Ongoing,
+PL-00349,ST2024-0196,Brindlecove Retail,OJT,2026-07-06,2027-01-02,Ongoing,
+PL-00350,ST2024-0197,Brindlecove Retail Pvt Ltd,OJT,2026-07-14,2027-01-10,Ongoing,
+PL-00351,ST2024-0198,Vantrel Data Labs,OJT,2026-07-20,2027-01-16,Ongoing,
+PL-00352,ST2024-0199,Pembric Hospitality,OJT,2026-07-23,2027-01-19,Ongoing,
+PL-00353,ST2024-0200,Vantrel Data Labs,OJT,2026-07-02,2026-12-29,Ongoing,
+PL-00354,ST2024-0201,Cardale Business Services,OJT,2026-07-04,2026-12-31,Ongoing,
+PL-00355,ST2024-0204,Cardale Business Services,OJT,2026-07-13,2027-01-09,Ongoing,
+PL-00356,ST2024-0205,Quillmarsh Logistics,OJT,2026-08-20,2027-02-16,Ongoing,
+PL-00357,ST2024-0206,Velloran Motors,OJT,2026-08-14,2027-02-10,Ongoing,
+PL-00358,ST2024-0208,Ostrella Analytics,OJT,2026-08-10,2027-02-06,Ongoing,
+PL-00359,ST2024-0210,Velloran Motors,OJT,2026-08-04,2027-01-31,Ongoing,
+PL-00360,ST2024-0211,Drayholt Auto Components,OJT,2026-07-31,2027-01-27,Ongoing,
+PL-00361,ST2024-0214,Marlowe Mart Stores,OJT,2026-07-04,2026-12-31,Ongoing,
+PL-00362,ST2024-0215,Quillmarsh Logistics,OJT,2026-08-19,2027-02-15,Ongoing,
+PL-00363,ST2024-0216,Tarnwick Healthcare,OJT,2026-07-23,2027-01-19,Ongoing,
+PL-00364,ST2024-0219,Pembric Hospitality,OJT,2026-07-26,2027-01-22,Ongoing,
+PL-00365,ST2024-0220,Drayholt Auto Components,OJT,2026-08-14,2027-02-10,Ongoing,
+PL-00366,ST2024-0222,Sorrelby Diagnostics,OJT,2026-08-18,2027-02-14,Ongoing,
+PL-00367,ST2024-0223,Brindlecove Retail,OJT,2026-07-06,2027-01-02,Ongoing,
+PL-00368,ST2024-0224,Vantrel Data Labs,OJT,2026-07-13,2027-01-09,Ongoing,
+PL-00369,ST2024-0225,Drayholt Auto Components,OJT,2026-07-05,2027-01-01,Ongoing,
+PL-00370,ST2024-0226,Fenmoor Freight,OJT,2026-08-17,2027-02-13,Ongoing,
+PL-00371,ST2024-0227,Vantrel Data Labs,OJT,2026-08-08,2027-02-04,Ongoing,
+PL-00372,ST2024-0228,Tarnwick Healthcare,OJT,2026-08-14,2027-02-10,Ongoing,
+PL-00373,ST2024-0229,Cardale Business Services,OJT,2026-07-11,2027-01-07,Ongoing,
+PL-00374,ST2024-0230,Sorrelby Diagnostics,OJT,2026-07-05,2027-01-01,Ongoing,
+PL-00375,ST2024-0231,Drayholt Auto Components,OJT,2026-08-04,2027-01-31,Ongoing,
+PL-00376,ST2024-0232,Cardale Business Services,OJT,2026-07-04,2026-12-31,Ongoing,
+PL-00377,ST2024-0233,Pembric Hospitality,OJT,2026-07-15,2027-01-11,Ongoing,
+PL-00378,ST2024-0235,Ostrella Analytics,OJT,2026-07-05,2027-01-01,Ongoing,
+PL-00379,ST2024-0236,Tarnwick Healthcare,OJT,2026-07-22,2027-01-18,Ongoing,
+PL-00380,ST2024-0237,Tarnwick Healthcare,OJT,2026-07-20,2027-01-16,Ongoing,
+PL-00381,ST2024-0238,Drayholt Auto Components,OJT,2026-07-17,2027-01-13,Ongoing,
+PL-00382,ST2024-0240,Sorrelby Diagnostics,OJT,2026-08-13,2027-02-09,Ongoing,
+PL-00383,ST2024-0241,Quillmarsh Logistics,OJT,2026-07-18,2027-01-14,Ongoing,
+PL-00384,ST2024-0242,Cardale Business Services,OJT,2026-08-13,2027-02-09,Ongoing,
+PL-00385,ST2024-0243,Quillmarsh Logistics,OJT,2026-07-04,2026-12-31,Ongoing,
+PL-00386,ST2024-0244,Brindlecove Retail,OJT,2026-07-27,2027-01-23,Ongoing,
+PL-00387,ST2024-0245,Drayholt Auto Components,OJT,2026-07-10,2027-01-06,Ongoing,
+PL-00388,ST2024-0246,Fenmoor Freight,OJT,2026-07-02,2026-12-29,Ongoing,
+PL-00389,ST2024-0247,Velloran Motors,OJT,2026-07-27,2027-01-23,Ongoing,
+PL-00390,ST2024-0248,Tarnwick Healthcare,OJT,2026-08-07,2027-02-03,Ongoing,
+PL-00391,ST2024-0249,Tarnwick Healthcare,OJT,2026-08-05,2027-02-01,Ongoing,
+PL-00392,ST2024-0250,Fenmoor Freight,OJT,2026-08-12,2027-02-08,Ongoing,
+PL-00393,ST2024-0251,Quillmarsh Logistics,OJT,2026-08-10,2027-02-06,Ongoing,
+PL-00394,ST2024-0252,Sorrelby Diagnostics,OJT,2026-07-23,2027-01-19,Ongoing,
+PL-00395,ST2024-0253,Tarnwick Healthcare,OJT,2026-07-13,2027-01-09,Ongoing,
+PL-00396,ST2024-0255,Cardale Business Services,OJT,2026-07-05,2027-01-01,Ongoing,
+PL-00397,ST2024-0256,Sorrelby Diagnostics,OJT,2026-08-11,2027-02-07,Ongoing,
+PL-00398,ST2024-0258,Sorrelby Diagnostics,OJT,2026-07-27,2027-01-23,Ongoing,
+PL-00399,ST2024-0259,Marlowe Mart Stores,OJT,2026-08-08,2027-02-04,Ongoing,
+PL-00400,ST2024-0260,Cardale Business Services,OJT,2026-08-17,2027-02-13,Ongoing,
+PL-00401,ST2024-0261,Brindlecove Retail,OJT,2026-08-20,2027-02-16,Ongoing,
+PL-00402,ST2024-0262,Marlowe Mart Stores,OJT,2026-07-12,2027-01-08,Ongoing,
+PL-00403,ST2024-0263,Drayholt Auto Components,OJT,2026-07-03,2026-12-30,Ongoing,
+PL-00404,ST2024-0264,Brindlecove Retail,OJT,2026-08-19,2027-02-15,Ongoing,
+PL-00405,ST2024-0265,Pembric Hospitality,OJT,2026-07-01,2026-12-28,Ongoing,
+PL-00406,ST2024-0266,Marlowe Mart Stores,OJT,2026-08-17,2027-02-13,Ongoing,
+PL-00407,ST2024-0267,Drayholt Auto Components,OJT,2026-08-09,2027-02-05,Ongoing,
+PL-00408,ST2024-0268,Quillmarsh Logistics,OJT,2027-01-14,2026-07-18,Ongoing,
+PL-00409,ST2024-0269,Brindlecove Retail,OJT,2026-07-25,2027-01-21,Ongoing,
+PL-00410,ST2024-0270,Velloran Motors,OJT,2026-08-07,2027-02-03,Ongoing,
+PL-00411,ST2024-0271,Ostrella Analytics,OJT,2026-07-21,2027-01-17,Ongoing,
+PL-00412,ST2024-0272,Sorrelby Diagnostics,OJT,2026-07-15,2027-01-11,Ongoing,
+PL-00413,ST2024-0273,Quillmarsh Logistics,OJT,2026-07-12,2027-01-08,Ongoing,
+PL-00414,ST2024-0274,Marlowe Mart Stores,OJT,2026-07-27,2027-01-23,Ongoing,
+PL-00415,ST2024-0275,Sorrelby Diagnostics,OJT,2026-07-11,2027-01-07,Ongoing,
+PL-00416,ST2024-0276,Vantrel Data Labs,OJT,2026-07-01,2026-12-28,Ongoing,
+PL-00417,ST2024-0277,Ostrella Analytics,OJT,2026-08-10,2027-02-06,Ongoing,
+PL-00418,ST2024-0278,Fenmoor Freight,OJT,2026-08-04,2027-01-31,Ongoing,
+PL-00419,ST2024-0279,Drayholt Auto Components,OJT,2026-08-05,2027-02-01,Ongoing,
+PL-00420,ST2024-0280,Brindlecove Retail,OJT,2026-07-03,2026-12-30,Ongoing,
+PL-00421,ST2024-0281,Ostrella Analytics,OJT,2026-08-15,2027-02-11,Ongoing,
+PL-00422,ST2024-0282,Cardale Business Services,OJT,2026-07-26,2027-01-22,Ongoing,
+PL-00423,ST2024-0283,Cardale Business Services,OJT,2026-07-05,2027-01-01,Ongoing,
+PL-00424,ST2024-0285,Pembric Hospitality,OJT,2026-07-11,2027-01-07,Ongoing,
+PL-00425,ST2024-0286,Quillmarsh Logistics,OJT,2026-07-25,2027-01-21,Ongoing,
+PL-00426,ST2024-0287,Brindlecove Retail,OJT,2026-07-13,2027-01-09,Ongoing,
+PL-00427,ST2024-0288,Tarnwick Healthcare,OJT,2026-08-06,2027-02-02,Ongoing,
+PL-00428,ST2024-0289,Vantrel Data Labs,OJT,2026-07-25,2027-01-21,Ongoing,
+PL-00429,ST2024-0290,Velloran Motors,OJT,2026-07-02,2026-12-29,Ongoing,
+PL-00430,ST2024-0291,Fenmoor Freight,OJT,2026-07-22,2027-01-18,Ongoing,
+PL-00431,ST2024-0293,Vantrel Data Labs,OJT,2026-08-05,2027-02-01,Ongoing,
+PL-00432,ST2024-0294,Tarnwick Healthcare,OJT,2026-07-04,2026-12-31,Ongoing,
+PL-00433,ST2024-0295,Quillmarsh Logistics,OJT,2026-07-14,2027-01-10,Ongoing,
+PL-00434,ST2024-0296,Brindlecove Retail,OJT,2026-08-12,2027-02-08,Ongoing,
+PL-00435,ST2024-0297,Sorrelby Diagnostics,OJT,2026-08-09,2027-02-05,Ongoing,
+PL-00436,ST2024-0298,Drayholt Auto Components,OJT,2026-08-04,2027-01-31,Ongoing,
+PL-00437,ST2024-0299,Cardale Business Services,OJT,2026-07-23,2027-01-19,Ongoing,
+PL-00438,ST2024-0300,Pembric Hospitality,OJT,2026-07-14,2027-01-10,Ongoing,
+PL-00439,ST2025-0001,Cardale Business Services,OJT,2026-05-09,2026-06-20,Completed,
+PL-00440,ST2025-0003,Quillmarsh Logistics,OJT,2026-05-28,2026-07-09,Completed,
+PL-00441,ST2025-0004,Fenmoor Freight,OJT,2026-05-09,2026-06-20,Completed,
+PL-00442,ST2025-0006,Marlowe Mart Stores,OJT,2026-05-20,2026-07-01,Completed,
+PL-00443,ST2025-0007,Vantrel Data Labs,OJT,2026-05-17,2026-06-28,Completed,
+PL-00444,ST2025-0008,Ostrella Analytics,OJT,2026-05-16,2026-06-27,Completed,
+PL-00445,ST2025-0009,Pembric Hospitality,OJT,2026-05-15,2026-06-26,Completed,
+PL-00446,ST2025-0010,Drayholt Auto Components,OJT,2026-05-10,2026-06-21,Completed,
+PL-00447,ST2025-0011,Pembric Hospitality,OJT,2026-05-08,2026-06-19,Completed,
+PL-00448,ST2025-0013,Vantrel Data Labs,OJT,2026-05-05,2026-06-16,Completed,
+PL-00449,ST2025-0014,Tarnwick Healthcare,OJT,2026-05-16,2026-06-27,Completed,
+PL-00450,ST2025-0015,Tarnwick Healthcare,OJT,2026-05-14,2026-06-25,Completed,
+PL-00451,ST2025-0016,Velloran Motors,OJT,2026-05-05,2026-06-16,Completed,
+PL-00452,ST2025-0018,Marlowe Mart Stores,OJT,2026-05-07,2026-06-18,Completed,
+PL-00453,ST2025-0020,Pembric Hospitality,OJT,2026-05-31,2026-07-12,Completed,
+PL-00454,ST2025-0021,Quillmarsh Logistics,OJT,2026-05-09,2026-06-20,Completed,
+PL-00455,ST2025-0022,Fenmoor Freight,OJT,2026-05-24,2026-07-05,Completed,
+PL-00456,ST2025-0026,Quillmarsh Logistics,OJT,2026-05-24,2026-07-05,Completed,
+PL-00457,ST2025-0027,Drayholt Auto Components,OJT,2026-05-24,2026-07-05,Completed,
+PL-00458,ST2025-0029,Cardale Business Services,OJT,2026-05-18,2026-06-29,Completed,
+PL-00459,ST2025-0031,Marlowe Mart Stores,OJT,2026-05-16,2026-06-27,Completed,
+PL-00460,ST2025-0032,Tarnwick Healthcare,OJT,2026-05-26,2026-07-07,Completed,
+PL-00461,ST2025-0034,Drayholt Auto Components,OJT,2026-05-20,2026-07-01,Completed,
+PL-00462,ST2025-0036,Brindlecove Retail,OJT,2026-05-18,2026-06-29,Completed,
+PL-00463,ST2025-0039,Brindlecove Retail,OJT,2026-05-08,2026-06-19,Completed,
+PL-00464,ST2025-0043,Sorrelby Diagnostics,OJT,2026-05-11,2026-06-22,Completed,
+PL-00465,ST2025-0045,Tarnwick Healthcare,OJT,2026-05-10,2026-06-21,Completed,
+PL-00466,ST2025-0046,Brindlecove Retail,OJT,2026-05-08,2026-06-19,Completed,
+PL-00467,ST2025-0048,Tarnwick Healthcare,OJT,2026-05-24,2026-07-05,Completed,
+PL-00468,ST2025-0050,Tarnwick Healthcare,OJT,2026-05-17,2026-06-28,Completed,
+PL-00469,ST2025-0051,Cardale Business Services,OJT,2026-05-26,2026-07-07,Completed,
+PL-00470,ST2025-0052,Sorrelby Diagnostics,OJT,2026-05-16,2026-06-27,Completed,
+PL-00471,ST2025-0053,Tarnwick Healthcare,OJT,2026-05-13,2026-06-24,Completed,
+PL-00472,ST2025-0054,Quillmarsh Logistics,OJT,2026-05-10,2026-06-21,Completed,
+PL-00473,ST2025-0055,Ostrella Analytics,OJT,2026-05-06,2026-06-17,Completed,
+PL-00474,ST2025-0058,Marlowe Mart Stores,OJT,2026-05-22,2026-07-03,Completed,
+PL-00475,ST2025-0059,Cardale Business Services,OJT,2026-05-24,2026-07-05,Completed,
+PL-00476,ST2025-0060,Tarnwick Healthcare,OJT,2026-05-14,2026-06-25,Completed,
+PL-00477,ST2025-0061,Sorrelby Diagnostics,OJT,2026-05-17,2026-06-28,Completed,
+PL-00478,ST2025-0063,Drayholt Auto Components,OJT,2026-05-20,2026-07-01,Completed,
+PL-00479,ST2025-0065,Pembric Hospitality,OJT,2026-05-27,2026-07-08,Completed,
+PL-00480,ST2025-0067,Drayholt Auto Components,OJT,2026-05-21,2026-07-02,Completed,
+PL-00481,ST2025-0068,Marlowe Mart Stores,OJT,2026-05-14,2026-06-25,Completed,
+PL-00482,ST2025-0069,Ostrella Analytics,OJT,2026-05-19,2026-06-30,Completed,
+PL-00483,ST2025-0071,Velloran Motors,OJT,2026-05-10,2026-06-21,Completed,
+PL-00484,ST2025-0072,Ostrella Analytics,OJT,2026-05-28,2026-07-09,Completed,
+PL-00485,ST2025-0074,Brindlecove Retail,OJT,2026-05-26,2026-07-07,Completed,
+PL-00486,ST2025-0075,Ostrella Analytics,OJT,2026-05-19,2026-06-30,Completed,
+PL-00487,ST2025-0078,Quillmarsh Logistics,OJT,2026-05-10,2026-06-21,Completed,
+PL-00488,ST2025-0079,Quillmarsh Logistics,OJT,2026-05-10,2026-06-21,Completed,
+PL-00489,ST2025-0080,Quillmarsh Logistics,OJT,2026-05-06,2026-06-17,Completed,
+PL-00490,ST2025-0082,Quillmarsh Logistics,OJT,2026-05-27,2026-07-08,Completed,
+PL-00491,ST2025-0086,Ostrella Analytics,OJT,2026-05-31,2026-07-12,Completed,
+PL-00492,ST2025-0089,Brindlecove Retail,OJT,2026-05-18,2026-06-29,Completed,
+PL-00493,ST2025-0093,Ostrella Analytics,OJT,2026-05-21,2026-07-02,Completed,
+PL-00494,ST2025-0095,Vantrel Data Labs,OJT,2026-05-04,2026-06-15,Completed,
+PL-00495,ST2025-0096,Quillmarsh Logistics,OJT,2026-05-21,2026-07-02,Completed,
+PL-00496,ST2025-0097,Marlowe Mart Stores,OJT,2026-05-22,2026-07-03,Completed,
+PL-00497,ST2025-0098,Cardale Business Services,OJT,2026-05-18,2026-06-29,Completed,
+PL-00498,ST2025-0099,Quillmarsh Logistics,OJT,2026-05-06,2026-06-17,Completed,
+PL-00499,ST2025-0100,Quillmarsh Logistics,OJT,2026-05-22,2026-07-03,Completed,
+PL-00500,ST2025-0103,Tarnwick Healthcare,OJT,2026-05-18,2026-06-29,Completed,
+PL-00501,ST2025-0105,Brindlecove Retail,OJT,2026-05-05,2026-06-16,Completed,
+PL-00502,ST2025-0106,Brindlecove Retail,OJT,2026-05-16,2026-06-27,Completed,
+PL-00503,ST2025-0109,Velloran Motors,OJT,2026-05-15,2026-06-26,Completed,
+PL-00504,ST2025-0110,Sorrelby Diagnostics,OJT,2026-05-25,2026-07-06,Completed,
+PL-00505,ST2025-0111,Quillmarsh Logistics,OJT,2026-05-07,2026-06-18,Completed,
+PL-00506,ST2025-0112,Drayholt Auto Components,OJT,2026-05-22,2026-07-03,Completed,
+PL-00507,ST2025-0113,Sorrelby Diagnostics,OJT,2026-05-25,2026-07-06,Completed,
+PL-00508,ST2025-0114,Ostrella Analytics,OJT,2026-05-19,2026-06-30,Completed,
+PL-00509,ST2025-0115,Velloran Motors,OJT,2026-05-14,2026-06-25,Completed,
+PL-00510,ST2025-0116,Fenmoor Freight,OJT,2026-05-18,2026-06-29,Completed,
+PL-00511,ST2025-0117,Brindlecove Retail,OJT,2026-05-26,2026-07-07,Completed,
+PL-00512,ST2025-0119,Ostrella Analytics,OJT,2026-05-15,2026-06-26,Completed,
+PL-00513,ST2025-0120,Marlowe Mart Stores,OJT,2026-05-21,2026-07-02,Completed,
+PL-00514,ST2025-0121,Velloran Motors,OJT,2026-05-25,2026-07-06,Completed,
+PL-00515,ST2025-0122,Tarnwick Healthcare,OJT,2026-05-27,2026-07-08,Completed,
+PL-00516,ST2025-0123,Quillmarsh Logistics,OJT,2026-05-19,2026-06-30,Completed,
+PL-00517,ST2025-0125,Fenmoor Freight,OJT,2026-05-06,2026-06-17,Completed,
+PL-00518,ST2025-0126,Vantrel Data Labs,OJT,2026-05-11,2026-06-22,Completed,
+PL-00519,ST2025-0128,Tarnwick Healthcare,OJT,2026-05-14,2026-06-25,Completed,
+PL-00520,ST2025-0129,Pembric Hospitality,OJT,2026-06-01,2026-07-13,Completed,
+PL-00521,ST2025-0130,Quillmarsh Logistics,OJT,2026-05-16,2026-06-27,Completed,
+PL-00522,ST2025-0131,Pembric Hospitality,OJT,2026-05-25,2026-07-06,Completed,
+PL-00523,ST2025-0136,Drayholt Auto Components,OJT,2026-05-24,2026-07-05,Completed,
+PL-00524,ST2025-0137,Fenmoor Freight,OJT,2026-05-16,2026-06-27,Completed,
+PL-00525,ST2025-0139,Sorrelby Diagnostics,OJT,2026-05-26,2026-07-07,Completed,
+PL-00526,ST2025-0140,Drayholt Auto Components,OJT,2026-05-31,2026-07-12,Completed,
+PL-00527,ST2025-0141,Vantrel Data Labs,OJT,2026-05-20,2026-07-01,Completed,
+PL-00528,ST2025-0144,Marlowe Mart Stores,OJT,2026-05-14,2026-06-25,Completed,
+PL-00529,ST2025-0146,Marlowe Mart Stores,OJT,2026-05-30,2026-07-11,Completed,
+PL-00530,ST2025-0147,Quillmarsh Logistics,OJT,2026-05-25,2026-07-06,Completed,
+PL-00531,ST2025-0148,Ostrella Analytics,OJT,2026-06-01,2026-07-13,Completed,
+PL-00532,ST2025-0149,Cardale Business Services,OJT,2026-05-14,2026-06-25,Completed,
+PL-00533,ST2025-0150,Vantrel Data Labs,OJT,2026-05-10,2026-06-21,Completed,
+PL-00534,ST2025-0151,Pembric Hospitality,OJT,2026-05-10,2026-06-21,Completed,
+PL-00535,ST2025-0153,Drayholt Auto Components,OJT,2026-05-10,2026-06-21,Completed,
+PL-00536,ST2025-0156,Fenmoor Freight,OJT,2026-05-18,2026-06-29,Completed,
+PL-00537,ST2025-0157,Cardale Business Services,OJT,2026-05-07,2026-06-18,Completed,
+PL-00538,ST2025-0158,Lumora Clinics,OJT,2026-05-07,2026-06-18,Completed,
+PL-00539,ST2025-0159,Fenmoor Freight,OJT,2026-05-12,2026-06-23,Completed,
+PL-00540,ST2025-0161,Marlowe Mart Stores,OJT,2026-05-23,2026-07-04,Completed,
+PL-00541,ST2025-0163,Pembric Hospitality,OJT,2026-06-01,2026-07-13,Completed,
+PL-00542,ST2025-0164,Vantrel Data Labs,OJT,2026-05-19,2026-06-30,Completed,
+PL-00543,ST2025-0165,Velloran Motors,OJT,2026-05-25,2026-07-06,Completed,
+PL-00544,ST2025-0166,Sorrelby Diagnostics,OJT,2026-05-31,2026-07-12,Completed,
+PL-00545,ST2025-0167,Ostrella Analytics,OJT,2026-05-08,2026-06-19,Completed,
+PL-00546,ST2025-0170,Fenmoor Freight,OJT,2026-05-29,2026-07-10,Completed,
+PL-00547,ST2025-0172,Brindlecove Retail,OJT,2026-05-23,2026-07-04,Completed,
+PL-00548,ST2025-0174,Pembric Hospitality,OJT,2026-05-21,2026-07-02,Completed,
+PL-00549,ST2025-0175,Sorrelby Diagnostics,OJT,2026-05-04,2026-06-15,Completed,
+PL-00550,ST2025-0176,Brindlecove Retail,OJT,2026-05-29,2026-07-10,Completed,
+PL-00551,ST2025-0177,Brindlecove Retail,OJT,2026-05-08,2026-06-19,Completed,
+PL-00552,ST2025-0178,Drayholt Auto Components,OJT,2026-05-27,2026-07-08,Completed,
+PL-00553,ST2025-0179,Tarnwick Healthcare,OJT,2026-05-09,2026-06-20,Completed,
+PL-00554,ST2025-0180,Tarnwick Healthcare,OJT,2026-05-07,2026-06-18,Completed,
+PL-00555,ST2025-0181,Ostrella Analytics,OJT,2026-05-30,2026-07-11,Completed,
+PL-00556,ST2025-0182,Sorrelby Diagnostics,OJT,2026-05-24,2026-07-05,Completed,
+PL-00557,ST2025-0183,Brindlecove Retail,OJT,2026-05-18,2026-06-29,Completed,
+PL-00558,ST2025-0185,Marlowe Mart Stores,OJT,2026-05-27,2026-07-08,Completed,
+PL-00559,ST2025-0186,Ostrella Analytics,OJT,2026-05-25,2026-07-06,Completed,
+PL-00560,ST2025-0188,Pembric Hospitality,OJT,2026-05-23,2026-07-04,Completed,
+PL-00561,ST2025-0190,Quillmarsh Logistics,OJT,2026-05-15,2026-06-26,Completed,
+PL-00562,ST2025-0191,Sorrelby Diagnostics,OJT,2026-05-10,2026-06-21,Completed,
+PL-00563,ST2025-0195,Ostrella Analytics,OJT,2026-05-30,2026-07-11,Completed,
+PL-00564,ST2025-0197,Sorrelby Diagnostics,OJT,2026-06-01,2026-07-13,Completed,
+PL-00565,ST2025-0198,Tarnwick Healthcare,OJT,2026-05-28,2026-07-09,Completed,
+PL-00566,ST2025-0202,Drayholt Auto Components,OJT,2026-05-15,2026-06-26,Completed,
+PL-00567,ST2025-0203,Quillmarsh Logistics,OJT,2026-05-24,2026-07-05,Completed,
+PL-00568,ST2025-0204,Drayholt Auto Components,OJT,2026-05-08,2026-06-19,Completed,
+PL-00569,ST2025-0207,Pembric Hospitality,OJT,2026-05-15,2026-06-26,Completed,
+PL-00570,ST2025-0208,Vantrel Data Labs,OJT,2026-05-27,2026-07-08,Completed,
+PL-00571,ST2025-0209,Fenmoor Freight,OJT,2026-05-29,2026-07-10,Completed,
+PL-00572,ST2025-0210,Vantrel Data Labs,OJT,2026-05-14,2026-06-25,Completed,
+PL-00573,ST2025-0212,Marlowe Mart Stores,OJT,2026-05-22,2026-07-03,Completed,
+PL-00574,ST2025-0213,Brindlecove Retail,OJT,2026-05-12,2026-06-23,Completed,
+PL-00575,ST2025-0215,Marlowe Mart Stores,OJT,2026-05-05,2026-06-16,Completed,
+PL-00576,ST2025-0217,Ostrella Analytics,OJT,2026-05-12,2026-06-23,Completed,
+PL-00577,ST2025-0218,Vantrel Data Labs,OJT,2026-05-23,2026-07-04,Completed,
+PL-00578,ST2025-0219,Ostrella Analytics,OJT,2026-05-30,2026-07-11,Completed,
+PL-00579,ST2025-0221,Brindlecove Retail,OJT,2026-05-10,2026-06-21,Completed,
+PL-00580,ST2025-0222,Quillmarsh Logistics,OJT,2026-06-27,2026-05-16,Completed,
+PL-00581,ST2025-0223,Brindlecove Retail,OJT,2026-05-06,2026-06-17,Completed,
+PL-00582,ST2025-0224,Vantrel Data Labs,OJT,2026-05-10,2026-06-21,Completed,
+PL-00583,ST2025-0225,Brindlecove Retail,OJT,2026-05-31,2026-07-12,Completed,
+PL-00584,ST2025-0227,Tarnwick Healthcare,OJT,2026-06-01,2026-07-13,Completed,
+PL-00585,ST2025-0229,Drayholt Auto Components,OJT,2026-05-10,2026-06-21,Completed,
+PL-00586,ST2025-0232,Tarnwick Healthcare,OJT,2026-05-30,2026-07-11,Completed,
+PL-00587,ST2025-0235,Tarnwick Healthcare,OJT,2026-05-30,2026-07-11,Completed,
+PL-00588,ST2025-0236,Fenmoor Freight,OJT,2026-05-20,2026-07-01,Completed,
+PL-00589,ST2025-0237,Quillmarsh Logistics,OJT,2026-05-17,2026-06-28,Completed,
+PL-00590,ST2025-0238,Pembric Hospitality,OJT,2026-05-30,2026-07-11,Completed,
+PL-00591,ST2025-0239,Sorrelby Diagnostics,OJT,2026-05-28,2026-07-09,Completed,
+PL-00592,ST2025-0242,Velloran Motors,OJT,2026-05-13,2026-06-24,Completed,
+PL-00593,ST2025-0243,Velloran Motors,OJT,2026-05-19,2026-06-30,Completed,
+PL-00594,ST2025-0244,Fenmoor Freight,OJT,2026-05-06,2026-06-17,Completed,
+PL-00595,ST2025-0246,Cardale Business Services,OJT,2026-05-17,2026-06-28,Completed,
+PL-00596,ST2025-0248,Vantrel Data Labs,OJT,2026-05-05,2026-06-16,Completed,
+PL-00597,ST2025-0249,Quillmarsh Logistics,OJT,2026-05-05,2026-06-16,Completed,
+PL-00598,ST2025-0250,Velloran Motors,OJT,2026-05-23,2026-07-04,Completed,
+PL-00599,ST2025-0251,Velloran Motors,OJT,2026-05-10,2026-06-21,Completed,
+PL-00600,ST2025-0252,Ostrella Analytics,OJT,2026-05-08,2026-06-19,Completed,
+PL-00601,ST2025-0253,Velloran Motor,OJT,2026-05-07,2026-06-18,Completed,
+PL-00602,ST2025-0254,Ostrella Analytics,OJT,2026-05-04,2026-06-15,Completed,
+PL-00603,ST2025-0256,Cardale Business Services,OJT,2026-05-14,2026-06-25,Completed,
+PL-00604,ST2025-0258,Vantrel Data Labs,OJT,2026-05-21,2026-07-02,Completed,
+PL-00605,ST2025-0260,Drayholt Auto Components,OJT,2026-05-09,2026-06-20,Completed,
+PL-00606,ST2025-0262,Fenmoor Freight,OJT,2026-05-09,2026-06-20,Completed,
+PL-00607,ST2025-0263,Quillmarsh Logistics,OJT,2026-05-08,2026-06-19,Completed,
+PL-00608,ST2025-0265,Velloran Motors,OJT,2026-06-01,2026-07-13,Completed,
+PL-00609,ST2025-0266,Drayholt Auto Components,OJT,2026-05-24,2026-07-05,Completed,
+PL-00610,ST2025-0270,Sorrelby Diagnostics,OJT,2026-05-06,2026-06-17,Completed,
+PL-00611,ST2025-0272,Marlowe Mart Stores,OJT,2026-05-31,2026-07-12,Completed,
+PL-00612,ST2025-0273,Brindlecove Retail,OJT,2026-05-04,2026-06-15,Completed,
+PL-00613,ST2025-0276,Velloran Motors,OJT,2026-05-06,2026-06-17,Completed,
+PL-00614,ST2025-0278,Cardale Business Services,OJT,2026-05-25,2026-07-06,Completed,
+PL-00615,ST2025-0280,Velloran Motors,OJT,2026-05-24,2026-07-05,Completed,
+PL-00616,ST2025-0283,Quillmarsh Logistics,OJT,2026-05-12,2026-06-23,Completed,
+PL-00617,ST2025-0284,Velloran Motors,OJT,2026-05-12,2026-06-23,Completed,
+PL-00618,ST2025-0285,Brindlecove Retail,OJT,2026-05-21,2026-07-02,Completed,
+PL-00619,ST2025-0286,Cardale Business Services,OJT,2026-05-19,2026-06-30,Completed,
+PL-00620,ST2025-0288,Fenmoor Freight,OJT,2026-06-01,2026-07-13,Completed,
+PL-00621,ST2025-0289,Marlowe Mart Stores,OJT,2026-05-23,2026-07-04,Completed,
+PL-00622,ST2025-0291,Quillmarsh Logistics,OJT,2026-05-18,2026-06-29,Completed,
+PL-00623,ST2025-0292,Brindlecove Retail,OJT,2026-05-04,2026-06-15,Completed,
+PL-00624,ST2025-0294,Drayholt Auto Components,OJT,2026-06-01,2026-07-13,Completed,
+PL-00625,ST2025-0295,Marlowe Mart Stores,OJT,2026-05-10,2026-06-21,Completed,
+PL-00626,ST2025-0296,Pembric Hospitality,OJT,2026-05-08,2026-06-19,Completed,
+PL-00627,ST2025-0297,Velloran Motors,OJT,2026-05-05,2026-06-16,Completed,
+PL-00628,ST2025-0298,Marlowe Mart Stores,OJT,2026-05-19,2026-06-30,Completed,
+PL-00629,ST2025-0299,Fenmoor Freight,OJT,2026-05-09,2026-06-20,Completed,
+PL-00630,ST2025-0300,Tarnwick Healthcare,OJT,2026-05-28,2026-07-09,Completed,
+PL-00631,ST2025-0304,Vantrel Data Labs,OJT,2026-05-29,2026-07-10,Completed,
+PL-00632,ST2025-0305,Cardale Business Services,OJT,2026-05-16,2026-06-27,Completed,
+PL-00633,ST2025-0306,Fenmoor Freight,OJT,2026-05-31,2026-07-12,Completed,
+PL-00634,ST2025-0307,Brindlecove Retail,OJT,2026-05-29,2026-07-10,Completed,
+PL-00635,ST2025-0308,Marlowe Mart Stores,OJT,2026-05-05,2026-06-16,Completed,
+PL-00636,ST2025-0310,Cardale Business Services,OJT,2026-05-28,2026-07-09,Completed,
+PL-90000,ST2023-0951,Fenmoor Freight,Placement,2026-08-01,,Joined,3.1
+PL-90001,ST2023-0952,Fenmoor Freight,Placement,2026-08-01,,Joined,3.1
+PL-90002,ST2023-0953,Fenmoor Freight,Placement,2026-08-01,,Joined,3.1

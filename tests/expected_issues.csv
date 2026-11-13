@@ -1,0 +1,194 @@
+student_id,planted_issue
+ST2026-0162,Fee paid but not enrolled
+ST2026-0291,Fee paid but not enrolled
+ST2026-0256,Fee paid but not enrolled
+ST2026-0051,Fee paid but not enrolled
+ST2026-0219,Fee paid but not enrolled
+ST2026-0077,Fee paid but not enrolled
+ST2026-0160,Fee paid but not enrolled
+ST2026-0248,Fee paid but not enrolled
+ST2026-0238,Fee paid but not enrolled
+ST2026-0025,Fee paid but not enrolled
+ST2026-0060,Fee paid but not enrolled
+ST2026-0154,Fee paid but not enrolled
+ST2026-0053,Admitted but missing in ERP
+ST2026-0091,Admitted but missing in ERP
+ST2026-0085,Admitted but missing in ERP
+ST2026-0330,Admitted but missing in ERP
+ST2026-0320,Admitted but missing in ERP
+ST2026-0079,Admitted but missing in ERP
+ST2026-0164,Admitted but missing in ERP
+ST2026-0250,Admitted but missing in ERP
+ST2026-0013,Admitted but missing in ERP
+ST2026-0047,Admitted but missing in ERP
+ST2025-0401,In ERP but no admission record
+ST2025-0402,In ERP but no admission record
+ST2025-0403,In ERP but no admission record
+ST2025-0404,In ERP but no admission record
+ST2025-0405,In ERP but no admission record
+ST2025-0406,In ERP but no admission record
+ST2023-0249,Programme name spelling variant
+ST2025-0230,Programme name spelling variant
+ST2024-0118,Programme name spelling variant
+ST2024-0090,Programme name spelling variant
+ST2023-0230,Programme name spelling variant
+ST2026-0215,Programme name spelling variant
+ST2024-0205,Programme name spelling variant
+ST2026-0264,Programme name spelling variant
+ST2024-0152,Programme name spelling variant
+ST2023-0139,Programme name spelling variant
+ST2025-0167,Programme name spelling variant
+ST2026-0072,Programme name spelling variant
+ST2023-0151,Programme name spelling variant
+ST2024-0264,Programme name spelling variant
+ST2026-0159,Programme name spelling variant
+ST2024-0138,Programme name spelling variant
+ST2023-0233,Programme name spelling variant
+ST2025-0006,Programme name spelling variant
+ST2025-0249,Programme name spelling variant
+ST2026-0172,Programme name spelling variant
+ST2025-0185,Programme name spelling variant
+ST2026-0263,Programme name spelling variant
+ST2025-0260,Programme name spelling variant
+ST2026-0326,Programme name spelling variant
+ST2023-0065,Programme name spelling variant
+ST2024-0110,Programme name spelling variant
+ST2025-0024,Programme name spelling variant
+ST2024-0246,Programme name spelling variant
+ST2023-0021,Programme name spelling variant
+ST2023-0129,Programme name spelling variant
+ST2023-0209,Programme name spelling variant
+ST2026-0255,Programme name spelling variant
+ST2025-0019,Programme name spelling variant
+ST2025-0091,Programme name spelling variant
+ST2024-0174,Programme name spelling variant
+ST2026-0046,Programme name spelling variant
+ST2024-0063,Programme name spelling variant
+ST2025-0109,Programme name spelling variant
+ST2026-0189,Programme name spelling variant
+ST2023-0090,Programme name spelling variant
+ST2025-0292,Programme name spelling variant
+ST2024-0153,Programme name spelling variant
+ST2026-0216,Programme name spelling variant
+ST2025-0126,Programme name spelling variant
+ST2026-0104,Programme name spelling variant
+ST2026-0246,Programme mismatch
+ST2024-0209,Programme mismatch
+ST2025-0066,Programme mismatch
+ST2026-0183,Programme mismatch
+ST2025-0276,Programme mismatch
+ST2026-0036,Programme mismatch
+ST2023-0142,Programme mismatch
+ST2024-0116,Programme mismatch
+ST2025-0122,Date of birth mismatch
+ST2023-0259,Date of birth mismatch
+ST2025-0206,Date of birth mismatch
+ST2025-0160,Date of birth mismatch
+ST2024-0277,Date of birth mismatch
+ST2025-0041,Date of birth mismatch
+ST2025-0281,Date of birth mismatch
+ST2025-0047,Date of birth mismatch
+ST2024-0259,Date of birth mismatch
+ST2023-0031,Date of birth mismatch
+ST2024-0249,Date of birth mismatch
+ST2025-0199,Date of birth mismatch
+ST2026-0026,Date of birth mismatch
+ST2024-0199,Date of birth mismatch
+ST2026-0152,Date of birth mismatch
+ST2025-0240,Date of birth mismatch
+ST2023-0120,Date of birth mismatch
+ST2026-0176,Date of birth mismatch
+ST2025-0080,Result published but marks missing
+ST2025-0037,Result published but marks missing
+ST2024-0143,Result published but marks missing
+ST2023-0060,Result published but marks missing
+ST2023-0037,Result published but marks missing
+ST2025-0102,Result published but marks missing
+ST2024-0204,Result published but marks missing
+ST2025-0148,Result published but marks missing
+ST2023-0059,Result published but marks missing
+ST2023-0130,Result published but marks missing
+ST2024-0273,Result published but marks missing
+ST2024-0225,Result published but marks missing
+ST2023-0224,Result published but marks missing
+ST2023-0042,Result published but marks missing
+ST2023-0121,Marks out of range
+ST2025-0040,Marks out of range
+ST2023-0243,Marks out of range
+ST2025-0216,Marks out of range
+ST2026-0127,Duplicate student ID
+ST2025-0170,Duplicate student ID
+ST2025-0143,Duplicate student ID
+ST2024-0059,Duplicate student ID
+ST2023-0213,Duplicate student ID
+ST2025-0146,Duplicate student ID
+ST2025-0272,Duplicate student ID
+ST2024-0015,Duplicate student ID
+ST2026-0114,Duplicate student ID
+ST2025-0296,Duplicate student ID
+ST2024-0280,Duplicate student ID
+ST2026-0308,Duplicate student ID
+ST2024-0129,Missing mandatory field
+ST2023-0189,Missing mandatory field
+ST2024-0012,Missing mandatory field
+ST2024-0050,Missing mandatory field
+ST2023-0029,Missing mandatory field
+ST2026-0199,Missing mandatory field
+ST2025-0287,Missing mandatory field
+ST2026-0135,Missing mandatory field
+ST2025-0257,Missing mandatory field
+ST2023-0177,Missing mandatory field
+ST2024-0127,Missing mandatory field
+ST2024-0274,Missing mandatory field
+ST2026-0230,Invalid email format
+ST2025-0171,Invalid email format
+ST2023-0030,Invalid email format
+ST2025-0124,Invalid email format
+ST2024-0170,Invalid email format
+ST2025-0140,Invalid email format
+ST2026-0254,Invalid phone format
+ST2024-0109,Invalid phone format
+ST2024-0253,Invalid phone format
+ST2024-0221,Invalid phone format
+ST2026-0029,Invalid phone format
+ST2025-0108,Date of birth out of range
+ST2024-0202,Date of birth out of range
+ST2026-0314,Date of birth out of range
+ST2024-0208,Duplicate receipt
+ST2025-0269,Duplicate receipt
+ST2025-0048,Duplicate receipt
+ST2026-0192,Duplicate receipt
+ST2026-0014,Duplicate receipt
+ST2026-0221,Duplicate receipt
+ST2024-0157,Invalid student ID format
+ST2026-0191,Invalid student ID format
+ST2025-0061,Invalid student ID format
+ST2024-0167,Invalid student ID format
+ST2024-0229,Invalid student ID format
+ST2024-0135,Invalid date
+ST2026-0293,Invalid date
+ST2026-0327,Invalid date
+ST2025-0207,Invalid date
+ST2024-0091,Negative fee amount
+ST2026-0108,Negative fee amount
+ST2026-0901,Fee receipt for unknown student
+ST2026-0902,Fee receipt for unknown student
+ST2026-0903,Fee receipt for unknown student
+ST2026-0904,Fee receipt for unknown student
+ST2023-0244,Partner not in master list
+ST2024-0197,Partner not in master list
+ST2025-0158,Partner not in master list
+ST2023-0019,Partner not in master list
+ST2024-0052,Partner not in master list
+ST2023-0080,Partner not in master list
+ST2023-0124,Partner not in master list
+ST2025-0253,Partner not in master list
+ST2024-0160,Partner not in master list
+ST2023-0034,Partner not in master list
+ST2023-0152,Partner not in master list
+ST2024-0268,OJT end date before start date
+ST2024-0037,OJT end date before start date
+ST2025-0222,OJT end date before start date
+ST2023-0951,Placement record for unknown student
+ST2023-0952,Placement record for unknown student
+ST2023-0953,Placement record for unknown student

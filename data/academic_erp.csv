@@ -1,0 +1,1189 @@
+student_id,student_name,date_of_birth,programme_name,batch,current_semester,enrolment_status,exam_session,exam_status,marks_obtained,max_marks,result
+ST2025-0013,Vikram Rao,2005-09-01,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,277,600,Pass
+ST2023-0186,Vikram Sinha,2005-06-03,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,279,600,Pass
+ST2024-0014,Riya Verma,2004-03-25,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,222,600,Fail
+ST2026-0088,Harini Bose,2005-12-09,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0144,Meera Verma,2004-09-21,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,447,600,Pass
+ST2024-0287,Mitali Roy,2004-08-08,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,354,600,Pass
+ST2023-0021,Kartik Verma,2003-04-30,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,422,600,Pass
+ST2025-0145,Oindrila Pandey,2004-11-29,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,370,600,Pass
+ST2026-0206,Rupa Sharma,2006-10-13,B.Voc Healthcare Services,2026,1,Withdrawn,,Not Applicable,,,
+ST2026-0092,Rahul Patel,2007-08-13,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0204,Imran Banerjee,2004-10-20,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,258,600,Pass
+ST2026-0258,Sahil Ghosh,2005-10-01,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0166,Sanjana Patel,2006-07-30,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0251,Debashis Reddy,2004-10-15,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,331,600,Pass
+ST2026-0083,Farida Sinha,2008-06-01,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2024-0187,Ananya Sinha,2006-01-20,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,435,600,Pass
+ST2023-0236,Uday Banerjee,2004-03-22,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,284,600,Pass
+ST2024-0185,Gaurav Desai,2005-11-09,BBA Applied Skills,2024,5,Active,May-2026,Result Published,373,600,Pass
+ST2026-0259,Lokesh Verma,2006-11-05,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2024-0281,Rohan Chatterjee,2003-10-05,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,206,600,Fail
+ST2024-0032,Chirag Verma,2005-03-18,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,381,600,Pass
+ST2026-0142,Sneha Mehta,2006-05-04,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0187,Sneha Sinha,2007-03-29,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,390,600,Pass
+ST2023-0016,Mitali Rao,2003-05-19,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,304,600,Pass
+ST2025-0127,Pallavi Mukherjee,2005-01-18,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,272,600,Pass
+ST2026-0243,Nikhil Nair,2007-12-05,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2023-0235,Harini Shetty,2003-06-03,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,258,600,Pass
+ST2024-0159,Riya Sharma,2006-03-03,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,420,600,Pass
+ST2025-0065,Zoya Mishra,2006-12-07,BBA Applied Skills,2025,3,Active,May-2026,Result Published,396,600,Pass
+ST2024-0144,Yamini Verma,2006-06-08,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,468,600,Pass
+ST2024-0031,Varun Saxena,2005-11-27,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,317,600,Pass
+ST2025-0090,Zoya Mukherjee,2005-11-09,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,421,600,Pass
+ST2023-0012,Manav Pillai,2002-11-01,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,366,600,Pass
+ST2025-0170,Chirag Desai,2004-11-11,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,377,600,Pass
+ST2025-0259,Imran Mondal,2004-06-23,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,405,600,Pass
+ST2026-0116,Gaurav Mukherjee,2007-09-05,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0173,Esha Sinha,2005-09-25,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2024-0285,Harini Joshi,2006-05-12,BBA Applied Skills,2024,5,Active,May-2026,Result Published,281,600,Pass
+ST2026-0264,Omkar Sen,2007-09-18,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2025-0003,Harsh Iyer,2005-07-20,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,415,600,Pass
+ST2023-0029,Dev Sinha,2004-10-13,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,355,600,Pass
+ST2024-0230,Gaurav Sharma,2004-05-01,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,242,600,Pass
+ST2023-0135,Nikhil Saxena,2005-05-05,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,458,600,Pass
+ST2023-0221,Aarohi Shetty,2003-07-21,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,258,600,Pass
+ST2024-0179,Omkar Verma,2005-11-29,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,410,600,Pass
+ST2024-0138,Yamini Pillai,2006-05-15,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,370,600,Pass
+ST2026-0286,Farida Ali,2008-05-15,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0019,Manav Banerjee,2004-02-12,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,231,600,Fail
+ST2026-0057,Arjun Pillai,2007-12-21,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0109,Tarun Ghosh,2007-01-23,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,244,600,Pass
+ST2023-0149,Yamini Das,2002-08-24,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,294,600,Pass
+ST2026-0210,Farhan Roy,2006-02-11,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2026-0222,Nikhil Rao,2006-10-22,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0210,Sanjana Banerjee,2003-08-29,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,345,600,Pass
+ST2023-0128,Riya Chatterjee,2002-09-29,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,371,600,Pass
+ST2025-0240,Jay Desai,2005-05-12,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,339,600,Pass
+ST2025-0103,Pallavi Mishra,2005-05-26,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,257,600,Pass
+ST2024-0033,Nikhil Desai,2004-09-03,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,327,600,Pass
+ST2024-0193,Meera Verma,2004-10-01,BBA Applied Skills,2024,5,Active,May-2026,Result Published,355,600,Pass
+ST2023-0023,Kavya Desai,2004-11-02,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,269,600,Pass
+ST2026-0186,Harsh Ali,2008-07-21,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0153,Aarav Roy,2008-03-21,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2023-0216,Varun Sinha,2002-10-18,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,378,600,Pass
+ST2025-0268,Ankita Mondal,2007-05-16,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,450,600,Pass
+ST2025-0031,Oindrila Sen,2006-01-31,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,462,600,Pass
+ST2025-0043,Lavanya Pandey,2005-02-12,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,477,600,Pass
+ST2026-0003,Sahil Gupta,2007-11-21,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0230,Pallavi Kulkarni,2004-10-15,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,413,600,Pass
+ST2026-0221,Pranav Iyer,2007-09-05,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2025-0114,Farida Ali,2005-01-04,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,342,600,Pass
+ST2025-0138,Urmila Pandey,2006-01-12,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,394,600,Pass
+ST2024-0006,Ritesh Ghosh,2004-08-19,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,436,600,Pass
+ST2026-0288,Gaurav Khan,2007-03-13,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2025-0296,Ankita Sinha,2004-10-19,BBA Applied Skills,2025,3,Active,May-2026,Result Published,250,600,Pass
+ST2023-0150,Mitali Roy,2003-08-20,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,374,600,Pass
+ST2024-0124,Chirag Joshi,2005-10-06,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,445,600,Pass
+ST2026-0043,Swati Rao,2008-05-15,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0220,Uday Verma,2005-09-10,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,335,600,Pass
+ST2026-0211,Ankita Khan,2006-04-08,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0011,Aarav Kulkarni,2006-05-25,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2023-0257,Gauri Saxena,2004-02-24,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,384,600,Pass
+ST2023-0027,Kunal Banerjee,2004-06-20,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,356,600,Pass
+ST2025-0258,Harsh Rao,2005-12-15,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,322,600,Pass
+ST2025-0136,Abhik Pillai,2005-11-21,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,359,600,Pass
+ST2023-0075,Charvi Roy,2004-03-22,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,123,600,Fail
+ST2025-0108,Esha Sinha,2014-09-15,BBA Applied Skills,2025,3,Active,May-2026,Result Published,376,600,Pass
+ST2025-0272,Swati Kapoor,2007-03-23,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,363,600,Pass
+ST2023-0108,Abhik Ali,2002-09-17,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,398,600,Pass
+ST2023-0046,Mitali Patel,2003-03-14,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,205,600,Fail
+ST2026-0224,Dev Shetty,2007-04-04,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0268,Sourav Pillai,2007-06-17,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2023-0167,Meera Sinha,2004-04-11,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,342,600,Pass
+ST2026-0094,Gauri Reddy,2006-10-04,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2023-0212,Yamini Pillai,2004-07-14,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,467,600,Pass
+ST2026-0307,Chirag Roy,2006-03-24,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2026-0071,Lokesh Banerjee,2006-03-17,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0228,Imran Reddy,2004-01-08,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,368,600,Pass
+ST2026-0313,Esha Sinha,2006-05-13,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2023-0115,Gauri Ali,2005-03-13,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,278,600,Pass
+ST2025-0020,Diya Sharma,2005-05-14,BBA Applied Skills,2025,3,Active,May-2026,Result Published,331,600,Pass
+ST2025-0052,Sahil Chatterjee,2005-05-27,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,331,600,Pass
+ST2025-0085,Sneha Verma,2007-06-29,BBA Applied Skills,2025,3,Active,May-2026,Result Published,219,600,Fail
+ST2025-0117,Kartik Saxena,2004-11-02,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,274,600,Pass
+ST2023-0217,Sahil Das,2004-10-15,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,338,600,Pass
+ST2025-0070,Mitali Banerjee,2007-05-03,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,395,600,Pass
+ST2025-0106,Ritesh Shetty,2005-09-16,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,396,600,Pass
+ST2026-0127,Ritesh Mehta,2007-12-01,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0257,Nandini Das,2005-07-01,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2023-0015,Gauri Desai,2003-02-16,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,363,600,Pass
+ST2025-0061,Vaishnavi Sen,2005-07-24,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,323,600,Pass
+ST2024-0237,Bikram Das,2005-09-03,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,355,600,Pass
+ST2026-0121,Lavanya Joshi,2008-05-23,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2025-0006,Harsh Das,2005-03-19,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,282,600,Pass
+ST2026-0052,Ananya Pillai,2008-01-06,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0029,Urmila Kapoor,2005-04-10,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,360,600,Pass
+ST2023-0175,Abhik Chatterjee,2003-03-19,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,330,600,Pass
+ST2026-0251,Rahul Patel,2006-09-19,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0299,Ananya Kapoor,2005-09-17,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0062,Pranav Saxena,2004-10-16,BBA Applied Skills,2024,5,Active,May-2026,Result Published,405,600,Pass
+ST2023-0157,Meera Chatterjee,2003-09-06,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,369,600,Pass
+ST2024-0232,Gauri Das,2004-04-23,BBA Applied Skills,2024,5,Active,May-2026,Result Published,360,600,Pass
+ST2023-0188,Harini Pandey,2002-09-06,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,379,600,Pass
+ST2024-0199,Lavanya Kapoor,2005-07-21,BBA Applied Skills,2024,5,Active,May-2026,Result Published,476,600,Pass
+ST2024-0298,Rahul Pillai,2003-09-24,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,373,600,Pass
+ST2023-0081,Sourav Gupta,2002-10-24,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,201,600,Fail
+ST2026-0062,Omkar Bose,2007-09-23,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2026-0147,Zoya Pillai,2007-12-10,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2024-0245,Dev Roy,2006-06-08,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,349,600,Pass
+ST2025-0104,Harini Gupta,2007-03-30,BBA Applied Skills,2025,3,Active,May-2026,Result Published,350,600,Pass
+ST2026-0303,Sanjana Ghosh,2006-12-06,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2024-0182,Vaishnavi Kapoor,2005-09-22,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,349,600,Pass
+ST2025-0139,Abhik Khan,2004-09-24,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,384,600,Pass
+ST2024-0189,Vikram Iyer,2004-11-22,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,287,600,Pass
+ST2025-0241,Tarun Sharma,2006-03-13,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,445,600,Pass
+ST2025-0015,Jay Saxena,2005-03-22,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,439,600,Pass
+ST2025-0286,Imran Mehta,2006-12-21,BBA Applied Skills,2025,3,Active,May-2026,Result Published,470,600,Pass
+ST2025-0271,Farhan Mukherjee,2005-03-17,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,273,600,Pass
+ST2025-0099,Sourav Mukherjee,2005-03-02,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,367,600,Pass
+ST2023-0008,Omkar Saxena,2005-01-04,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,367,600,Pass
+ST2024-0157,Aarohi Sen,2004-01-06,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,360,600,Pass
+ST2025-0100,Meera Kapoor,2006-02-10,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,289,600,Pass
+ST2023-0205,Ishita Desai,2003-10-30,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,368,600,Pass
+ST2025-0245,Tarun Gupta,2006-06-19,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,457,600,Pass
+ST2023-0244,Imran Pandey,2002-10-19,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,395,600,Pass
+ST2025-0095,Nikhil Khan,2007-02-19,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,402,600,Pass
+ST2024-0242,Nikhil Pandey,2004-01-16,BBA Applied Skills,2024,5,Active,May-2026,Result Published,390,600,Pass
+ST2025-0177,Jay Patel,2006-12-06,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,329,600,Pass
+ST2025-0041,Lavanya Shetty,2004-02-08,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,292,600,Pass
+ST2026-0067,Meera Iyer,2007-03-26,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2025-0034,Kavya Shetty,2005-03-17,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,313,600,Pass
+ST2023-0248,Vaishnavi Verma,2005-01-21,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,338,600,Pass
+ST2026-0152,Sneha Khan,2008-07-06,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2026-0228,Bikram Saxena,2006-11-02,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2023-0086,Nikhil Iyer,2002-10-08,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,304,600,Pass
+ST2025-0055,Rupa Mehta,2005-08-16,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,300,600,Pass
+ST2024-0297,Ankita Ali,2005-05-12,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,372,600,Pass
+ST2025-0087,Esha Kapoor,2005-12-18,B.Voc Automotive Technology,2025,3,Withdrawn,May-2026,Not Applicable,,600,
+ST2026-0140,Meera Sinha,2007-09-07,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2023-0130,Uday Pandey,2003-04-20,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,,600,Pass
+ST2024-0153,Abhik Gupta,2006-02-01,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,314,600,Pass
+ST2023-0036,Vikram Reddy,2003-09-20,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,380,600,Pass
+ST2023-0251,Pranav Iyer,2003-12-19,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,277,600,Pass
+ST2025-0405,Harini Reddy,2006-07-17,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,446,600,Pass
+ST2024-0128,Nandini Nair,2005-08-17,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,376,600,Pass
+ST2024-0218,Rahul Mehta,2005-11-08,B.Voc Logistics & Supply Chain,2024,5,Withdrawn,May-2026,Not Applicable,,600,
+ST2023-0142,Dev Pillai,2003-07-06,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,316,600,Pass
+ST2024-0024,Jhanvi Mondal,2004-12-06,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,312,600,Pass
+ST2025-0126,Kavya Banerjee,2007-05-11,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,249,600,Pass
+ST2025-0172,Harsh Ghosh,2005-10-14,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,293,600,Pass
+ST2026-0098,Meera Reddy,2007-09-25,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2026-0297,Sahil Desai,2006-08-15,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0101,Ishita Rao,2005-08-17,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,510,600,Pass
+ST2025-0293,Yash Roy,2005-08-20,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,396,600,Pass
+ST2025-0160,Manav Roy,2007-03-25,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,341,600,Pass
+ST2025-0057,Sahil Sinha,2006-03-12,BBA Applied Skills,2025,3,Active,May-2026,Result Published,246,600,Pass
+ST2023-0131,Jay Mishra,2004-05-13,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,439,600,Pass
+ST2024-0125,Yamini Desai,2005-03-04,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,475,600,Pass
+ST2026-0230,Chirag Mehta,2007-05-09,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2023-0063,Pallavi Das,2003-07-14,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,297,600,Pass
+ST2024-0290,Nikhil Gupta,2004-11-25,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,571,600,Pass
+ST2024-0247,Pallavi Khan,2005-01-04,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,544,600,Pass
+ST2024-0149,Harsh Mishra,2005-04-05,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,456,600,Pass
+ST2024-0194,Lavanya Verma,2004-10-12,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,494,600,Pass
+ST2024-0295,Bhavna Bose,2004-10-30,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,429,600,Pass
+ST2025-0029,Manav Das,2007-02-04,BBA Applied Skills,2025,3,Active,May-2026,Result Published,390,600,Pass
+ST2025-0044,Pranav Saxena,2004-10-04,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,306,600,Pass
+ST2023-0121,Rohan Ali,2002-12-23,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,620,600,Pass
+ST2025-0209,Sahil Kulkarni,2006-03-13,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,329,600,Pass
+ST2023-0208,Oindrila Chatterjee,2003-09-10,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,324,600,Pass
+ST2026-0095,Chirag Saxena,2008-05-30,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0221,Oindrila Saxena,2006-08-22,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,306,600,Pass
+ST2025-0022,Zoya Banerjee,2007-04-03,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,460,600,Pass
+ST2023-0182,Ritesh Desai,2003-10-22,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,425,600,Pass
+ST2024-0082,Ritesh Patel,2005-06-24,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,325,600,Pass
+ST2024-0146,Omkar Bose,2005-10-21,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,486,600,Pass
+ST2024-0087,Tarun Saxena,2005-06-26,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,409,600,Pass
+ST2026-0139,Farhan Iyer,2006-06-17,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0037,Pranav Sen,2004-08-31,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,,600,Pass
+ST2025-0176,Kartik Kulkarni,2005-12-07,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,337,600,Pass
+ST2023-0105,Tanvi Sen,2005-05-12,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,208,600,Fail
+ST2026-0247,Kunal Joshi,2007-02-08,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0025,Ankita Chatterjee,2005-04-08,B.Sc Data Analytics,2025,3,Withdrawn,May-2026,Not Applicable,,600,
+ST2024-0155,Yamini Das,2004-01-10,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,465,600,Pass
+ST2023-0160,Uday Pandey,2002-10-29,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,297,600,Pass
+ST2023-0074,Jay Patel,2002-11-10,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,412,600,Pass
+ST2025-0032,Harsh Khan,2004-12-21,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,419,600,Pass
+ST2026-0209,Omkar Chatterjee,2006-07-23,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0114,Mitali Gupta,2006-07-16,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2024-0010,Mitali Desai,2003-08-26,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,348,600,Pass
+ST2026-0027,Abhik Roy,2006-05-13,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2023-0152,Uday Mukherjee,2005-06-03,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,353,600,Pass
+ST2024-0050,Omkar Reddy,2006-01-29,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,316,600,Pass
+ST2023-0211,Arjun Roy,2005-04-13,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,366,600,Pass
+ST2026-0327,Jay Chatterjee,2008-05-02,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2026-0141,Vaishnavi Verma,2007-07-01,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2026-0277,Harini Ghosh,2008-02-13,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0140,Kavya Iyer,2004-06-04,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,424,600,Pass
+ST2026-0155,Abhik Das,2005-11-21,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2024-0177,Dev Reddy,2004-10-31,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,315,600,Pass
+ST2025-0201,Ananya Patel,2006-08-26,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,278,600,Pass
+ST2026-0325,Tarun Reddy,2005-11-23,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0035,Sourav Khan,2006-10-17,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0235,Varun Banerjee,2005-10-24,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0196,Dev Ghosh,2004-04-21,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,320,600,Pass
+ST2025-0404,Tanvi Saxena,2006-01-14,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,289,600,Pass
+ST2023-0242,Jhanvi Nair,2003-10-25,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,368,600,Pass
+ST2026-0227,Ankita Roy,2005-09-11,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2023-0073,Diya Sen,2004-06-08,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,415,600,Pass
+ST2025-0192,Jay Shetty,2006-01-02,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,372,600,Pass
+ST2025-0186,Vikram Khan,2005-04-06,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,420,600,Pass
+ST2024-0048,Yash Mukherjee,2004-08-27,BBA Applied Skills,2024,5,Active,May-2026,Result Published,461,600,Pass
+ST2025-0207,Pranav Gupta,2004-10-23,BBA Applied Skills,2025,3,Active,May-2026,Result Published,381,600,Pass
+ST2026-0110,Kunal Sharma,2006-07-30,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0198,Rohan Sen,2002-11-25,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,254,600,Pass
+ST2024-0065,Uday Kulkarni,2003-11-13,BBA Applied Skills,2024,5,Active,May-2026,Result Published,414,600,Pass
+ST2023-0003,Chirag Pillai,2003-02-11,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,413,600,Pass
+ST2024-0107,Yash Gupta,2004-02-07,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,267,600,Pass
+ST2025-0171,Farida Sen,2006-10-18,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,445,600,Pass
+ST2025-0118,Zubin Banerjee,2005-05-02,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,354,600,Pass
+ST2026-0087,Lokesh Sinha,2008-03-09,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0239,Jay Roy,2004-11-05,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,425,600,Pass
+ST2026-0245,Ishita Kulkarni,2006-03-14,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0213,Zubin Bose,2006-02-06,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,236,600,Fail
+ST2023-0044,Manav Shetty,2004-02-22,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,354,600,Pass
+ST2024-0007,Tarun Patel,2005-09-29,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,339,600,Pass
+ST2023-0050,Bhavna Sen,2003-06-03,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,328,600,Pass
+ST2026-0203,Rahul Banerjee,2008-03-24,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0121,Ankita Verma,2005-07-11,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,265,600,Pass
+ST2023-0219,Mitali Mukherjee,2005-06-21,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,374,600,Pass
+ST2025-0144,Arjun Mishra,2007-03-28,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,380,600,Pass
+ST2026-0276,Debashis Pandey,2007-08-30,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2023-0129,Zoya Banerjee,2005-05-12,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,498,600,Pass
+ST2026-0014,Mitali Bose,2006-03-20,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2024-0020,Urmila Saxena,2004-08-06,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,175,600,Fail
+ST2023-0201,Sahil Desai,2002-11-25,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,262,600,Pass
+ST2023-0134,Yamini Mondal,2002-12-15,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,407,600,Pass
+ST2024-0103,Jay Ali,2003-09-15,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,222,600,Fail
+ST2026-0300,Meera Pillai,2007-03-08,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0117,Jhanvi Nair,2006-11-09,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2026-0137,Vikram Patel,2007-02-26,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0179,Ritesh Mondal,2005-04-26,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,510,600,Pass
+ST2026-0265,Sourav Pillai,2007-09-08,B.Voc Healthcare Services,2026,1,Withdrawn,,Not Applicable,,,
+ST2026-0103,Gaurav Iyer,2008-02-23,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0312,Tarun Sen,2007-01-12,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2024-0139,Chirag Kulkarni,2005-12-31,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,455,600,Pass
+ST2024-0265,Manav Mehta,2004-08-30,BBA Applied Skills,2024,5,Active,May-2026,Result Published,402,600,Pass
+ST2026-0196,Ritesh Saxena,2008-03-28,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0137,Kunal Gupta,2006-04-07,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,289,600,Pass
+ST2024-0251,Debashis Shetty,2006-03-21,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,367,600,Pass
+ST2024-0016,Vaishnavi Shetty,2005-01-03,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,369,600,Pass
+ST2024-0158,Esha Chatterjee,2006-05-22,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,218,600,Fail
+ST2026-0249,Kartik Pandey,2007-11-06,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0093,Nikhil Das,2004-01-12,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,225,600,Fail
+ST2024-0013,Ishita Gupta,2005-01-14,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,372,600,Pass
+ST2024-0271,Zoya Sharma,2004-07-27,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,438,600,Pass
+ST2026-0148,Jay Reddy,2008-05-16,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0091,Sahil Sen,2003-09-21,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,437,600,Pass
+ST2023-0252,Gauri Patel,2005-02-13,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,230,600,Fail
+ST2024-0059,Sahil Nair,2005-06-15,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,458,600,Pass
+ST2026-0319,Meera Reddy,2007-03-31,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0220,Tarun Banerjee,2005-10-12,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0185,Kartik Khan,2006-07-07,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2023-0220,Debashis Joshi,2005-08-13,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,394,600,Pass
+ST2025-0210,Uday Shetty,2006-11-25,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,272,600,Pass
+ST2024-0142,Nikhil Gupta,2004-05-01,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,409,600,Pass
+ST2026-0301,Diya Bose,2007-12-16,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0190,Debashis Kulkarni,2004-10-10,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,321,600,Pass
+ST2026-0123,Abhik Ghosh,2007-08-02,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0159,Riya Reddy,2007-02-16,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2023-0191,Pallavi Pillai,2004-11-23,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,269,600,Pass
+ST2026-0022,Abhik Kulkarni,2007-04-12,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0225,Manav Banerjee,2005-09-01,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,362,600,Pass
+ST2025-0273,Tarun Mondal,2004-10-20,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,361,600,Pass
+ST2026-0165,Debashis Sharma,2007-12-04,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2024-0184,Ananya Khan,2003-10-31,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,373,600,Pass
+ST2025-0033,Kartik Sharma,2005-08-01,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,246,600,Pass
+ST2025-0125,Abhik Gupta,2005-06-26,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,321,600,Pass
+ST2023-0040,Kartik Shetty,2005-06-27,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,222,600,Fail
+ST2025-0157,Abhik Sinha,2007-03-26,BBA Applied Skills,2025,3,Active,May-2026,Result Published,310,600,Pass
+ST2023-0227,Zoya Joshi,2004-05-07,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,383,600,Pass
+ST2023-0068,Dev Sharma,2003-07-15,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,185,600,Fail
+ST2024-0071,Dev Khan,2003-08-31,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,466,600,Pass
+ST2025-0301,Oindrila Kapoor,2005-02-22,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,463,600,Pass
+ST2024-0212,Rahul Desai,2006-02-20,B.Voc Healthcare Services,2024,5,Withdrawn,May-2026,Not Applicable,,600,
+ST2025-0154,Charvi Verma,2004-11-06,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,323,600,Pass
+ST2023-0079,Riya Kulkarni,2003-02-13,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,339,600,Pass
+ST2023-0098,Imran Shetty,2005-05-30,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,420,600,Pass
+ST2025-0217,Uday Gupta,2006-09-25,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,449,600,Pass
+ST2023-0214,Nikhil Sharma,2004-04-11,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,362,600,Pass
+ST2025-0195,Payal Banerjee,2004-11-30,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,199,600,Fail
+ST2025-0174,Mitali Joshi,2007-06-23,BBA Applied Skills,2025,3,Active,May-2026,Result Published,357,600,Pass
+ST2024-0040,Yamini Mehta,2003-11-28,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,296,600,Pass
+ST2026-0200,Arjun Roy,2006-11-10,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2025-0261,Manav Mehta,2006-06-11,B.Voc Healthcare Services,2025,3,Withdrawn,May-2026,Not Applicable,,600,
+ST2026-0236,Sanjana Banerjee,2007-02-01,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2026-0150,Jhanvi Roy,2006-04-27,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0218,Farida Roy,2008-02-18,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2024-0061,Esha Roy,2006-01-04,BBA Applied Skills,2024,5,Active,May-2026,Result Published,415,600,Pass
+ST2025-0282,Charvi Desai,2006-11-12,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,478,600,Pass
+ST2025-0094,Omkar Saxena,2004-12-14,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,289,600,Pass
+ST2024-0045,Sahil Shetty,2004-07-09,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,365,600,Pass
+ST2024-0186,Zubin Kapoor,2005-03-31,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,396,600,Pass
+ST2025-0228,Aarohi Mondal,2004-11-05,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,375,600,Pass
+ST2023-0083,Dev Pandey,2004-12-15,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,507,600,Pass
+ST2023-0056,Nandini Reddy,2003-11-23,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,394,600,Pass
+ST2024-0109,Pranav Ghosh,2004-07-17,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,399,600,Pass
+ST2026-0082,Chirag Sen,2006-10-25,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2024-0101,Swati Saxena,2006-06-22,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,379,600,Pass
+ST2023-0034,Aarohi Mehta,2004-04-22,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,235,600,Fail
+ST2025-0265,Dev Khan,2006-09-13,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,418,600,Pass
+ST2024-0198,Swati Sinha,2004-09-07,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,384,600,Pass
+ST2024-0204,Farida Sinha,2004-10-22,BBA Applied Skills,2024,5,Active,May-2026,Result Published,,600,Pass
+ST2023-0070,Tarun Mehta,2004-11-05,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,333,600,Pass
+ST2026-0042,Sahil Nair,2006-01-05,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2026-0170,Omkar Shetty,2006-09-25,B.Voc Retail Management,2026,1,Withdrawn,,Not Applicable,,,
+ST2026-0038,Sahil Ali,2007-06-24,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2026-0075,Yash Mondal,2006-05-14,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2026-0215,Yash Rao,2008-05-11,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0098,Bikram Joshi,2005-02-11,BBA Applied Skills,2025,3,Active,May-2026,Result Published,233,600,Fail
+ST2025-0275,Aarav Reddy,2005-09-24,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,229,600,Fail
+ST2023-0176,Varun Khan,2003-11-12,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,320,600,Pass
+ST2026-0315,Aarohi Kulkarni,2006-12-31,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2023-0165,Pallavi Iyer,2005-03-02,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,386,600,Pass
+ST2025-0276,Rohan Verma,2005-06-10,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,397,600,Pass
+ST2025-0080,Nandini Sen,2005-03-02,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,,600,Pass
+ST2023-0030,Tanvi Chatterjee,2002-07-10,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,477,600,Pass
+ST2023-0249,Vaishnavi Sinha,2003-03-26,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,352,600,Pass
+ST2026-0266,Charvi Banerjee,2005-11-23,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2023-0210,Ritesh Pillai,2004-08-14,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,384,600,Pass
+ST2025-0164,Kartik Saxena,2005-07-27,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,453,600,Pass
+ST2024-0259,Sourav Desai,2005-07-21,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,220,600,Fail
+ST2026-0006,Rupa Ali,2007-04-12,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0285,Pranav Pillai,2005-07-22,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,397,600,Pass
+ST2023-0223,Aarav Mondal,2003-08-26,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,423,600,Pass
+ST2024-0206,Riya Mehta,2006-06-15,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,311,600,Pass
+ST2026-0017,Charvi Chatterjee,2007-02-07,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0049,Debashis Sinha,2005-04-03,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,421,600,Pass
+ST2025-0053,Nikhil Reddy,2005-12-16,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,359,600,Pass
+ST2023-0189,Tarun Reddy,2003-12-25,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,373,600,Pass
+ST2025-0243,Ishita Gupta,2006-09-09,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,316,600,Pass
+ST2024-0051,Farida Ghosh,2004-05-26,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,341,600,Pass
+ST2026-0133,Payal Mishra,2006-11-30,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2026-0308,Sahil Sen,2008-05-24,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0222,Nandini Sinha,2002-11-09,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,349,600,Pass
+ST2025-0059,Vikram Banerjee,2005-06-08,BBA Applied Skills,2025,3,Active,May-2026,Result Published,273,600,Pass
+ST2024-0147,Sahil Ali,2004-08-26,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,346,600,Pass
+ST2026-0280,Swati Kulkarni,2006-05-19,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0168,Yash Das,2005-01-09,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,283,600,Pass
+ST2023-0025,Harsh Kulkarni,2004-11-27,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,492,600,Pass
+ST2025-0158,Meera Iyer,2005-02-07,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,386,600,Pass
+ST2025-0121,Rohan Gupta,2005-05-31,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,317,600,Pass
+ST2024-0243,Yash Kulkarni,2006-08-12,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,411,600,Pass
+ST2026-0028,Pallavi Nair,2007-11-11,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0011,Vaishnavi Das,2004-06-01,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,194,600,Fail
+ST2026-0111,Pranav Kapoor,2008-01-09,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2024-0299,Oindrila Khan,2004-06-30,BBA Applied Skills,2024,5,Active,May-2026,Result Published,346,600,Pass
+ST2026-0271,Vaishnavi Mukherjee,2007-12-17,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2024-0088,Lavanya Joshi,2005-11-26,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,353,600,Pass
+ST2026-0205,Pallavi Desai,2006-03-12,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2023-0054,Zubin Rao,2003-11-08,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,427,600,Pass
+ST2025-0284,Urmila Kulkarni,2007-03-12,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,309,600,Pass
+ST2025-0279,Kartik Sinha,2004-10-19,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,399,600,Pass
+ST2023-0238,Ishita Rao,2005-06-15,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,291,600,Pass
+ST2026-0285,Imran Reddy,2008-01-03,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0189,Jay Chatterjee,2006-08-23,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0061,Pranav Banerjee,2006-04-19,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0085,Meera Das,2006-05-20,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,447,600,Pass
+ST2023-0058,Kavya Desai,2004-06-21,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,256,600,Pass
+ST2024-0215,Sourav Gupta,2005-10-12,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,366,600,Pass
+ST2026-0157,Sourav Kapoor,2007-08-13,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0058,Zubin Mukherjee,2006-05-19,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,284,600,Pass
+ST2025-0007,Aarohi Kapoor,2006-01-03,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,385,600,Pass
+ST2024-0123,Oindrila Ghosh,2005-12-19,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,370,600,Pass
+ST2023-0200,Gaurav Joshi,2004-06-15,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,277,600,Pass
+ST2026-0124,Rohan Chatterjee,2007-09-09,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0198,Bhavna Mishra,2007-10-31,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2024-0113,Farhan Reddy,2004-10-06,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,365,600,Pass
+ST2023-0231,Rohan Das,2004-06-05,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,372,600,Pass
+ST2026-0144,Dev Iyer,2007-03-19,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0039,Kunal Rao,2004-09-06,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,304,600,Pass
+ST2023-0154,Dev Mishra,2003-10-31,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,397,600,Pass
+ST2024-0022,Riya Sharma,2004-03-17,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,312,600,Pass
+ST2025-0175,Pranav Sinha,2007-05-20,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,317,600,Pass
+ST2024-0268,Tanvi Bose,2004-07-05,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,321,600,Pass
+ST2026-0107,Nandini Mishra,2006-10-04,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0036,Yamini Verma,2008-03-24,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0269,Tanvi Khan,2005-08-31,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,405,600,Pass
+ST2024-0073,Ananya Kapoor,2004-12-05,BBA Applied Skills,2024,5,Active,May-2026,Result Published,414,600,Pass
+ST2025-0002,Lavanya Pandey,2007-02-11,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,378,600,Pass
+ST2026-0253,Lavanya Patel,2006-07-14,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0166,Tanvi Banerjee,2005-03-12,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,327,600,Pass
+ST2026-0201,Yash Pandey,2008-06-08,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0026,Ritesh Gupta,2006-03-15,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,318,600,Pass
+ST2026-0145,Manav Mishra,2007-02-11,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0096,Zoya Ali,2004-10-20,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,368,600,Pass
+ST2025-0024,Tarun Sinha,2007-06-22,BBA Applied Skills,2025,3,Active,May-2026,Result Published,382,600,Pass
+ST2023-0114,Diya Iyer,2002-08-20,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,292,600,Pass
+ST2025-0155,Charvi Iyer,2006-09-09,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,420,600,Pass
+ST2024-0015,Aarohi Mishra,2005-10-19,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,170,600,Fail
+ST2026-0204,Dev Verma,2006-07-06,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2025-0001,Swati Khan,2006-04-14,BBA Applied Skills,2025,3,Active,May-2026,Result Published,483,600,Pass
+ST2025-0252,Swati Khan,2005-08-03,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,304,600,Pass
+ST2023-0084,Sahil Reddy,2005-04-17,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,530,600,Pass
+ST2024-0150,Kartik Pillai,2006-07-21,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,334,600,Pass
+ST2026-0172,Varun Mishra,2007-01-11,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2025-0220,Ananya Roy,2004-09-01,BBA Applied Skills,2025,3,Active,May-2026,Result Published,268,600,Pass
+ST2023-0099,Sahil Roy,2004-07-08,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,433,600,Pass
+ST2023-0184,Diya Mehta,2003-02-04,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,321,600,Pass
+ST2026-0294,Lavanya Sinha,2005-11-08,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2024-0084,Gaurav Sinha,2006-04-21,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,471,600,Pass
+ST2024-0090,Tarun Rao,2003-10-06,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,400,600,Pass
+ST2026-0174,Nandini Roy,2005-10-22,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2024-0246,Manav Chatterjee,2006-01-19,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,508,600,Pass
+ST2024-0256,Rahul Reddy,2005-11-11,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,221,600,Fail
+ST2025-0274,Sanjana Shetty,2006-01-15,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,467,600,Pass
+ST2023-0161,Aarav Joshi,2003-10-08,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,462,600,Pass
+ST2025-0027,Abhik Ghosh,2004-12-30,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,242,600,Pass
+ST2023-0123,Yamini Sinha,2003-04-16,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,363,600,Pass
+ST2026-0099,Sahil Ghosh,2007-04-14,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2026-0191,Kartik Verma,2005-11-12,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2025-0299,Bhavna Saxena,2005-07-05,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,407,600,Pass
+ST2023-0013,Ananya Ghosh,2004-10-30,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,344,600,Pass
+ST2023-0195,Manav Ghosh,2004-03-19,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,454,600,Pass
+ST2023-0055,Dev Iyer,2004-05-09,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,218,600,Fail
+ST2023-0001,Aarohi Mondal,2004-02-13,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,313,600,Pass
+ST2024-0170,Meera Mondal,2006-05-17,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,457,600,Pass
+ST2023-0125,Vikram Mukherjee,2002-12-15,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,451,600,Pass
+ST2023-0209,Aarohi Banerjee,2004-11-18,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,272,600,Pass
+ST2026-0086,Nandini Pillai,2006-07-24,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2024-0102,Tanvi Kulkarni,2003-10-07,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,188,600,Fail
+ST2025-0135,Ishita Reddy,2007-03-23,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,343,600,Pass
+ST2025-0089,Pranav Sen,2006-03-14,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,381,600,Pass
+ST2025-0208,Yamini Kapoor,2006-04-01,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,332,600,Pass
+ST2024-0036,Aarohi Iyer,2004-08-19,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,372,600,Pass
+ST2023-0151,Riya Sinha,2004-09-02,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,491,600,Pass
+ST2023-0118,Debashis Ghosh,2003-07-02,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,500,600,Pass
+ST2026-0102,Sanjana Saxena,2006-11-21,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2023-0065,Kartik Chatterjee,2005-06-03,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,323,600,Pass
+ST2024-0068,Ankita Kapoor,2003-12-19,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,237,600,Fail
+ST2024-0257,Bikram Joshi,2003-09-25,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,291,600,Pass
+ST2024-0114,Dev Kapoor,2004-05-22,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,487,600,Pass
+ST2024-0129,Bhavna Joshi,2003-09-11,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,396,600,Pass
+ST2025-0062,Aarav Iyer,2005-08-06,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,341,600,Pass
+ST2023-0193,Oindrila Pandey,2003-10-22,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,240,600,Pass
+ST2025-0005,Vikram Sinha,2007-03-27,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,243,600,Pass
+ST2025-0178,Oindrila Kulkarni,2004-10-26,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,387,600,Pass
+ST2025-0132,Vaishnavi Verma,2007-01-13,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,430,600,Pass
+ST2023-0253,Vaishnavi Mukherjee,2004-04-05,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,348,600,Pass
+ST2023-0126,Swati Sen,2004-03-29,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,473,600,Pass
+ST2023-0103,Esha Sinha,2005-07-25,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,260,600,Pass
+ST2025-0102,Yamini Sinha,2007-07-02,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,,600,Pass
+ST2024-0038,Ananya Mukherjee,2003-10-04,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,418,600,Pass
+ST2024-0126,Esha Mukherjee,2004-03-21,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,296,600,Pass
+ST2025-0011,Yamini Mishra,2005-05-11,BBA Applied Skills,2025,3,Active,May-2026,Result Published,179,600,Fail
+ST2024-0105,Riya Das,2004-09-08,BBA Applied Skills,2024,5,Active,May-2026,Result Published,347,600,Pass
+ST2025-0008,Varun Mishra,2006-03-08,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,279,600,Pass
+ST2024-0214,Payal Ghosh,2006-06-19,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,436,600,Pass
+ST2023-0094,Sourav Kulkarni,2005-08-04,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,292,600,Pass
+ST2024-0080,Bikram Mondal,2004-08-15,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,377,600,Pass
+ST2023-0028,Bikram Ghosh,2004-07-26,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,497,600,Pass
+ST2025-0116,Imran Das,2006-03-03,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,416,600,Pass
+ST2026-0281,Jhanvi Banerjee,2008-06-11,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2023-0064,Yamini Sen,2005-04-09,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,403,600,Pass
+ST2023-0122,Sourav Patel,2004-05-05,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,208,600,Fail
+ST2026-0321,Pallavi Chatterjee,2007-04-29,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0098,Vaishnavi Gupta,2005-04-24,BBA Applied Skills,2024,5,Active,May-2026,Result Published,314,600,Pass
+ST2024-0258,Meera Mishra,2004-02-28,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,452,600,Pass
+ST2024-0172,Kunal Bose,2004-07-12,BBA Applied Skills,2024,5,Active,May-2026,Result Published,308,600,Pass
+ST2026-0195,Mitali Roy,2007-12-03,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0226,Vaishnavi Bose,2004-07-04,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,409,600,Pass
+ST2024-0131,Chirag Mehta,2003-12-06,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,279,600,Pass
+ST2026-0034,Rupa Reddy,2006-07-14,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2024-0270,Yash Sen,2005-11-03,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,373,600,Pass
+ST2025-0173,Sneha Kulkarni,2006-08-04,BBA Applied Skills,2025,3,Active,May-2026,Result Published,328,600,Pass
+ST2023-0233,Arjun Das,2005-05-07,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,371,600,Pass
+ST2023-0080,Gaurav Pandey,2003-08-02,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,401,600,Pass
+ST2024-0167,Farida Desai,2003-07-06,BBA Applied Skills,2024,5,Active,May-2026,Result Published,372,600,Pass
+ST2024-0227,Jay Sen,2005-07-04,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,379,600,Pass
+ST2026-0050,Ritesh Reddy,2006-11-20,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2024-0112,Zubin Mukherjee,2005-06-14,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,298,600,Pass
+ST2026-0068,Abhik Sinha,2007-07-03,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0069,Varun Bose,2003-12-02,BBA Applied Skills,2024,5,Active,May-2026,Result Published,189,600,Fail
+ST2025-0254,Aarav Das,2005-11-27,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,374,600,Pass
+ST2023-0232,Sahil Sen,2003-11-07,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,334,600,Pass
+ST2024-0081,Imran Patel,2004-12-13,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,184,600,Fail
+ST2026-0261,Meera Sen,2008-03-10,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0202,Chirag Sen,2006-10-24,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0011,Rupa Kapoor,2005-02-21,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,390,600,Pass
+ST2023-0243,Uday Ali,2004-09-14,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,637,600,Pass
+ST2025-0191,Meera Ali,2005-10-24,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,310,600,Pass
+ST2026-0262,Oindrila Pillai,2008-04-04,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0270,Aarav Chatterjee,2005-10-11,B.Voc Automotive Technology,2026,1,Withdrawn,,Not Applicable,,,
+ST2025-0045,Kavya Das,2006-03-31,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,389,600,Pass
+ST2024-0162,Esha Patel,2005-12-30,B.Voc Automotive Technology,2024,5,Withdrawn,May-2026,Not Applicable,,600,
+ST2023-0141,Urmila Nair,2003-03-21,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,395,600,Pass
+ST2026-0239,Mitali Mukherjee,2006-08-01,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2024-0219,Omkar Mehta,2005-08-07,BBA Applied Skills,2024,5,Active,May-2026,Result Published,389,600,Pass
+ST2024-0108,Rupa Kapoor,2004-08-07,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,372,600,Pass
+ST2024-0294,Ishita Sinha,2004-04-20,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,365,600,Pass
+ST2026-0046,Varun Reddy,2008-04-03,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0136,Yamini Nair,2005-02-16,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,418,600,Pass
+ST2024-0300,Debashis Kapoor,2005-11-06,BBA Applied Skills,2024,5,Active,May-2026,Result Published,369,600,Pass
+ST2023-0245,Bikram Mehta,2004-08-21,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,452,600,Pass
+ST2025-0229,Pallavi Nair,2005-07-06,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,197,600,Fail
+ST2023-0172,Debashis Sinha,2004-03-21,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,197,600,Fail
+ST2025-0051,Omkar Sinha,2007-05-19,BBA Applied Skills,2025,3,Active,May-2026,Result Published,267,600,Pass
+ST2026-0242,Debashis Pandey,2006-09-19,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0307,Gaurav Roy,2005-08-11,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,207,600,Fail
+ST2024-0183,Ritesh Banerjee,2005-06-21,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,313,600,Pass
+ST2026-0234,Imran Das,2007-02-17,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2024-0056,Rahul Patel,2006-02-11,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,292,600,Pass
+ST2024-0226,Vaishnavi Verma,2004-12-19,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,280,600,Pass
+ST2026-0109,Imran Khan,2008-04-04,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0310,Aarohi Mukherjee,2007-04-28,BBA Applied Skills,2025,3,Active,May-2026,Result Published,350,600,Pass
+ST2023-0049,Omkar Shetty,2003-01-07,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,398,600,Pass
+ST2026-0054,Payal Joshi,2007-11-10,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2023-0194,Chirag Shetty,2003-08-14,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,314,600,Pass
+ST2024-0248,Bikram Bose,2004-05-18,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,351,600,Pass
+ST2024-0286,Vikram Sharma,2005-07-29,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,413,600,Pass
+ST2023-0169,Farida Ghosh,2005-02-05,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,393,600,Pass
+ST2025-0123,Arjun Sharma,2005-06-04,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,324,600,Pass
+ST2024-0261,Yamini Reddy,2006-01-09,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,393,600,Pass
+ST2025-0199,Harsh Pandey,2005-12-14,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,417,600,Pass
+ST2026-0194,Dev Gupta,2006-04-05,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2023-0237,Debashis Ghosh,2004-12-22,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,428,600,Pass
+ST2024-0143,Ananya Das,2006-02-27,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,,600,Pass
+ST2024-0118,Zubin Reddy,2006-01-21,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,312,600,Pass
+ST2026-0289,Esha Bose,2006-12-08,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2025-0105,Rohan Khan,2004-12-15,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,382,600,Pass
+ST2025-0075,Swati Ghosh,2006-05-18,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,360,600,Pass
+ST2025-0060,Yash Pillai,2006-03-07,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,409,600,Pass
+ST2024-0049,Farida Desai,2003-10-23,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,434,600,Pass
+ST2024-0110,Kartik Chatterjee,2005-08-21,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,328,600,Pass
+ST2026-0089,Yash Mishra,2007-08-08,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2023-0133,Yamini Sen,2003-07-26,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,321,600,Pass
+ST2023-0066,Tarun Shetty,2002-09-29,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,452,600,Pass
+ST2024-0115,Diya Khan,2004-11-10,BBA Applied Skills,2024,5,Active,May-2026,Result Published,498,600,Pass
+ST2024-0154,Rahul Saxena,2003-11-02,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,332,600,Pass
+ST2023-0241,Esha Mondal,2005-05-16,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,395,600,Pass
+ST2024-0161,Rupa Patel,2004-01-22,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,426,600,Pass
+ST2024-0093,Harsh Desai,2005-04-10,BBA Applied Skills,2024,5,Active,May-2026,Result Published,517,600,Pass
+ST2025-0056,Riya Mondal,2006-10-10,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,444,600,Pass
+ST2026-0021,Jay Reddy,2007-12-23,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0008,Tanvi Verma,2004-11-25,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,248,600,Pass
+ST2025-0256,Varun Sharma,2005-09-03,BBA Applied Skills,2025,3,Active,May-2026,Result Published,406,600,Pass
+ST2025-0084,Diya Desai,2005-05-30,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,300,600,Pass
+ST2026-0026,Bikram Khan,2006-05-02,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2026-0037,Gauri Bose,2005-07-30,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0047,Gauri Das,2006-08-03,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,428,600,Pass
+ST2023-0014,Aarav Desai,2003-11-20,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,457,600,Pass
+ST2023-0187,Sourav Desai,2002-08-04,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,191,600,Fail
+ST2023-0039,Rupa Khan,2004-10-12,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,338,600,Pass
+ST2026-0114,Mitali Gupta,2006-07-16,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0173,Kartik Verma,2003-08-12,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,443,600,Pass
+ST2025-0122,Omkar Chatterjee,2007-11-28,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,410,600,Pass
+ST2024-0255,Payal Pillai,2005-05-09,BBA Applied Skills,2024,5,Active,May-2026,Result Published,229,600,Fail
+ST2026-0246,Sneha Verma,2007-03-20,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2023-0224,Tanvi Sharma,2003-02-06,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,,600,Pass
+ST2023-0155,Urmila Ali,2003-09-25,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,366,600,Pass
+ST2024-0021,Chirag Reddy,2005-03-22,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,342,600,Pass
+ST2023-0204,Mitali Saxena,2003-02-23,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,221,600,Fail
+ST2023-0120,Nandini Bose,2003-12-25,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,375,600,Pass
+ST2026-0065,Zubin Khan,2006-12-29,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0100,Ananya Iyer,2004-09-26,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,417,600,Pass
+ST2026-0005,Lavanya Khan,2007-05-29,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2026-0048,Gauri Rao,2008-04-30,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0089,Yash Shetty,2005-09-18,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,256,600,Pass
+ST2023-0026,Harsh Nair,2005-05-28,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,363,600,Pass
+ST2023-0158,Manav Khan,2004-01-23,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,361,600,Pass
+ST2024-0092,Manav Banerjee,2004-06-05,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,408,600,Pass
+ST2025-0128,Ananya Nair,2004-10-31,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,280,600,Pass
+ST2025-0096,Sahil Mehta,2006-06-26,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,322,600,Pass
+ST2026-0163,Harini Kapoor,2005-09-28,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2026-0049,Payal Sinha,2006-11-16,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0131,Rohan Reddy,2006-12-18,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2023-0117,Payal Iyer,2003-04-11,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,467,600,Pass
+ST2025-0401,Aarohi Rao,2006-04-09,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,394,600,Pass
+ST2025-0226,Bhavna Saxena,2006-10-27,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,436,600,Pass
+ST2025-0277,Pallavi Nair,2007-08-15,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,548,600,Pass
+ST2024-0064,Charvi Rao,2005-07-21,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,313,600,Pass
+ST2026-0010,Chirag Khan,2006-08-23,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0047,Harini Verma,2006-06-01,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,421,600,Pass
+ST2025-0205,Vikram Chatterjee,2005-10-15,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,393,600,Pass
+ST2024-0152,Uday Sen,2005-08-03,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,444,600,Pass
+ST2023-0078,Ankita Joshi,2002-10-22,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,365,600,Pass
+ST2025-0249,Uday Bose,2006-08-06,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,407,600,Pass
+ST2025-0235,Meera Verma,2006-03-31,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,506,600,Pass
+ST2024-0202,Tarun Khan,2014-04-15,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,339,600,Pass
+ST2024-0083,Urmila Khan,2003-09-13,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,260,600,Pass
+ST2026-0096,Farida Mukherjee,2005-08-10,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0208,Vikram Bose,2008-05-23,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2024-0057,Pallavi Patel,2004-04-29,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,212,600,Fail
+ST2026-0080,Bhavna Desai,2006-09-22,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2024-0003,Jhanvi Gupta,2005-10-12,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,409,600,Pass
+ST2026-0081,Esha Patel,2006-11-18,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2025-0134,Yamini Banerjee,2006-09-25,BBA Applied Skills,2025,3,Active,May-2026,Result Published,441,600,Pass
+ST2025-0184,Sahil Pandey,2004-12-19,B.Sc Data Analytics,2025,3,Withdrawn,May-2026,Not Applicable,,600,
+ST2025-0182,Rahul Patel,2005-07-10,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,332,600,Pass
+ST2023-0024,Imran Mehta,2005-05-13,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,372,600,Pass
+ST2026-0263,Vaishnavi Iyer,2007-11-10,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0237,Aarohi Rao,2005-03-21,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,429,600,Pass
+ST2024-0119,Gauri Reddy,2005-12-22,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,245,600,Pass
+ST2026-0180,Lavanya Banerjee,2008-01-06,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2024-0130,Gauri Ghosh,2004-03-26,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,326,600,Pass
+ST2025-0130,Debashis Ali,2004-12-16,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,484,600,Pass
+ST2024-0151,Jhanvi Banerjee,2003-09-19,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,314,600,Pass
+ST2026-0296,Jay Patel,2007-06-17,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2026-0216,Harini Sharma,2007-01-05,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2023-0162,Pallavi Mukherjee,2005-04-01,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,340,600,Pass
+ST2025-0236,Sahil Mishra,2005-04-14,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,265,600,Pass
+ST2025-0406,Dev Kapoor,2006-08-02,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,273,600,Pass
+ST2025-0232,Pranav Reddy,2005-08-23,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,291,600,Pass
+ST2023-0112,Uday Mehta,2005-03-20,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,371,600,Pass
+ST2026-0267,Urmila Nair,2007-08-03,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0254,Ishita Nair,2006-07-06,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2025-0294,Bhavna Ghosh,2006-10-30,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,379,600,Pass
+ST2026-0183,Ishita Gupta,2007-04-15,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0289,Sanjana Joshi,2004-10-17,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,272,600,Pass
+ST2026-0072,Tarun Sinha,2008-06-13,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2025-0018,Tarun Mondal,2006-02-22,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,445,600,Pass
+ST2024-0211,Esha Banerjee,2004-05-01,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,404,600,Pass
+ST2024-0035,Zoya Ali,2003-12-12,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,401,600,Pass
+ST2025-0263,Manav Pandey,2007-05-30,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,382,600,Pass
+ST2024-0027,Harini Nair,2005-02-16,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,147,600,Fail
+ST2025-0234,Jay Sharma,2007-06-20,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,440,600,Pass
+ST2024-0096,Farida Mishra,2006-01-29,BBA Applied Skills,2024,5,Active,May-2026,Result Published,463,600,Pass
+ST2025-0076,Diya Ghosh,2004-12-13,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,414,600,Pass
+ST2024-0058,Vaishnavi Das,2005-11-20,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,335,600,Pass
+ST2023-0196,Manav Mehta,2003-02-28,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,244,600,Pass
+ST2024-0288,Zoya Mehta,2004-11-07,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,525,600,Pass
+ST2025-0082,Rohan Chatterjee,2007-01-07,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,443,600,Pass
+ST2026-0074,Jhanvi Iyer,2006-08-19,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0166,Diya Joshi,2007-04-10,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,439,600,Pass
+ST2025-0253,Ananya Reddy,2007-04-27,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,271,600,Pass
+ST2026-0283,Sourav Ghosh,2008-05-20,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2025-0288,Nandini Shetty,2007-02-15,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,425,600,Pass
+ST2025-0124,Riya Gupta,2006-06-16,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,346,600,Pass
+ST2026-0030,Oindrila Bose,2007-07-10,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0112,Lokesh Bose,2006-10-24,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,288,600,Pass
+ST2024-0012,Kartik Mondal,2004-12-14,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,309,600,Pass
+ST2025-0224,Jay Nair,2006-07-06,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,510,600,Pass
+ST2025-0161,Diya Pillai,2006-07-31,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,419,600,Pass
+ST2023-0174,Gauri Bose,2003-11-07,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,396,600,Pass
+ST2023-0038,Ritesh Mukherjee,2004-11-04,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,313,600,Pass
+ST2024-0252,Rupa Desai,2005-11-13,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,287,600,Pass
+ST2023-0203,Bhavna Mondal,2003-02-13,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,383,600,Pass
+ST2025-0133,Nikhil Sharma,2004-11-11,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,395,600,Pass
+ST2025-0097,Kartik Iyer,2004-09-08,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,459,600,Pass
+ST2025-0074,Uday Rao,2006-11-27,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,290,600,Pass
+ST2026-0304,Oindrila Sharma,2006-12-20,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0077,Zoya Chatterjee,2004-07-14,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,179,600,Fail
+ST2024-0239,Rupa Kapoor,2004-11-23,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,393,600,Pass
+ST2023-0047,Kartik Pandey,2004-07-16,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,276,600,Pass
+ST2025-0308,Payal Desai,2005-10-27,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,319,600,Pass
+ST2023-0007,Lavanya Verma,2004-08-03,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,314,600,Pass
+ST2023-0106,Ritesh Pillai,2003-03-28,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,336,600,Pass
+ST2025-0291,Kartik Nair,2005-03-12,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,425,600,Pass
+ST2023-0192,Sourav Patel,2004-07-01,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,373,600,Pass
+ST2026-0040,Lavanya Desai,2006-10-10,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0042,Lavanya Mukherjee,2007-03-02,BBA Applied Skills,2025,3,Withdrawn,May-2026,Not Applicable,,600,
+ST2024-0197,Gaurav Gupta,2004-05-21,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,331,600,Pass
+ST2025-0111,Dev Iyer,2005-01-09,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,411,600,Pass
+ST2026-0070,Lavanya Khan,2007-04-11,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2023-0035,Chirag Mondal,2004-01-24,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,358,600,Pass
+ST2026-0146,Sourav Das,2005-12-30,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2024-0180,Dev Desai,2006-01-08,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,482,600,Pass
+ST2026-0130,Jhanvi Ghosh,2006-12-02,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0092,Farhan Bose,2005-07-23,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,352,600,Pass
+ST2026-0287,Lavanya Verma,2007-09-18,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0226,Yamini Desai,2006-10-17,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0040,Yash Gupta,2006-12-27,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,637,600,Pass
+ST2025-0068,Farida Verma,2007-06-02,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,372,600,Pass
+ST2026-0078,Tanvi Pillai,2008-04-26,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0248,Pallavi Desai,2007-07-03,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,299,600,Pass
+ST2025-0246,Yamini Mukherjee,2006-01-16,BBA Applied Skills,2025,3,Active,May-2026,Result Published,250,600,Pass
+ST2024-0148,Jhanvi Ghosh,2006-06-11,BBA Applied Skills,2024,5,Active,May-2026,Result Published,245,600,Pass
+ST2025-0083,Debashis Reddy,2007-04-21,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,473,600,Pass
+ST2024-0233,Ritesh Iyer,2006-01-29,BBA Applied Skills,2024,5,Active,May-2026,Result Published,393,600,Pass
+ST2023-0124,Imran Iyer,2004-03-14,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,487,600,Pass
+ST2025-0150,Abhik Verma,2005-01-01,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,393,600,Pass
+ST2025-0017,Bikram Nair,2004-09-09,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,207,600,Fail
+ST2026-0295,Sneha Mondal,2006-08-13,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0060,Dev Ali,2003-11-18,B.Voc Automotive Technology,2024,5,Withdrawn,May-2026,Not Applicable,,600,
+ST2025-0266,Swati Mukherjee,2007-06-27,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,403,600,Pass
+ST2025-0306,Kunal Shetty,2005-03-21,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,377,600,Pass
+ST2025-0238,Sourav Shetty,2007-04-08,BBA Applied Skills,2025,3,Active,May-2026,Result Published,277,600,Pass
+ST2025-0206,Lavanya Mukherjee,2006-08-28,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,327,600,Pass
+ST2024-0037,Yash Mishra,2004-10-05,BBA Applied Skills,2024,5,Active,May-2026,Result Published,477,600,Pass
+ST2023-0061,Arjun Sen,2003-09-14,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,494,600,Pass
+ST2024-0284,Pranav Khan,2003-12-07,BBA Applied Skills,2024,5,Active,May-2026,Result Published,331,600,Pass
+ST2026-0308,Sahil Sen,2008-05-24,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0108,Mitali Patel,2007-09-27,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2025-0107,Bikram Chatterjee,2006-05-29,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,465,600,Pass
+ST2024-0253,Gauri Khan,2004-02-26,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,249,600,Pass
+ST2024-0072,Bhavna Khan,2006-03-21,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,291,600,Pass
+ST2026-0323,Farhan Reddy,2007-06-08,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0278,Sourav Mukherjee,2003-08-29,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,200,600,Fail
+ST2024-0133,Rohan Iyer,2004-12-10,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,454,600,Pass
+ST2025-0183,Harsh Sharma,2006-12-25,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,352,600,Pass
+ST2025-0188,Omkar Khan,2007-03-23,BBA Applied Skills,2025,3,Active,May-2026,Result Published,362,600,Pass
+ST2025-0086,Yash Mehta,2006-10-19,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,201,600,Fail
+ST2023-0076,Omkar Sharma,2005-05-24,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,386,600,Pass
+ST2023-0102,Kartik Sharma,2005-03-14,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,405,600,Pass
+ST2024-0136,Bikram Kulkarni,2006-06-25,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,328,600,Pass
+ST2025-0303,Manav Nair,2005-07-16,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,284,600,Pass
+ST2024-0163,Pallavi Bose,2005-10-23,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,391,600,Pass
+ST2025-0290,Bikram Kulkarni,2007-02-22,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,462,600,Pass
+ST2026-0069,Dev Nair,2006-11-20,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0156,Pallavi Pillai,2007-07-15,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0255,Arjun Rao,2006-12-24,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2025-0402,Yash Ali,2006-07-13,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,350,600,Pass
+ST2023-0069,Bikram Mishra,2004-09-29,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,446,600,Pass
+ST2023-0111,Rohan Rao,2003-06-12,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,412,600,Pass
+ST2024-0117,Bhavna Bose,2004-06-10,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,251,600,Pass
+ST2024-0041,Oindrila Gupta,2004-02-03,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,394,600,Pass
+ST2024-0280,Yash Kulkarni,2006-02-05,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,397,600,Pass
+ST2026-0169,Ananya Gupta,2006-12-26,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2023-0132,Swati Mukherjee,2002-07-13,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,460,600,Pass
+ST2023-0119,Pranav Das,2003-09-25,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,211,600,Fail
+ST2024-0086,Kunal Shetty,2005-06-01,BBA Applied Skills,2024,5,Active,May-2026,Result Published,311,600,Pass
+ST2025-0304,Arjun Bose,2004-10-21,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,376,600,Pass
+ST2026-0324,Nandini Chatterjee,2006-06-07,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0100,Vaishnavi Mehta,2007-04-02,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2023-0077,Bikram Rao,2003-11-01,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,211,600,Fail
+ST2025-0037,Jhanvi Joshi,2005-05-01,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,,600,Pass
+ST2025-0180,Sahil Saxena,2005-09-22,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,235,600,Fail
+ST2024-0293,Kavya Nair,2005-04-18,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,414,600,Pass
+ST2026-0001,Harsh Chatterjee,2008-02-26,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0244,Rahul Reddy,2004-08-04,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,387,600,Pass
+ST2026-0329,Vaishnavi Banerjee,2007-02-06,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2024-0127,Chirag Khan,2003-08-28,BBA Applied Skills,2024,5,Active,May-2026,Result Published,440,600,Pass
+ST2025-0088,Manav Reddy,2006-07-16,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,413,600,Pass
+ST2026-0284,Lokesh Mukherjee,2006-08-01,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0181,Zubin Bose,2008-08-02,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0228,Nikhil Mukherjee,2004-09-06,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,435,600,Pass
+ST2026-0084,Varun Sen,2006-01-10,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0022,Yash Gupta,2003-06-06,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,352,600,Pass
+ST2026-0002,Pranav Pandey,2007-10-04,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0151,Farida Ali,2006-09-27,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0152,Sahil Mehta,2005-12-19,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,364,600,Pass
+ST2026-0019,Kavya Roy,2008-03-15,B.Voc Automotive Technology,2026,1,Withdrawn,,Not Applicable,,,
+ST2026-0135,Rahul Kapoor,2007-05-29,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2023-0218,Gaurav Pillai,2004-03-08,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,399,600,Pass
+ST2024-0070,Oindrila Iyer,2004-11-27,BBA Applied Skills,2024,5,Active,May-2026,Result Published,597,600,Pass
+ST2026-0171,Harsh Nair,2007-01-14,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2026-0009,Gaurav Rao,2007-12-13,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2024-0216,Mitali Ghosh,2004-02-21,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,378,600,Pass
+ST2025-0219,Kunal Reddy,2006-10-26,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,349,600,Pass
+ST2026-0199,Imran Rao,2008-05-01,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0085,Harini Mehta,2004-02-24,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,239,600,Fail
+ST2024-0260,Dev Banerjee,2005-12-23,BBA Applied Skills,2024,5,Active,May-2026,Result Published,402,600,Pass
+ST2025-0200,Zoya Reddy,2006-12-06,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,488,600,Pass
+ST2025-0211,Pranav Chatterjee,2007-05-04,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,294,600,Pass
+ST2024-0017,Lokesh Rao,2003-11-07,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,405,600,Pass
+ST2023-0107,Arjun Iyer,2003-09-20,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,415,600,Pass
+ST2023-0053,Rohan Desai,2002-10-30,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,425,600,Pass
+ST2025-0050,Oindrila Sharma,2004-11-17,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,278,600,Pass
+ST2024-0205,Oindrila Verma,2004-05-30,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,296,600,Pass
+ST2024-0052,Harsh Mondal,2006-01-05,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,411,600,Pass
+ST2023-0092,Farhan Iyer,2002-07-10,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,289,600,Pass
+ST2026-0090,Swati Iyer,2006-08-11,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0309,Diya Mehta,2008-01-23,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0255,Ritesh Chatterjee,2004-09-08,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,324,600,Pass
+ST2024-0135,Diya Verma,2004-09-10,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,298,600,Pass
+ST2024-0174,Ishita Banerjee,2006-01-28,BBA Applied Skills,2024,5,Active,May-2026,Result Published,439,600,Pass
+ST2026-0282,Mitali Joshi,2006-04-12,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0224,Sahil Pillai,2004-08-26,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,303,600,Pass
+ST2026-0024,Kunal Mukherjee,2007-01-26,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2026-0177,Sneha Pillai,2007-08-22,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0194,Oindrila Mehta,2007-03-29,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,363,600,Pass
+ST2023-0089,Pranav Joshi,2004-09-23,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,440,600,Pass
+ST2026-0176,Sourav Pillai,2007-11-28,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2025-0131,Bikram Banerjee,2007-05-15,BBA Applied Skills,2025,3,Active,May-2026,Result Published,337,600,Pass
+ST2025-0119,Urmila Mehta,2005-11-26,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,241,600,Pass
+ST2024-0209,Pranav Shetty,2005-06-15,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,294,600,Pass
+ST2025-0140,Charvi Banerjee,2007-03-16,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,338,600,Pass
+ST2025-0115,Tanvi Khan,2004-11-19,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,323,600,Pass
+ST2023-0116,Chirag Kulkarni,2002-10-02,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,363,600,Pass
+ST2023-0020,Ishita Iyer,2004-02-04,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,268,600,Pass
+ST2023-0042,Oindrila Shetty,2005-06-16,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,,600,Fail
+ST2025-0289,Ritesh Mondal,2006-10-04,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,406,600,Pass
+ST2024-0137,Lokesh Nair,2005-07-30,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,335,600,Pass
+ST2023-0179,Vikram Sharma,2004-03-26,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,345,600,Pass
+ST2024-0074,Uday Roy,2005-03-14,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,546,600,Pass
+ST2026-0132,Diya Sharma,2006-02-04,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0109,Abhik Mishra,2004-09-15,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,215,600,Fail
+ST2025-0014,Chirag Chatterjee,2006-01-02,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,472,600,Pass
+ST2024-0280,Yash Kulkarni,2006-02-05,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,397,600,Pass
+ST2026-0020,Ritesh Ghosh,2007-12-04,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0188,Aarav Kapoor,2007-07-20,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0247,Lokesh Rao,2005-03-06,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,346,600,Pass
+ST2023-0104,Pallavi Mondal,2004-06-06,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,175,600,Fail
+ST2026-0213,Ishita Pillai,2006-03-29,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2026-0056,Rahul Desai,2006-05-12,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0093,Aarav Mishra,2008-01-28,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0072,Sahil Sharma,2004-04-30,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,332,600,Pass
+ST2025-0035,Varun Chatterjee,2007-02-21,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,331,600,Pass
+ST2024-0120,Yamini Das,2006-06-11,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,393,600,Pass
+ST2024-0018,Vaishnavi Banerjee,2005-01-28,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,307,600,Pass
+ST2023-0164,Nikhil Bose,2005-01-26,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,293,600,Pass
+ST2026-0214,Aarohi Reddy,2008-05-03,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0036,Imran Khan,2004-09-19,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,598,600,Pass
+ST2026-0290,Jhanvi Kulkarni,2005-11-13,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2023-0004,Gaurav Iyer,2004-09-21,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,303,600,Pass
+ST2024-0053,Bikram Ghosh,2004-05-16,BBA Applied Skills,2024,5,Active,May-2026,Result Published,342,600,Pass
+ST2024-0030,Omkar Saxena,2005-05-06,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,313,600,Pass
+ST2026-0136,Esha Chatterjee,2005-09-11,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0269,Omkar Mehta,2006-09-08,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2025-0141,Varun Shetty,2005-12-13,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,432,600,Pass
+ST2025-0300,Sourav Joshi,2006-07-06,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,284,600,Pass
+ST2026-0302,Zoya Mukherjee,2007-12-02,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0167,Jhanvi Rao,2005-11-28,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0129,Chirag Joshi,2004-10-31,BBA Applied Skills,2025,3,Active,May-2026,Result Published,344,600,Pass
+ST2023-0215,Arjun Das,2004-08-06,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,390,600,Pass
+ST2024-0005,Arjun Pillai,2005-12-02,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,251,600,Pass
+ST2025-0247,Tarun Pandey,2004-12-14,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,403,600,Pass
+ST2026-0179,Esha Roy,2007-04-30,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2023-0254,Aarav Joshi,2003-07-14,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,244,600,Pass
+ST2025-0151,Tarun Bose,2007-05-26,BBA Applied Skills,2025,3,Active,May-2026,Result Published,470,600,Pass
+ST2023-0002,Mitali Mukherjee,2005-04-19,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,373,600,Pass
+ST2024-0002,Kartik Shetty,2004-08-06,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,219,600,Fail
+ST2025-0163,Debashis Mishra,2005-06-01,BBA Applied Skills,2025,3,Active,May-2026,Result Published,443,600,Pass
+ST2024-0132,Yash Gupta,2006-02-07,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,414,600,Pass
+ST2023-0259,Harsh Roy,2004-07-08,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,266,600,Pass
+ST2025-0077,Kavya Sharma,2005-04-17,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,360,600,Pass
+ST2024-0240,Bhavna Nair,2003-08-05,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,268,600,Pass
+ST2023-0143,Arjun Joshi,2003-06-02,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,370,600,Pass
+ST2026-0217,Nikhil Sinha,2007-12-12,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2025-0063,Ishita Chatterjee,2006-09-09,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,372,600,Pass
+ST2025-0203,Ankita Joshi,2007-04-22,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,371,600,Pass
+ST2026-0322,Yash Roy,2006-12-11,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2024-0241,Diya Khan,2005-07-26,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,405,600,Pass
+ST2024-0122,Kunal Banerjee,2004-05-11,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,277,600,Pass
+ST2023-0159,Tanvi Sinha,2003-07-07,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,351,600,Pass
+ST2023-0260,Harini Khan,2004-10-10,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,224,600,Fail
+ST2024-0264,Sourav Rao,2006-04-14,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,271,600,Pass
+ST2026-0197,Yamini Joshi,2008-04-20,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0052,Ankita Chatterjee,2004-02-04,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,312,600,Pass
+ST2024-0207,Manav Mukherjee,2003-11-19,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,286,600,Pass
+ST2023-0197,Rahul Ali,2004-10-23,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,414,600,Pass
+ST2026-0104,Imran Sen,2008-06-01,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2024-0274,Diya Desai,2006-03-12,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,319,600,Pass
+ST2024-0054,Esha Shetty,2003-10-10,BBA Applied Skills,2024,5,Active,May-2026,Result Published,385,600,Pass
+ST2024-0188,Bhavna Das,2006-03-29,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,505,600,Pass
+ST2026-0317,Manav Sen,2007-02-23,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2024-0019,Abhik Ghosh,2006-02-18,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,448,600,Pass
+ST2024-0234,Lokesh Gupta,2006-06-05,B.Voc Retail Management,2024,5,Withdrawn,May-2026,Not Applicable,,600,
+ST2025-0250,Vaishnavi Khan,2004-07-25,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,447,600,Pass
+ST2024-0004,Rupa Khan,2004-12-02,BBA Applied Skills,2024,5,Active,May-2026,Result Published,345,600,Pass
+ST2026-0207,Zubin Joshi,2006-08-29,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2023-0170,Sneha Pillai,2005-06-22,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,281,600,Pass
+ST2024-0263,Vaishnavi Kapoor,2004-03-08,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,392,600,Pass
+ST2025-0165,Swati Verma,2006-02-23,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,438,600,Pass
+ST2025-0142,Yash Patel,2005-01-09,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,441,600,Pass
+ST2024-0104,Riya Sinha,2003-10-19,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,361,600,Pass
+ST2026-0168,Meera Saxena,2008-08-13,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0046,Lokesh Ghosh,2005-05-04,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,318,600,Pass
+ST2026-0059,Zoya Roy,2006-04-10,B.Voc Automotive Technology,2026,1,Withdrawn,,Not Applicable,,,
+ST2023-0234,Farida Banerjee,2004-10-27,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,375,600,Pass
+ST2026-0029,Abhik Desai,2005-07-21,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2026-0223,Swati Rao,2007-12-21,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2024-0141,Oindrila Verma,2005-01-26,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,164,600,Fail
+ST2023-0088,Omkar Shetty,2005-06-11,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,328,600,Pass
+ST2023-0181,Sahil Mondal,2002-12-24,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,324,600,Pass
+ST2024-0165,Mitali Khan,2005-12-09,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,268,600,Pass
+ST2023-0171,Uday Mehta,2005-01-30,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,395,600,Pass
+ST2025-0079,Farida Desai,2006-05-23,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,438,600,Pass
+ST2025-0167,Sourav Chatterjee,2007-06-15,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,319,600,Pass
+ST2025-0147,Farhan Mukherjee,2005-02-19,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,262,600,Pass
+ST2025-0198,Kunal Chatterjee,2006-10-24,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,286,600,Pass
+ST2024-0282,Ritesh Verma,2004-04-30,BBA Applied Skills,2024,5,Active,May-2026,Result Published,370,600,Pass
+ST2025-0156,Gauri Patel,2007-05-30,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,266,600,Pass
+ST2023-0145,Farhan Ali,2004-05-08,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,355,600,Pass
+ST2025-0046,Kartik Mukherjee,2007-04-10,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,241,600,Pass
+ST2024-0169,Aarav Shetty,2005-08-12,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,241,600,Pass
+ST2023-0009,Yamini Mishra,2004-03-26,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,514,600,Pass
+ST2024-0262,Ankita Nair,2005-11-27,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,443,600,Pass
+ST2024-0266,Bikram Desai,2004-01-31,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,503,600,Pass
+ST2023-0067,Varun Saxena,2005-05-21,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,317,600,Pass
+ST2023-0202,Jhanvi Verma,2003-09-10,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,215,600,Fail
+ST2024-0175,Kavya Kapoor,2004-05-20,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,301,600,Pass
+ST2025-0113,Debashis Pandey,2005-08-31,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,396,600,Pass
+ST2026-0272,Charvi Khan,2006-10-17,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2025-0280,Pranav Iyer,2005-04-17,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,476,600,Pass
+ST2025-0064,Vaishnavi Joshi,2007-06-18,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,546,600,Pass
+ST2025-0028,Rupa Desai,2007-07-02,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,429,600,Pass
+ST2024-0203,Vaishnavi Joshi,2006-02-14,B.Voc Healthcare Services,2024,5,Withdrawn,May-2026,Not Applicable,,600,
+ST2025-0162,Gauri Bose,2005-06-23,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,379,600,Pass
+ST2026-0190,Farida Nair,2008-04-17,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2024-0277,Esha Sen,2005-06-06,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,391,600,Pass
+ST2026-0128,Gauri Nair,2006-08-28,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0191,Yash Gupta,2005-06-10,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,349,600,Pass
+ST2024-0225,Nandini Mondal,2005-09-04,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,,600,Pass
+ST2025-0197,Ritesh Shetty,2007-01-17,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,367,600,Pass
+ST2025-0071,Rahul Mukherjee,2005-08-15,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,540,600,Pass
+ST2024-0026,Riya Khan,2003-10-20,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,301,600,Pass
+ST2026-0326,Chirag Joshi,2007-10-17,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2023-0207,Kavya Ghosh,2005-05-03,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,197,600,Fail
+ST2025-0023,Bhavna Shetty,2006-07-17,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,394,600,Pass
+ST2024-0200,Oindrila Mukherjee,2004-02-18,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,208,600,Fail
+ST2023-0097,Lokesh Ali,2004-08-10,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,429,600,Pass
+ST2023-0101,Omkar Gupta,2004-01-16,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,281,600,Pass
+ST2025-0278,Ritesh Patel,2005-09-03,BBA Applied Skills,2025,3,Active,May-2026,Result Published,292,600,Pass
+ST2023-0178,Nikhil Roy,2004-07-08,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,408,600,Pass
+ST2023-0185,Vaishnavi Ghosh,2005-03-24,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,403,600,Pass
+ST2026-0058,Debashis Roy,2005-07-29,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0044,Bikram Gupta,2006-10-01,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2025-0159,Gauri Ali,2006-12-28,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,381,600,Pass
+ST2026-0292,Debashis Das,2005-11-17,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2024-0156,Tarun Mondal,2003-11-02,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,355,600,Pass
+ST2025-0281,Pallavi Kapoor,2007-12-07,BBA Applied Skills,2025,3,Active,May-2026,Result Published,428,600,Pass
+ST2024-0164,Aarav Bose,2006-04-14,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,304,600,Pass
+ST2023-0258,Aarav Sharma,2004-05-17,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,473,600,Pass
+ST2026-0244,Zoya Pandey,2006-03-03,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2026-0158,Vaishnavi Shetty,2007-05-07,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0032,Esha Mukherjee,2007-07-24,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2025-0267,Meera Nair,2007-03-19,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,356,600,Pass
+ST2026-0126,Rupa Reddy,2006-02-25,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0073,Meera Kapoor,2007-04-18,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0033,Kunal Mishra,2007-12-13,B.Voc Logistics & Supply Chain,2026,1,Withdrawn,,Not Applicable,,,
+ST2023-0213,Meera Sharma,2004-04-22,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,379,600,Pass
+ST2025-0296,Ankita Sinha,2004-10-19,BBA Applied Skills,2025,3,Active,May-2026,Result Published,250,600,Pass
+ST2023-0062,Imran Chatterjee,2003-06-20,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,240,600,Pass
+ST2026-0233,Payal Mukherjee,2006-04-16,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2026-0187,Jhanvi Patel,2005-12-18,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0057,Sahil Sen,2002-12-15,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,385,600,Pass
+ST2023-0163,Jay Reddy,2004-07-05,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,294,600,Pass
+ST2025-0038,Meera Pandey,2007-05-18,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,417,600,Pass
+ST2025-0292,Esha Kapoor,2005-07-22,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,263,600,Pass
+ST2024-0001,Lavanya Kulkarni,2006-02-11,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,247,600,Pass
+ST2026-0182,Arjun Pandey,2006-11-06,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0145,Kavya Mehta,2006-02-09,BBA Applied Skills,2024,5,Active,May-2026,Result Published,424,600,Pass
+ST2023-0095,Sanjana Kapoor,2003-06-20,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,403,600,Pass
+ST2026-0240,Sahil Ghosh,2005-12-12,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2025-0039,Sourav Desai,2006-01-26,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,476,600,Pass
+ST2025-0091,Harini Nair,2007-06-15,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,421,600,Pass
+ST2026-0316,Mitali Bose,2007-08-30,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0116,Kavya Pillai,2005-09-26,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,426,600,Pass
+ST2026-0184,Ritesh Das,2007-11-21,B.Sc Data Analytics,2026,1,Withdrawn,,Not Applicable,,,
+ST2026-0311,Abhik Kulkarni,2007-06-28,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2025-0067,Tanvi Gupta,2006-11-05,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,361,600,Pass
+ST2024-0181,Diya Bose,2005-01-20,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,383,600,Pass
+ST2023-0006,Ritesh Banerjee,2004-02-15,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,366,600,Pass
+ST2026-0016,Bhavna Ghosh,2006-05-19,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2024-0176,Vaishnavi Nair,2005-01-04,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,317,600,Pass
+ST2025-0222,Esha Desai,2007-02-21,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,370,600,Pass
+ST2024-0254,Rahul Mishra,2003-07-26,BBA Applied Skills,2024,5,Active,May-2026,Result Published,270,600,Pass
+ST2023-0146,Urmila Sinha,2005-06-01,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,368,600,Pass
+ST2025-0403,Bhavna Joshi,2006-08-21,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,508,600,Pass
+ST2025-0066,Sahil Ali,2005-09-13,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,433,600,Pass
+ST2025-0153,Tanvi Sinha,2007-04-14,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,312,600,Pass
+ST2026-0252,Abhik Khan,2006-06-17,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0178,Yamini Ghosh,2006-06-04,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,323,600,Pass
+ST2023-0250,Kartik Reddy,2002-10-11,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,399,600,Pass
+ST2024-0231,Rahul Shetty,2004-07-02,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,215,600,Fail
+ST2025-0019,Pallavi Das,2007-04-16,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,358,600,Pass
+ST2024-0269,Riya Iyer,2003-09-22,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,439,600,Pass
+ST2024-0272,Zoya Reddy,2005-07-04,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,365,600,Pass
+ST2024-0201,Oindrila Sharma,2004-07-18,BBA Applied Skills,2024,5,Active,May-2026,Result Published,396,600,Pass
+ST2024-0229,Manav Kulkarni,2005-04-23,BBA Applied Skills,2024,5,Active,May-2026,Result Published,241,600,Pass
+ST2025-0054,Nandini Kapoor,2005-01-17,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,264,600,Pass
+ST2023-0051,Lokesh Reddy,2004-03-09,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,504,600,Pass
+ST2023-0166,Farhan Kapoor,2003-02-04,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,382,600,Pass
+ST2026-0274,Zubin Gupta,2007-02-06,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0189,Rahul Banerjee,2006-03-24,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,389,600,Pass
+ST2023-0087,Gaurav Shetty,2004-07-05,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,244,600,Pass
+ST2023-0229,Manav Nair,2004-04-18,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,287,600,Pass
+ST2024-0140,Farhan Sinha,2003-12-01,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,371,600,Pass
+ST2025-0233,Yamini Iyer,2004-07-30,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,468,600,Pass
+ST2026-0149,Ishita Joshi,2007-11-09,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0213,Ishita Banerjee,2005-10-26,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,297,600,Pass
+ST2025-0181,Meera Verma,2005-07-21,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,310,600,Pass
+ST2024-0009,Lokesh Kapoor,2006-06-25,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,352,600,Pass
+ST2026-0310,Gaurav Mishra,2008-05-14,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0012,Dev Ali,2007-04-07,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,407,600,Pass
+ST2025-0072,Rahul Patel,2005-08-23,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,240,600,Pass
+ST2025-0093,Pallavi Ali,2004-08-17,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,351,600,Pass
+ST2026-0120,Imran Sinha,2005-09-19,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2025-0223,Rohan Nair,2006-09-16,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,321,600,Pass
+ST2024-0273,Uday Banerjee,2006-05-17,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,,600,Pass
+ST2025-0295,Arjun Desai,2006-06-03,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,495,600,Pass
+ST2025-0260,Imran Mukherjee,2006-12-02,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,287,600,Pass
+ST2026-0192,Manav Ghosh,2007-09-26,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2024-0267,Bikram Nair,2003-08-22,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,211,600,Fail
+ST2026-0018,Imran Reddy,2008-07-13,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0129,Pallavi Verma,2005-09-28,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0073,Rupa Nair,2006-02-15,B.Voc Healthcare Services,2025,3,Withdrawn,May-2026,Not Applicable,,600,
+ST2024-0249,Swati Patel,2005-06-01,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,598,600,Pass
+ST2026-0175,Vikram Nair,2007-10-19,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0242,Urmila Gupta,2005-02-04,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,436,600,Pass
+ST2025-0214,Arjun Nair,2006-02-07,B.Sc Data Analytics,2025,3,Withdrawn,May-2026,Not Applicable,,600,
+ST2024-0208,Zubin Reddy,2004-04-20,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,418,600,Pass
+ST2026-0306,Ananya Desai,2007-05-31,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2024-0079,Debashis Mukherjee,2003-11-16,BBA Applied Skills,2024,5,Active,May-2026,Result Published,494,600,Pass
+ST2026-0041,Yamini Bose,2006-02-08,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0199,Harini Ali,2004-10-27,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,385,600,Pass
+ST2024-0023,Ananya Khan,2005-01-12,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,335,600,Pass
+ST2026-0161,Arjun Kulkarni,2008-02-08,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2026-0023,Diya Sinha,2006-05-08,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0021,Zubin Sen,2005-01-22,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,488,600,Pass
+ST2024-0279,Nikhil Bose,2005-01-24,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,368,600,Pass
+ST2026-0279,Arjun Nair,2005-08-17,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2026-0097,Rohan Kulkarni,2006-11-20,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0008,Chirag Khan,2006-11-07,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2024-0244,Zubin Chatterjee,2006-05-27,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,271,600,Pass
+ST2025-0262,Rahul Bose,2006-12-28,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,455,600,Pass
+ST2023-0041,Yash Pillai,2004-03-02,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,310,600,Pass
+ST2024-0099,Sahil Das,2006-01-02,BBA Applied Skills,2024,5,Active,May-2026,Result Published,397,600,Pass
+ST2026-0031,Vaishnavi Sen,2006-09-13,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0007,Bhavna Chatterjee,2006-10-29,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2024-0043,Ananya Khan,2004-11-23,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,428,600,Pass
+ST2026-0143,Jhanvi Bose,2006-06-30,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0298,Ritesh Mishra,2006-11-04,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0160,Ananya Reddy,2005-01-06,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,345,600,Pass
+ST2026-0055,Imran Sharma,2006-10-01,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2023-0190,Yamini Patel,2003-05-12,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,397,600,Pass
+ST2025-0298,Lokesh Desai,2005-04-20,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,451,600,Pass
+ST2024-0223,Jay Reddy,2006-08-19,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,286,600,Pass
+ST2024-0275,Pranav Patel,2005-07-26,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,253,600,Pass
+ST2024-0075,Gaurav Nair,2004-04-05,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,333,600,Pass
+ST2023-0137,Ankita Banerjee,2004-03-19,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,396,600,Pass
+ST2026-0113,Omkar Roy,2008-01-06,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0246,Farhan Nair,2005-07-03,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,432,600,Pass
+ST2024-0097,Varun Sinha,2005-02-04,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,392,600,Pass
+ST2024-0283,Harini Reddy,2004-06-13,BBA Applied Skills,2024,5,Active,May-2026,Result Published,233,600,Fail
+ST2024-0217,Lokesh Pillai,2005-05-27,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,247,600,Pass
+ST2024-0276,Omkar Sinha,2003-11-29,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,255,600,Pass
+ST2024-0066,Zoya Das,2004-01-07,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,425,600,Pass
+ST2024-0291,Riya Mondal,2005-09-16,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,288,600,Pass
+ST2024-0100,Sourav Bose,2005-06-03,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,518,600,Pass
+ST2026-0305,Tanvi Rao,2006-01-27,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2023-0031,Manav Gupta,2006-01-15,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,360,600,Pass
+ST2024-0134,Vaishnavi Rao,2005-04-23,BBA Applied Skills,2024,5,Active,May-2026,Result Published,284,600,Pass
+ST2024-0192,Farhan Mukherjee,2005-08-25,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,404,600,Pass
+ST2026-0039,Aarav Kapoor,2006-06-24,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0078,Tarun Mishra,2003-10-22,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,347,600,Pass
+ST2023-0048,Jay Joshi,2002-10-29,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,411,600,Pass
+ST2023-0110,Oindrila Verma,2002-07-22,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,326,600,Pass
+ST2026-0106,Pranav Saxena,2008-03-19,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0090,Farhan Ghosh,2004-01-29,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,431,600,Pass
+ST2025-0309,Gauri Sharma,2005-12-19,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,412,600,Pass
+ST2026-0115,Kavya Desai,2008-07-22,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2024-0235,Pranav Pillai,2005-09-04,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,380,600,Pass
+ST2023-0168,Sanjana Pillai,2003-08-19,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,258,600,Pass
+ST2023-0138,Nikhil Das,2004-03-08,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,442,600,Pass
+ST2024-0171,Zoya Kapoor,2004-01-21,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,460,600,Pass
+ST2023-0005,Nandini Joshi,2004-03-16,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,354,600,Pass
+ST2026-0241,Arjun Mukherjee,2008-01-07,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2026-0045,Kartik Pandey,2006-03-15,BBA Applied Skills,2026,1,Withdrawn,,Not Applicable,,,
+ST2024-0292,Zoya Pandey,2006-01-10,B.Sc Data Analytics,2024,5,Withdrawn,May-2026,Not Applicable,,600,
+ST2026-0293,Imran Khan,2008-01-14,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0016,Swati Mehta,2005-12-22,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,324,600,Pass
+ST2026-0178,Aarohi Saxena,2007-03-03,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2025-0287,Sourav Joshi,2005-04-23,BBA Applied Skills,2025,3,Active,May-2026,Result Published,422,600,Pass
+ST2025-0196,Jay Patel,2007-01-04,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,201,600,Fail
+ST2023-0180,Aarohi Verma,2002-09-19,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,475,600,Pass
+ST2025-0030,Jay Ghosh,2007-06-04,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,248,600,Pass
+ST2025-0143,Bikram Roy,2006-11-18,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,325,600,Pass
+ST2024-0238,Manav Khan,2006-02-07,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,355,600,Pass
+ST2025-0110,Sanjana Shetty,2004-08-28,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,369,600,Pass
+ST2023-0240,Yash Shetty,2004-12-11,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,413,600,Pass
+ST2026-0119,Jhanvi Ali,2007-09-30,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2024-0195,Ananya Rao,2006-04-18,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,395,600,Pass
+ST2024-0221,Payal Rao,2004-12-10,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,413,600,Pass
+ST2025-0270,Ishita Kapoor,2006-02-06,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,291,600,Pass
+ST2026-0275,Riya Ali,2008-03-20,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0264,Uday Mishra,2005-08-06,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,406,600,Pass
+ST2023-0255,Sourav Verma,2002-07-29,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,300,600,Pass
+ST2023-0147,Charvi Bose,2005-02-22,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,407,600,Pass
+ST2024-0296,Charvi Nair,2003-10-27,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,383,600,Pass
+ST2024-0025,Diya Sharma,2004-05-20,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,227,600,Fail
+ST2025-0215,Bikram Joshi,2006-07-23,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,349,600,Pass
+ST2026-0231,Arjun Mehta,2006-11-04,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2026-0212,Esha Joshi,2008-07-31,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2026-0232,Ankita Desai,2006-01-09,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2026-0064,Zoya Shetty,2006-01-21,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0055,Nandini Mehta,2006-05-22,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,465,600,Pass
+ST2025-0081,Gaurav Rao,2005-11-17,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,350,600,Pass
+ST2026-0101,Lavanya Pandey,2007-11-28,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2025-0227,Nikhil Ghosh,2007-04-26,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,331,600,Pass
+ST2025-0146,Rohan Iyer,2005-04-10,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,319,600,Pass
+ST2023-0071,Pallavi Shetty,2003-06-27,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,356,600,Pass
+ST2026-0237,Gaurav Patel,2006-02-13,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0283,Aarohi Ali,2005-07-30,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,351,600,Pass
+ST2023-0153,Harsh Mondal,2004-08-25,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,472,600,Pass
+ST2025-0069,Imran Saxena,2005-07-05,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,324,600,Pass
+ST2024-0222,Gaurav Das,2004-07-21,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,396,600,Pass
+ST2023-0177,Lokesh Verma,2004-01-28,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,318,600,Pass
+ST2025-0230,Arjun Bose,2005-02-11,BBA Applied Skills,2025,3,Active,May-2026,Result Published,370,600,Pass
+ST2023-0156,Dev Mishra,2003-06-14,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,389,600,Pass
+ST2026-0112,Omkar Iyer,2007-11-18,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2024-0190,Manav Mukherjee,2004-03-21,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,371,600,Pass
+ST2023-0091,Debashis Khan,2002-12-26,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,288,600,Pass
+ST2026-0260,Pranav Mishra,2006-02-02,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0033,Gaurav Shetty,2004-11-22,B.Voc Healthcare Services,2023,6,Completed,May-2026,Result Published,293,600,Pass
+ST2025-0212,Nikhil Gupta,2006-09-03,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,237,600,Fail
+ST2023-0139,Jay Mondal,2003-04-04,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,474,600,Pass
+ST2026-0318,Jhanvi Ghosh,2007-03-14,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2026-0004,Vaishnavi Iyer,2007-06-24,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2026-0012,Oindrila Mondal,2008-06-21,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0028,Sourav Mukherjee,2006-01-24,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,358,600,Pass
+ST2023-0206,Rohan Ali,2004-01-19,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,339,600,Pass
+ST2026-0229,Payal Mehta,2008-05-25,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2024-0076,Mitali Ghosh,2005-06-26,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,390,600,Pass
+ST2024-0236,Vaishnavi Mishra,2005-03-14,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,322,600,Pass
+ST2023-0032,Tanvi Shetty,2004-03-24,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,348,600,Pass
+ST2025-0169,Urmila Banerjee,2007-07-14,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,336,600,Pass
+ST2023-0113,Harsh Pillai,2004-01-17,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,327,600,Pass
+ST2026-0225,Jhanvi Sharma,2005-09-15,B.Sc Data Analytics,2026,1,Active,,Not Due,,,
+ST2025-0048,Varun Nair,2005-04-28,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,305,600,Pass
+ST2026-0134,Tarun Pandey,2006-06-23,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2023-0059,Sneha Nair,2003-09-02,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,,600,Pass
+ST2023-0183,Aarav Saxena,2004-05-20,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,474,600,Pass
+ST2024-0094,Jhanvi Mishra,2005-11-24,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,435,600,Pass
+ST2023-0256,Swati Nair,2004-09-07,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,379,600,Pass
+ST2023-0082,Rohan Ghosh,2003-07-28,B.Voc Automotive Technology,2023,6,Completed,May-2026,Result Published,335,600,Pass
+ST2023-0010,Aarav Shetty,2003-04-20,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,540,600,Pass
+ST2026-0122,Yash Banerjee,2007-11-04,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0017,Kunal Iyer,2003-09-06,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,458,600,Pass
+ST2025-0257,Lokesh Gupta,2004-10-24,BBA Applied Skills,2025,3,Active,May-2026,Result Published,280,600,Pass
+ST2026-0193,Omkar Das,2007-01-29,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0202,Sahil Sen,2006-03-29,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,504,600,Pass
+ST2025-0185,Jhanvi Reddy,2004-12-30,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,238,600,Fail
+ST2024-0067,Kavya Ghosh,2005-06-16,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,390,600,Pass
+ST2026-0328,Charvi Iyer,2007-11-30,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0168,Gaurav Reddy,2006-10-10,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,404,600,Pass
+ST2023-0018,Tanvi Chatterjee,2003-02-21,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,410,600,Pass
+ST2026-0314,Bikram Mukherjee,2014-08-15,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2026-0138,Urmila Reddy,2006-06-15,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2025-0216,Rupa Mukherjee,2004-10-14,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,619,600,Pass
+ST2024-0044,Uday Pandey,2004-08-30,B.Voc Automotive Technology,2024,5,Active,May-2026,Result Published,356,600,Pass
+ST2023-0043,Chirag Kulkarni,2003-10-18,B.Voc Retail Management,2023,6,Completed,May-2026,Result Published,319,600,Pass
+ST2024-0106,Farhan Bose,2004-02-11,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,438,600,Pass
+ST2026-0278,Pranav Kulkarni,2006-11-06,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0148,Bikram Rao,2002-12-02,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,241,600,Pass
+ST2024-0095,Lokesh Joshi,2003-09-09,B.Voc Healthcare Services,2024,5,Active,May-2026,Result Published,253,600,Pass
+ST2024-0173,Dev Shetty,2006-06-21,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,366,600,Pass
+ST2025-0193,Harini Desai,2006-09-14,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,347,600,Pass
+ST2025-0149,Ankita Iyer,2005-01-07,BBA Applied Skills,2025,3,Active,May-2026,Result Published,299,600,Pass
+ST2025-0148,Diya Sen,2004-08-27,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,,600,Pass
+ST2024-0250,Jay Das,2003-07-22,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,493,600,Pass
+ST2025-0305,Ritesh Ali,2006-06-09,BBA Applied Skills,2025,3,Active,May-2026,Result Published,386,600,Pass
+ST2023-0045,Imran Sinha,2003-12-10,B.Voc Logistics & Supply Chain,2023,6,Completed,May-2026,Result Published,445,600,Pass
+ST2026-0105,Bhavna Kulkarni,2006-02-09,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2025-0078,Nandini Saxena,2005-08-12,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,304,600,Pass
+ST2025-0009,Sneha Kulkarni,2006-04-23,BBA Applied Skills,2025,3,Active,May-2026,Result Published,329,600,Pass
+ST2023-0127,Imran Nair,2003-04-10,B.Sc Data Analytics,2023,6,Completed,May-2026,Result Published,366,600,Pass
+ST2025-0239,Uday Chatterjee,2006-05-08,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,343,600,Pass
+ST2025-0231,Meera Das,2007-04-26,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,305,600,Pass
+ST2025-0120,Ritesh Sharma,2005-05-16,B.Voc Retail Management,2025,3,Active,May-2026,Result Published,333,600,Pass
+ST2026-0063,Abhik Patel,2007-08-06,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2026-0273,Kartik Desai,2005-11-15,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2025-0010,Rohan Banerjee,2006-11-13,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,401,600,Pass
+ST2024-0042,Kunal Reddy,2006-06-08,B.Sc Data Analytics,2024,5,Active,May-2026,Result Published,467,600,Pass
+ST2024-0111,Rahul Sen,2003-11-08,B.Voc Logistics & Supply Chain,2024,5,Active,May-2026,Result Published,315,600,Pass
+ST2024-0063,Manav Khan,2003-09-21,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,416,600,Pass
+ST2026-0118,Uday Sharma,2006-03-03,B.Voc Retail Management,2026,1,Active,,Not Due,,,
+ST2026-0076,Zoya Pillai,2007-08-19,B.Voc Automotive Technology,2026,1,Active,,Not Due,,,
+ST2026-0066,Tarun Ghosh,2005-10-30,B.Voc Logistics & Supply Chain,2026,1,Active,,Not Due,,,
+ST2026-0015,Arjun Mondal,2008-01-24,B.Voc Healthcare Services,2026,1,Active,,Not Due,,,
+ST2023-0225,Gauri Mukherjee,2004-03-28,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,409,600,Pass
+ST2024-0034,Tarun Kapoor,2005-01-24,B.Voc Retail Management,2024,5,Active,May-2026,Result Published,307,600,Pass
+ST2025-0004,Abhik Rao,2007-01-22,B.Voc Logistics & Supply Chain,2025,3,Active,May-2026,Result Published,232,600,Fail
+ST2025-0297,Harsh Kapoor,2004-09-17,B.Voc Automotive Technology,2025,3,Active,May-2026,Result Published,156,600,Fail
+ST2023-0060,Ananya Bose,2003-08-23,BBA Applied Skills,2023,6,Completed,May-2026,Result Published,,600,Pass
+ST2026-0125,Rahul Ghosh,2007-05-19,BBA Applied Skills,2026,1,Active,,Not Due,,,
+ST2025-0302,Varun Pandey,2005-08-25,B.Voc Healthcare Services,2025,3,Active,May-2026,Result Published,329,600,Pass
+ST2025-0218,Zoya Ghosh,2006-10-24,B.Sc Data Analytics,2025,3,Active,May-2026,Result Published,372,600,Pass

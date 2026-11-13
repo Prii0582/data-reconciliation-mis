@@ -1,0 +1,1209 @@
+student_id,full_name,gender,date_of_birth,category,programme_name,admission_date,email,phone,home_state
+ST2023-0174,Gauri Bose,Female,2003-11-07,OBC,B.Voc Logistics & Supply Chain,2023-07-16,gauri.bose92@mail.example,9000071998,Uttar Pradesh
+ST2025-0045,Kavya Das,Female,2006-03-31,OBC,B.Voc Healthcare Services,2025-06-22,kavya.das74@mail.example,9000098151,Telangana
+ST2025-0112,Lokesh Bose,Male,2006-10-24,GEN,B.Voc Automotive Technology,2025-07-26,lokesh.bose88@mail.example,9000002770,Uttar Pradesh
+ST2024-0056,Rahul Patel,Male,2006-02-11,OBC,B.Sc Data Analytics,2024-08-17,rahul.patel20@mail.example,9000063350,Assam
+ST2024-0269,Riya Iyer,Female,2003-09-22,GEN,B.Voc Retail Management,2024-06-29,riya.iyer39@mail.example,9000041996,West Bengal
+ST2026-0217,Nikhil Sinha,Male,2007-12-12,GEN,B.Voc Healthcare Services,2026-05-17,nikhil.sinha94@mail.example,9000087318,West Bengal
+ST2024-0036,Aarohi Iyer,Female,2004-08-19,OBC,B.Voc Retail Management,2024-07-11,aarohi.iyer84@mail.example,9000069393,Jharkhand
+ST2023-0153,Harsh Mondal,Male,2004-08-25,EWS,B.Sc Data Analytics,2023-07-17,harsh.mondal41@mail.example,9000073698,Telangana
+ST2023-0059,Sneha Nair,Female,2003-09-02,GEN,B.Voc Logistics & Supply Chain,2023-08-17,sneha.nair95@mail.example,9000047360,Odisha
+ST2025-0024,Tarun Sinha,Male,2007-06-22,GEN,B.B.A Applied Skills,2025-06-26,tarun.sinha21@mail.example,9000071480,Tamil Nadu
+ST2023-0093,Nikhil Das,Male,2004-01-12,SC,B.Voc Logistics & Supply Chain,2023-08-12,nikhil.das85@mail.example,9000040659,West Bengal
+ST2025-0168,Gaurav Reddy,Male,2006-10-10,OBC,B.Voc Logistics & Supply Chain,2025-06-22,gaurav.reddy71@mail.example,9000066101,West Bengal
+ST2026-0171,Harsh Nair,Male,2007-01-14,GEN,B.Voc Retail Management,2026-07-18,harsh.nair31@mail.example,9000081763,Karnataka
+ST2023-0257,Gauri Saxena,Female,2004-02-24,GEN,B.Voc Healthcare Services,2023-07-26,gauri.saxena46@mail.example,9000042777,Telangana
+ST2024-0282,Ritesh Verma,Male,2004-04-30,OBC,BBA Applied Skills,2024-07-11,ritesh.verma46@mail.example,9000020544,Uttar Pradesh
+ST2026-0056,Rahul Desai,Male,2006-05-12,SC,BBA Applied Skills,2026-07-25,rahul.desai78@mail.example,9000049803,Bihar
+ST2023-0172,Debashis Sinha,Male,2004-03-21,GEN,B.Voc Retail Management,2023-08-03,debashis.sinha74@mail.example,9000073002,Assam
+ST2024-0046,Lokesh Ghosh,Male,2005-05-04,EWS,B.Voc Retail Management,2024-08-31,lokesh.ghosh37@mail.example,9000038555,Jharkhand
+ST2023-0120,Nandini Bose,Female,2002-12-25,OBC,B.Sc Data Analytics,2023-07-22,nandini.bose75@mail.example,9000048464,Telangana
+ST2026-0238,Sneha Nair,Female,2006-07-24,GEN,BBA Applied Skills,2026-09-18,sneha.nair64@mail.example,9000010657,Telangana
+ST2024-0051,Farida Ghosh,Female,2004-05-26,SC,B.Sc Data Analytics,2024-07-13,farida.ghosh10@mail.example,9000090821,Odisha
+ST2024-0220,Uday Verma,Male,2005-09-10,EWS,B.Voc Automotive Technology,2024-07-19,uday.verma60@mail.example,9000005144,Jharkhand
+ST2024-0079,Debashis Mukherjee,Male,2003-11-16,GEN,BBA Applied Skills,2024-07-12,debashis.mukherjee96@mail.example,9000040533,Jharkhand
+ST2026-0300,Meera Pillai,Female,2007-03-08,GEN,B.Voc Logistics & Supply Chain,2026-08-27,meera.pillai31@mail.example,9000058364,Bihar
+ST2026-0311,Abhik Kulkarni,Male,2007-06-28,EWS,B.Voc Healthcare Services,2026-06-12,abhik.kulkarni97@mail.example,9000052309,Maharashtra
+ST2025-0002,Lavanya Pandey,Female,2007-02-11,GEN,B.Sc Data Analytics,2025-08-25,lavanya.pandey93@mail.example,9000086322,Odisha
+ST2026-0313,Esha Sinha,Female,2006-05-13,OBC,B.Sc Data Analytics,2026-09-28,esha.sinha23@mail.example,9000074567,Telangana
+ST2024-0218,Rahul Mehta,Male,2005-11-08,ST,B.Voc Logistics & Supply Chain,2024-08-17,rahul.mehta39@mail.example,9000042775,Bihar
+ST2025-0026,Ritesh Gupta,Male,2006-03-15,ST,B.Voc Logistics & Supply Chain,2025-07-29,ritesh.gupta20@mail.example,9000093359,Bihar
+ST2025-0247,Tarun Pandey,Male,2004-12-14,SC,B.Voc Automotive Technology,2025-07-10,tarun.pandey10@mail.example,9000023289,Assam
+ST2024-0176,Vaishnavi Nair,Female,2005-01-04,GEN,B.Voc Automotive Technology,2024-07-14,vaishnavi.nair28@mail.example,9000012638,Maharashtra
+ST2025-0093,Pallavi Ali,Female,2004-08-17,OBC,B.Sc Data Analytics,2025-06-20,pallavi.ali25@mail.example,9000098637,Assam
+ST2023-0049,Omkar Shetty,Male,2003-01-07,GEN,B.Voc Logistics & Supply Chain,2023-07-29,omkar.shetty80@mail.example,9000052577,Maharashtra
+ST2025-0217,Uday Gupta,Male,2006-09-25,OBC,B.Sc Data Analytics,2025-08-30,uday.gupta16@mail.example,9000055744,Telangana
+ST2023-0002,Mitali Mukherjee,Female,2005-04-19,EWS,B.Voc Automotive Technology,2023-07-31,mitali.mukherjee36@mail.example,9000028249,Karnataka
+ST2026-0278,Pranav Kulkarni,Male,2006-11-06,GEN,B.Voc Healthcare Services,2026-07-24,pranav.kulkarni46@mail.example,9000071651,Karnataka
+ST2023-0022,Yash Gupta,Male,2003-06-06,OBC,B.Voc Logistics & Supply Chain,2023-07-02,yash.gupta71@mail.example,9000013689,Odisha
+ST2023-0180,Aarohi Verma,Female,2002-09-19,EWS,B.Voc Retail Management,2023-08-26,aarohi.verma39@mail.example,9000005845,Karnataka
+ST2023-0213,Meera Sharma,Female,2004-04-22,SC,B.Voc Automotive Technology,2023-07-14,meera.sharma54@mail.example,9000030800,Karnataka
+ST2026-0328,Charvi Iyer,Female,2007-11-30,OBC,B.Voc Automotive Technology,2026-06-29,charvi.iyer42@mail.example,9000080220,Jharkhand
+ST2023-0240,Yash Shetty,Male,2004-12-11,GEN,B.Sc Data Analytics,2023-06-05,yash.shetty27@mail.example,9000064889,Odisha
+ST2026-0114,Mitali Gupta,Female,2006-07-16,SC,B.Voc Healthcare Services,2026-08-31,mitali.gupta72@mail.example,9000026754,Jharkhand
+ST2024-0286,Vikram Sharma,Male,2005-07-29,OBC,B.Voc Logistics & Supply Chain,2024-08-23,vikram.sharma64@mail.example,9000035635,Tamil Nadu
+ST2023-0121,Rohan Ali,Male,2002-12-23,OBC,B.Voc Healthcare Services,2023-07-05,rohan.ali53@mail.example,9000079349,Odisha
+ST2026-0036,Yamini Verma,Female,2008-03-24,EWS,B.Sc Data Analytics,2026-08-06,yamini.verma40@mail.example,9000009859,Odisha
+ST2023-0252,Gauri Patel,Female,2005-02-13,GEN,B.Sc Data Analytics,2023-06-21,gauri.patel27@mail.example,9000068060,Maharashtra
+ST2025-0237,Aarohi Rao,Female,2005-03-21,OBC,B.Voc Logistics & Supply Chain,2025-07-19,aarohi.rao91@mail.example,9000057783,Tamil Nadu
+ST2026-0122,Yash Banerjee,Male,2007-11-04,SC,B.Voc Healthcare Services,2026-07-06,yash.banerjee48@mail.example,9000051078,Odisha
+ST2024-0113,Farhan Reddy,Male,2004-10-06,GEN,B.Voc Logistics & Supply Chain,2024-08-10,farhan.reddy39@mail.example,9000080772,Karnataka
+ST2023-0168,Sanjana Pillai,Female,2003-08-19,SC,B.Voc Automotive Technology,2023-06-28,sanjana.pillai24@mail.example,9000028441,Bihar
+ST2024-0165,Mitali Khan,Female,2005-12-09,OBC,B.Voc Automotive Technology,2024-08-11,mitali.khan48@mail.example,9000083689,Jharkhand
+ST2024-0065,Uday Kulkarni,Male,2003-11-13,SC,BBA Applied Skills,2024-07-30,uday.kulkarni52@mail.example,9000058881,Karnataka
+ST2026-0108,Mitali Patel,Female,2007-09-27,OBC,BBA Applied Skills,2026-09-20,mitali.patel33@mail.example,9000072337,Tamil Nadu
+ST2025-0111,Dev Iyer,Male,2005-01-09,GEN,B.Voc Logistics & Supply Chain,2025-06-14,dev.iyer96@mail.example,9000072681,Uttar Pradesh
+ST2025-0137,Kunal Gupta,Male,2006-04-07,OBC,B.Voc Logistics & Supply Chain,2025-08-22,kunal.gupta67@mail.example,9000093375,Maharashtra
+ST2026-0183,Ishita Gupta,Female,2007-04-15,SC,B.Voc Automotive Technology,2026-09-27,ishita.gupta40@mail.example,9000095382,Assam
+ST2024-0256,Rahul Reddy,Male,2005-11-11,OBC,B.Voc Healthcare Services,2024-06-23,rahul.reddy83@mail.example,9000038557,Tamil Nadu
+ST2024-0080,Bikram Mondal,Male,2004-08-15,GEN,B.Voc Healthcare Services,2024-07-08,bikram.mondal61@mail.example,9000093338,Uttar Pradesh
+ST2026-0165,Debashis Sharma,Male,2007-12-04,GEN,BBA Applied Skills,2026-08-20,debashis.sharma74@mail.example,9000053324,West Bengal
+ST2024-0155,Yamini Das,Female,2004-01-10,SC,B.Sc Data Analytics,2024-07-21,yamini.das91@mail.example,9000057028,West Bengal
+ST2025-0022,Zoya Banerjee,Female,2007-04-03,EWS,B.Voc Logistics & Supply Chain,2025-07-04,zoya.banerjee14@mail.example,9000021093,Assam
+ST2024-0208,Zubin Reddy,Male,2004-04-20,SC,B.Sc Data Analytics,2024-06-01,zubin.reddy78@mail.example,9000067437,Telangana
+ST2023-0097,Lokesh Ali,Male,2004-08-10,SC,B.Voc Automotive Technology,2023-06-17,lokesh.ali80@mail.example,9000035210,Karnataka
+ST2025-0122,Omkar Chatterjee,Male,2006-11-29,SC,B.Voc Healthcare Services,2025-08-11,omkar.chatterjee92@mail.example,9000015051,Telangana
+ST2024-0214,Payal Ghosh,Female,2006-06-19,GEN,B.Voc Retail Management,2024-07-12,payal.ghosh13@mail.example,9000077196,West Bengal
+ST2026-0175,Vikram Nair,Male,2007-10-19,SC,B.Sc Data Analytics,2026-06-14,vikram.nair91@mail.example,9000017456,Maharashtra
+ST2023-0026,Harsh Nair,Male,2005-05-28,EWS,B.Voc Retail Management,2023-07-04,harsh.nair13@mail.example,9000057382,Odisha
+ST2024-0207,Manav Mukherjee,Male,2003-11-19,GEN,B.Voc Retail Management,2024-06-14,manav.mukherjee26@mail.example,9000096062,Maharashtra
+ST2024-0259,Sourav Desai,Male,2004-07-21,OBC,B.Voc Retail Management,2024-08-01,sourav.desai31@mail.example,9000039761,Tamil Nadu
+ST2024-0059,Sahil Nair,Male,2005-06-15,GEN,B.Voc Retail Management,2024-06-23,sahil.nair20@mail.example,9000007413,Tamil Nadu
+ST2023-0027,Kunal Banerjee,Male,2004-06-20,OBC,B.Voc Automotive Technology,2023-06-17,kunal.banerjee12@mail.example,9000093631,Maharashtra
+ST2026-0078,Tanvi Pillai,Female,2008-04-26,SC,B.Sc Data Analytics,2026-06-17,tanvi.pillai89@mail.example,9000093409,West Bengal
+ST2023-0101,Omkar Gupta,Male,2004-01-16,OBC,B.Voc Automotive Technology,2023-07-15,omkar.gupta31@mail.example,9000022781,Telangana
+ST2023-0063,Pallavi Das,Female,2003-07-14,GEN,B.Sc Data Analytics,2023-07-04,pallavi.das67@mail.example,9000007482,Bihar
+ST2023-0193,Oindrila Pandey,Female,2003-10-22,GEN,B.Voc Automotive Technology,2023-06-22,oindrila.pandey52@mail.example,9000064591,Bihar
+ST2025-0106,Ritesh Shetty,Male,2005-09-16,EWS,B.Voc Retail Management,2025-08-13,ritesh.shetty20@mail.example,9000051421,Assam
+ST2026-0248,Gaurav Mondal,Male,2006-04-25,GEN,B.Voc Logistics & Supply Chain,2026-06-22,gaurav.mondal80@mail.example,9000038651,Maharashtra
+ST2023-0228,Nikhil Mukherjee,Male,2004-09-06,GEN,B.Voc Logistics & Supply Chain,2023-08-16,nikhil.mukherjee82@mail.example,9000051740,West Bengal
+ST2026-0186,Harsh Ali,Male,2008-07-21,GEN,B.Voc Healthcare Services,2026-09-29,harsh.ali73@mail.example,9000050716,Uttar Pradesh
+ST2025-0248,Pallavi Desai,Female,2007-07-03,OBC,B.Sc Data Analytics,2025-08-14,pallavi.desai71@mail.example,9000046665,Assam
+ST2026-0195,Mitali Roy,Female,2007-12-03,SC,B.Voc Automotive Technology,2026-08-13,mitali.roy91@mail.example,9000093325,Assam
+ST2023-0133,Yamini Sen,Female,2003-07-26,OBC,B.Voc Retail Management,2023-06-16,yamini.sen33@mail.example,9000057690,Jharkhand
+ST2023-0122,Sourav Patel,Male,2004-05-05,GEN,B.Voc Logistics & Supply Chain,2023-06-02,sourav.patel55@mail.example,9000034509,Assam
+ST2025-0012,Dev Ali,Male,2007-04-07,OBC,B.Voc Healthcare Services,2025-08-20,dev.ali57@mail.example,9000076793,Maharashtra
+ST2024-0146,Omkar Bose,Male,2005-10-21,ST,B.Voc Healthcare Services,2024-06-26,omkar.bose45@mail.example,9000024302,Assam
+ST2023-0208,Oindrila Chatterjee,Female,2003-09-10,GEN,B.Voc Retail Management,2023-06-14,oindrila.chatterjee31@mail.example,9000001425,Jharkhand
+ST2024-0015,Aarohi Mishra,Female,2005-10-19,GEN,B.Sc Data Analytics,2024-06-04,aarohi.mishra64@mail.example,9000056076,Karnataka
+ST2024-0131,Chirag Mehta,Male,2003-12-06,OBC,B.Voc Automotive Technology,2024-06-21,chirag.mehta62@mail.example,9000079137,West Bengal
+ST2023-0031,Manav Gupta,Male,2005-01-15,GEN,B.Voc Healthcare Services,2023-07-24,manav.gupta85@mail.example,9000077438,Tamil Nadu
+ST2024-0014,Riya Verma,Female,2004-03-25,OBC,B.Voc Healthcare Services,2024-07-28,riya.verma96@mail.example,9000002297,Odisha
+ST2024-0231,Rahul Shetty,Male,2004-07-02,SC,B.Voc Automotive Technology,2024-06-22,rahul.shetty82@mail.example,9000079042,Jharkhand
+ST2024-0276,Omkar Sinha,Male,2003-11-29,GEN,B.Sc Data Analytics,2024-06-29,omkar.sinha45@mail.example,9000064947,Telangana
+ST2026-0269,Omkar Mehta,Male,2006-09-08,SC,BBA Applied Skills,2026-05-21,omkar.mehta58@mail.example,9000098250,Telangana
+ST2025-0299,Bhavna Saxena,Female,2005-07-05,OBC,B.Voc Logistics & Supply Chain,2025-08-18,bhavna.saxena80@mail.example,9000023317,Odisha
+ST2026-0223,Swati Rao,Female,2007-12-21,OBC,B.Voc Healthcare Services,2026-08-18,swati.rao45@mail.example,9000068805,Odisha
+ST2024-0090,Tarun Rao,Male,2003-10-06,GEN,BVoc Retail Mgmt,2024-07-26,tarun.rao97@mail.example,9000096583,Telangana
+ST2025-0015,Jay Saxena,Male,2005-03-22,GEN,B.Voc Healthcare Services,2025-06-16,jay.saxena88@mail.example,9000018679,Odisha
+ST2026-0308,Sahil Sen,Male,2008-05-24,ST,B.Voc Healthcare Services,2026-08-27,sahil.sen28@mail.example,9000007727,Assam
+ST2023-0237,Debashis Ghosh,Male,2004-12-22,OBC,BBA Applied Skills,2023-08-03,debashis.ghosh19@mail.example,9000002566,Jharkhand
+ST2025-0295,Arjun Desai,Male,2006-06-03,OBC,B.Voc Retail Management,2025-07-04,arjun.desai90@mail.example,9000094587,Tamil Nadu
+ST2024-0243,Yash Kulkarni,Male,2006-08-12,EWS,B.Voc Logistics & Supply Chain,2024-08-16,yash.kulkarni12@mail.example,9000050875,Uttar Pradesh
+ST2026-0110,Kunal Sharma,Male,2006-07-30,OBC,B.Voc Automotive Technology,2026-06-22,kunal.sharma44@mail.example,9000077126,Uttar Pradesh
+ST2024-0258,Meera Mishra,Female,2004-02-28,OBC,B.Voc Healthcare Services,2024-08-17,meera.mishra87@mail.example,9000068771,West Bengal
+ST2023-0085,Harini Mehta,Female,2004-02-24,ST,B.Voc Automotive Technology,2023-08-30,harini.mehta13@mail.example,9000010210,West Bengal
+ST2025-0117,Kartik Saxena,Male,2004-11-02,OBC,B.Voc Retail Management,2025-07-09,kartik.saxena21@mail.example,9000098093,Tamil Nadu
+ST2026-0314,Bikram Mukherjee,Male,2014-08-15,GEN,B.Voc Automotive Technology,2026-05-21,bikram.mukherjee13@mail.example,9000085870,Odisha
+ST2026-0038,Sahil Ali,Male,2007-06-24,GEN,B.Voc Automotive Technology,2026-06-25,sahil.ali94@mail.example,9000093507,Tamil Nadu
+ST2023-0102,Kartik Sharma,Male,2005-03-14,OBC,B.Sc Data Analytics,2023-08-28,kartik.sharma89@mail.example,9000065255,Maharashtra
+ST2026-0166,Sanjana Patel,Female,2006-07-30,OBC,B.Voc Automotive Technology,2026-08-03,sanjana.patel33@mail.example,9000020634,Assam
+ST2025-0147,Farhan Mukherjee,Male,2005-02-19,GEN,B.Voc Logistics & Supply Chain,2025-08-18,farhan.mukherjee57@mail.example,9000086576,Telangana
+ST2024-0187,Ananya Sinha,Female,2006-01-20,SC,B.Voc Retail Management,2024-08-17,ananya.sinha84@mail.example,9000084034,Assam
+ST2024-0100,Sourav Bose,Other,2005-06-03,GEN,B.Voc Logistics & Supply Chain,2024-07-26,sourav.bose61@mail.example,9000090561,Jharkhand
+ST2026-0194,Dev Gupta,Male,2006-04-05,SC,B.Voc Retail Management,2026-07-29,dev.gupta82@mail.example,9000041252,Maharashtra
+ST2025-0206,Lavanya Mukherjee,Female,2005-08-28,OBC,B.Sc Data Analytics,2025-08-12,lavanya.mukherjee89@mail.example,9000011554,Uttar Pradesh
+ST2024-0089,Yash Shetty,Male,2005-09-18,OBC,B.Voc Automotive Technology,2024-06-22,yash.shetty96@mail.example,9000033896,Telangana
+ST2026-0030,Oindrila Bose,Female,2007-07-10,GEN,B.Voc Automotive Technology,2026-05-25,oindrila.bose66@mail.example,9000038002,Assam
+ST2023-0020,Ishita Iyer,Female,2004-02-04,SC,B.Voc Logistics & Supply Chain,2023-06-11,ishita.iyer69@mail.example,9000033594,Maharashtra
+ST2026-0259,Lokesh Verma,Male,2006-11-05,GEN,B.Voc Healthcare Services,2026-06-01,lokesh.verma94@mail.example,9000057977,Uttar Pradesh
+ST2023-0199,Harini Ali,Female,2004-10-27,GEN,B.Voc Healthcare Services,2023-07-05,harini.ali73@mail.example,9000043792,Bihar
+ST2025-0243,Ishita Gupta,Female,2006-09-09,OBC,B.Voc Automotive Technology,2025-06-14,ishita.gupta63@mail.example,9000023925,Tamil Nadu
+ST2024-0132,Yash Gupta,Male,2006-02-07,SC,B.Voc Retail Management,2024-08-16,yash.gupta70@mail.example,9000027214,Bihar
+ST2025-0310,Aarohi Mukherjee,Female,2007-04-28,GEN,BBA Applied Skills,2025-06-18,aarohi.mukherjee43@mail.example,9000066255,Odisha
+ST2025-0011,Yamini Mishra,Female,2005-05-11,OBC,BBA Applied Skills,2025-06-11,yamini.mishra30@mail.example,9000099678,Odisha
+ST2026-0066,Tarun Ghosh,Male,2005-10-30,GEN,B.Voc Logistics & Supply Chain,2026-07-15,tarun.ghosh35@mail.example,9000077876,Jharkhand
+ST2026-0292,Debashis Das,Male,2005-11-17,OBC,B.Voc Automotive Technology,2026-07-04,debashis.das49@mail.example,9000032354,Odisha
+ST2026-0283,Sourav Ghosh,Male,2008-05-20,GEN,B.Voc Logistics & Supply Chain,2026-06-17,sourav.ghosh21@mail.example,9000068509,Assam
+ST2026-0251,Rahul Patel,Male,2006-09-19,GEN,BBA Applied Skills,2026-05-29,rahul.patel60@mail.example,9000006964,Maharashtra
+ST2024-0156,Tarun Mondal,Male,2003-11-02,GEN,B.Voc Retail Management,2024-06-07,tarun.mondal97@mail.example,9000095691,Maharashtra
+ST2026-0253,Lavanya Patel,Female,2006-07-14,GEN,B.Voc Retail Management,2026-07-14,lavanya.patel67@mail.example,9000085548,Bihar
+ST2025-0038,Meera Pandey,Female,2007-05-18,SC,B.Sc Data Analytics,2025-08-03,meera.pandey87@mail.example,9000098433,Maharashtra
+ST2023-0187,Sourav Desai,Male,2002-08-04,OBC,B.Voc Retail Management,2023-07-18,sourav.desai33@mail.example,9000006177,Tamil Nadu
+ST2024-0190,Manav Mukherjee,Male,2004-03-21,SC,B.Sc Data Analytics,2024-07-07,manav.mukherjee28@mail.example,9000023715,West Bengal
+ST2024-0167,Farida Desai,Female,2003-07-06,GEN,BBA Applied Skills,2024-06-15,farida.desai90@mail.example,9000039899,Jharkhand
+ST2024-0263,Vaishnavi Kapoor,Female,2004-03-08,EWS,B.Voc Automotive Technology,2024-07-08,vaishnavi.kapoor61@mail.example,9000041188,Telangana
+ST2023-0170,Sneha Pillai,Female,2005-06-22,GEN,B.Voc Automotive Technology,2023-07-20,sneha.pillai78@mail.example,9000094373,Tamil Nadu
+ST2026-0222,Nikhil Rao,Male,2006-10-22,GEN,B.Voc Retail Management,2026-05-25,nikhil.rao70@mail.example,9000017183,Maharashtra
+ST2023-0057,Sahil Sen,Male,2002-12-15,GEN,B.Voc Automotive Technology,2023-07-24,sahil.sen51@mail.example,9000021220,Uttar Pradesh
+ST2023-0135,Nikhil Saxena,Male,2005-05-05,OBC,B.Voc Logistics & Supply Chain,2023-08-10,nikhil.saxena11@mail.example,9000001430,Karnataka
+ST2024-0071,Dev Khan,Male,2003-08-31,ST,B.Voc Healthcare Services,2024-08-13,dev.khan15@mail.example,9000057089,Karnataka
+ST2025-0119,Urmila Mehta,Female,2005-11-26,OBC,B.Sc Data Analytics,2025-06-23,urmila.mehta69@mail.example,9000098325,Tamil Nadu
+ST2024-0225,Nandini Mondal,Female,2005-09-04,ST,B.Voc Automotive Technology,2024-07-14,nandini.mondal20@mail.example,9000023343,Jharkhand
+ST2023-0146,Urmila Sinha,Female,2005-06-01,GEN,B.Voc Retail Management,2023-06-03,urmila.sinha28@mail.example,9000099768,Telangana
+ST2026-0216,Harini Sharma,Female,2007-01-05,GEN,BVoc Retail Mgmt,2026-06-18,harini.sharma45@mail.example,9000097633,Assam
+ST2024-0224,Sahil Pillai,Male,2004-08-26,OBC,B.Sc Data Analytics,2024-07-06,sahil.pillai63@mail.example,9000026826,Maharashtra
+ST2024-0270,Yash Sen,Male,2005-11-03,GEN,B.Voc Automotive Technology,2024-07-08,yash.sen42@mail.example,9000009602,West Bengal
+ST2025-0303,Manav Nair,Male,2005-07-16,GEN,B.Voc Healthcare Services,2025-06-01,manav.nair16@mail.example,9000040723,Maharashtra
+ST2026-0169,Ananya Gupta,Female,2006-12-26,OBC,B.Sc Data Analytics,2026-09-24,ananya.gupta34@mail.example,9000003679,Maharashtra
+ST2024-0188,Bhavna Das,Female,2006-03-29,GEN,B.Voc Retail Management,2024-06-09,bhavna.das73@mail.example,9000082750,Tamil Nadu
+ST2024-0273,Uday Banerjee,Male,2006-05-17,GEN,B.Voc Logistics & Supply Chain,2024-06-01,uday.banerjee16@mail.example,9000066824,Telangana
+ST2024-0182,Vaishnavi Kapoor,Female,2005-09-22,OBC,B.Voc Logistics & Supply Chain,2024-06-03,vaishnavi.kapoor39@mail.example,9000087742,Assam
+ST2024-0022,Riya Sharma,Female,2004-03-17,GEN,B.Sc Data Analytics,2024-07-05,riya.sharma13@mail.example,9000012076,Assam
+ST2026-0233,Payal Mukherjee,Female,2006-04-16,GEN,B.Voc Automotive Technology,2026-07-21,payal.mukherjee86@mail.example,9000027797,Uttar Pradesh
+ST2026-0255,Arjun Rao,Male,2006-12-24,EWS,B.Voc Logistics and Supply Chain,2026-05-18,arjun.rao39@mail.example,9000033148,Karnataka
+ST2025-0192,Jay Shetty,Male,2006-01-02,OBC,B.Voc Healthcare Services,2025-06-09,jay.shetty69@mail.example,9000074870,Uttar Pradesh
+ST2026-0138,Urmila Reddy,Female,2006-06-15,OBC,B.Voc Logistics & Supply Chain,2026-08-26,urmila.reddy41@mail.example,9000097278,Uttar Pradesh
+ST2026-0086,Nandini Pillai,Female,2006-07-24,GEN,B.Voc Logistics & Supply Chain,2026-06-14,nandini.pillai96@mail.example,9000081722,Uttar Pradesh
+ST2024-0279,Nikhil Bose,Male,2005-01-24,GEN,B.Voc Automotive Technology,2024-06-21,nikhil.bose87@mail.example,9000065952,Karnataka
+ST2025-0218,Zoya Ghosh,Female,2006-10-24,GEN,B.Sc Data Analytics,2025-08-25,zoya.ghosh21@mail.example,9000066522,Bihar
+ST2023-0233,Arjun Das,Male,2005-05-07,EWS,BVoc Automotive Technology,2023-07-30,arjun.das28@mail.example,9000045626,Odisha
+ST2024-0192,Farhan Mukherjee,Male,2005-08-25,EWS,B.Voc Automotive Technology,2024-07-01,farhan.mukherjee27@mail.example,9000022114,Bihar
+ST2026-0246,Sneha Verma,Female,2007-03-20,OBC,B.Voc Retail Management,2026-09-09,sneha.verma50@mail.example,9000063321,Jharkhand
+ST2026-0220,Tarun Banerjee,Male,2005-10-12,GEN,BBA Applied Skills,2026-08-23,tarun.banerjee88@mail.example,9000075499,Odisha
+ST2026-0291,Pranav Ali,Male,2005-07-20,GEN,B.Voc Healthcare Services,2026-06-23,pranav.ali19@mail.example,9000071296,Bihar
+ST2026-0163,Harini Kapoor,Female,2005-09-28,EWS,B.Sc Data Analytics,2026-09-11,harini.kapoor94@mail.example,9000030259,Jharkhand
+ST2023-0115,Gauri Ali,Female,2005-03-13,OBC,B.Voc Logistics & Supply Chain,2023-06-14,gauri.ali32@mail.example,9000082907,Telangana
+ST2026-0241,Arjun Mukherjee,Male,2008-01-07,EWS,B.Sc Data Analytics,2026-08-23,arjun.mukherjee27@mail.example,9000070007,Karnataka
+ST2026-0077,Yamini Joshi,Female,2007-12-20,ST,B.Voc Automotive Technology,2026-08-23,yamini.joshi20@mail.example,9000058326,Maharashtra
+ST2026-0026,Bikram Khan,Male,2006-02-05,GEN,B.Voc Retail Management,2026-05-29,bikram.khan15@mail.example,9000046151,Tamil Nadu
+ST2025-0141,Varun Shetty,Male,2005-12-13,SC,B.Sc Data Analytics,2025-06-27,varun.shetty17@mail.example,9000012677,Bihar
+ST2025-0074,Uday Rao,Male,2006-11-27,ST,B.Voc Retail Management,2025-06-27,uday.rao16@mail.example,9000002632,Telangana
+ST2025-0304,Arjun Bose,Other,2004-10-21,EWS,B.Sc Data Analytics,2025-06-02,arjun.bose66@mail.example,9000015346,Bihar
+ST2026-0132,Diya Sharma,Female,2006-02-04,SC,B.Voc Healthcare Services,2026-09-22,diya.sharma12@mail.example,9000090048,Maharashtra
+ST2024-0267,Bikram Nair,Male,2003-08-22,OBC,B.Voc Automotive Technology,2024-07-16,bikram.nair23@mail.example,9000092122,Tamil Nadu
+ST2024-0235,Pranav Pillai,Other,2005-09-04,GEN,B.Sc Data Analytics,2024-06-19,pranav.pillai76@mail.example,9000018002,Uttar Pradesh
+ST2026-0274,Zubin Gupta,Male,2007-02-06,SC,B.Sc Data Analytics,2026-07-01,zubin.gupta91@mail.example,9000041216,Assam
+ST2025-0143,Bikram Roy,Male,2006-11-18,ST,B.Voc Logistics & Supply Chain,2025-08-04,bikram.roy53@mail.example,9000030619,Assam
+ST2024-0139,Chirag Kulkarni,Male,2005-12-31,GEN,B.Voc Healthcare Services,2024-07-27,chirag.kulkarni64@mail.example,9000082842,Maharashtra
+ST2026-0276,Debashis Pandey,Male,2007-08-30,GEN,B.Voc Retail Management,2026-06-08,debashis.pandey31@mail.example,9000090438,Jharkhand
+ST2024-0045,Sahil Shetty,Male,2004-07-09,GEN,B.Voc Automotive Technology,2024-08-19,sahil.shetty19@mail.example,9000021935,Odisha
+ST2023-0126,Swati Sen,Female,2004-03-29,SC,B.Sc Data Analytics,2023-06-01,swati.sen22@mail.example,9000016494,Jharkhand
+ST2026-0120,Imran Sinha,Male,2005-09-19,OBC,B.Voc Logistics & Supply Chain,2026-07-19,imran.sinha13@mail.example,9000005604,Tamil Nadu
+ST2023-0104,Pallavi Mondal,Other,2004-06-06,OBC,B.Voc Logistics & Supply Chain,2023-08-14,pallavi.mondal79@mail.example,9000027571,West Bengal
+ST2024-0151,Jhanvi Banerjee,Female,2003-09-19,GEN,B.Voc Healthcare Services,2024-07-19,jhanvi.banerjee76@mail.example,9000027769,Maharashtra
+ST2024-0281,Rohan Chatterjee,Male,2003-10-05,GEN,B.Sc Data Analytics,2024-07-22,rohan.chatterjee61@mail.example,9000031333,Assam
+ST2026-0249,Kartik Pandey,Male,2007-11-06,OBC,B.Voc Healthcare Services,2026-06-23,kartik.pandey40@mail.example,9000080677,Uttar Pradesh
+ST2025-0162,Gauri Bose,Female,2005-06-23,OBC,B.Voc Logistics & Supply Chain,2025-07-12,gauri.bose75@mail.example,9000035074,Tamil Nadu
+ST2024-0120,Yamini Das,Female,2006-06-11,GEN,B.Voc Healthcare Services,2024-06-26,yamini.das50@mail.example,9000087870,Karnataka
+ST2025-0182,Rahul Patel,Male,2005-07-10,OBC,B.Voc Healthcare Services,2025-06-27,rahul.patel38@mail.example,9000079200,Uttar Pradesh
+ST2025-0177,Jay Patel,Male,2006-12-06,ST,B.Voc Retail Management,2025-06-09,jay.patel44@mail.example,9000083710,Telangana
+ST2026-0076,Zoya Pillai,Female,2007-08-19,EWS,B.Voc Automotive Technology,2026-07-10,zoya.pillai87@mail.example,9000073754,Maharashtra
+ST2023-0130,Uday Pandey,Male,2003-04-20,GEN,B.Voc Healthcare Services,2023-07-25,uday.pandey50@mail.example,9000010158,Karnataka
+ST2025-0232,Pranav Reddy,Male,2005-08-23,SC,B.Voc Healthcare Services,2025-07-20,pranav.reddy64@mail.example,9000028918,Karnataka
+ST2023-0198,Rohan Sen,Male,2002-11-25,SC,B.Voc Logistics & Supply Chain,2023-08-09,rohan.sen43@mail.example,9000037831,Tamil Nadu
+ST2025-0164,Kartik Saxena,Male,2005-07-27,OBC,B.Sc Data Analytics,2025-06-02,kartik.saxena70@mail.example,9000014479,Odisha
+ST2026-0201,Yash Pandey,Male,2008-06-08,GEN,B.Voc Retail Management,2026-08-31,yash.pandey82@mail.example,9000097174,Maharashtra
+ST2023-0173,Kartik Verma,Male,2003-08-12,GEN,B.Voc Automotive Technology,2023-08-26,kartik.verma57@mail.example,9000020512,Uttar Pradesh
+ST2023-0149,Yamini Das,Female,2002-08-24,SC,B.Voc Logistics & Supply Chain,2023-07-29,yamini.das47@mail.example,9000015816,Tamil Nadu
+ST2025-0196,Jay Patel,Male,2007-01-04,OBC,B.Voc Healthcare Services,2025-08-03,jay.patel69@mail.example,9000085081,Karnataka
+ST2025-0077,Kavya Sharma,Female,2005-04-17,SC,B.Voc Logistics & Supply Chain,2025-08-11,kavya.sharma20@mail.example,9000057460,Uttar Pradesh
+ST2026-0146,Sourav Das,Male,2005-12-30,GEN,B.Voc Healthcare Services,2026-09-07,sourav.das61@mail.example,9000057746,Bihar
+ST2025-0236,Sahil Mishra,Male,2005-04-14,ST,B.Voc Logistics & Supply Chain,2025-07-13,sahil.mishra40@mail.example,9000084904,Maharashtra
+ST2025-0250,Vaishnavi Khan,Female,2004-07-25,SC,B.Voc Automotive Technology,2025-07-17,vaishnavi.khan16@mail.example,9000058840,Tamil Nadu
+ST2026-0260,Pranav Mishra,Male,2006-02-02,SC,B.Voc Healthcare Services,2026-08-13,pranav.mishra37@mail.example,9000002191,Assam
+ST2026-0205,Pallavi Desai,Female,2006-03-12,ST,B.Sc Data Analytics,2026-06-29,pallavi.desai69@mail.example,9000023429,West Bengal
+ST2026-0247,Kunal Joshi,Male,2007-02-08,SC,B.Voc Automotive Technology,2026-06-09,kunal.joshi40@mail.example,9000064444,Assam
+ST2026-0128,Gauri Nair,Female,2006-08-28,ST,B.Sc Data Analytics,2026-06-07,gauri.nair72@mail.example,9000003270,Uttar Pradesh
+ST2025-0187,Sneha Sinha,Female,2007-03-29,OBC,B.Voc Automotive Technology,2025-07-24,sneha.sinha60@mail.example,9000082205,Maharashtra
+ST2024-0226,Vaishnavi Verma,Female,2004-12-19,OBC,B.Voc Logistics & Supply Chain,2024-07-29,vaishnavi.verma98@mail.example,9000042445,Bihar
+ST2025-0084,Diya Desai,Female,2005-05-30,OBC,B.Voc Automotive Technology,2025-07-28,diya.desai20@mail.example,9000068901,Odisha
+ST2026-0184,Ritesh Das,Male,2007-11-21,OBC,B.Sc Data Analytics,2026-06-09,ritesh.das36@mail.example,9000036718,Bihar
+ST2023-0125,Vikram Mukherjee,Male,2002-12-15,EWS,B.Voc Healthcare Services,2023-08-24,vikram.mukherjee63@mail.example,9000083805,Odisha
+ST2026-0007,Bhavna Chatterjee,Female,2006-10-29,ST,BBA Applied Skills,2026-05-30,bhavna.chatterjee75@mail.example,9000029949,Telangana
+ST2026-0070,Lavanya Khan,Female,2007-04-11,OBC,BBA Applied Skills,2026-07-15,lavanya.khan75@mail.example,9000024643,Assam
+ST2024-0149,Harsh Mishra,Male,2005-04-05,OBC,B.Voc Logistics & Supply Chain,2024-06-25,harsh.mishra60@mail.example,9000065864,Bihar
+ST2023-0124,Imran Iyer,Male,2004-03-14,OBC,B.Voc Retail Management,2023-08-03,imran.iyer79@mail.example,9000072066,Assam
+ST2023-0045,Imran Sinha,Male,2003-12-10,SC,B.Voc Logistics & Supply Chain,2023-06-29,imran.sinha52@mail.example,9000035325,Bihar
+ST2024-0247,Pallavi Khan,Female,2005-01-04,SC,B.Voc Automotive Technology,2024-08-30,pallavi.khan75@mail.example,9000046016,Uttar Pradesh
+ST2023-0092,Farhan Iyer,Other,2002-07-10,GEN,B.Sc Data Analytics,2023-06-20,farhan.iyer24@mail.example,9000065306,Bihar
+ST2023-0112,Uday Mehta,Male,2005-03-20,SC,B.Voc Automotive Technology,2023-08-31,uday.mehta77@mail.example,9000041001,Tamil Nadu
+ST2024-0025,Diya Sharma,Female,2004-05-20,OBC,B.Sc Data Analytics,2024-06-24,diya.sharma17@mail.example,9000013995,Assam
+ST2023-0212,Yamini Pillai,Female,2004-07-14,SC,BBA Applied Skills,2023-07-28,yamini.pillai40@mail.example,9000052655,Tamil Nadu
+ST2025-0029,Manav Das,Male,2007-02-04,OBC,BBA Applied Skills,2025-08-12,manav.das27@mail.example,9000071308,Tamil Nadu
+ST2023-0251,Pranav Iyer,Male,2003-12-19,EWS,B.Voc Automotive Technology,2023-08-20,pranav.iyer24@mail.example,9000030902,Assam
+ST2025-0178,Oindrila Kulkarni,Female,2004-10-26,GEN,B.Voc Automotive Technology,2025-08-16,oindrila.kulkarni27@mail.example,9000018229,Assam
+ST2024-0296,Charvi Nair,Female,2003-10-27,EWS,B.Voc Retail Management,2024-07-23,charvi.nair63@mail.example,9000007268,Telangana
+ST2025-0281,Pallavi Kapoor,Female,2007-07-12,ST,BBA Applied Skills,2025-08-15,pallavi.kapoor63@mail.example,9000062795,Jharkhand
+ST2024-0077,Zoya Chatterjee,Female,2004-07-14,EWS,B.Voc Healthcare Services,2024-06-02,zoya.chatterjee39@mail.example,9000074833,West Bengal
+ST2024-0169,Aarav Shetty,Male,2005-08-12,GEN,B.Voc Automotive Technology,2024-08-03,aarav.shetty67@mail.example,9000033605,Bihar
+ST2024-0015,Harsh Khan,Female,2005-10-19,GEN,B.Sc Data Analytics,2024-06-04,dup.aarohi.mishra64@mail.example,9000056076,Karnataka
+ST2026-0185,Kartik Khan,Male,2006-07-07,GEN,B.Voc Logistics & Supply Chain,2026-06-03,kartik.khan50@mail.example,9000097701,Telangana
+ST2025-0280,Pranav Iyer,Male,2005-04-17,ST,B.Voc Automotive Technology,2025-08-09,pranav.iyer73@mail.example,9000032592,Telangana
+ST2026-0058,Debashis Roy,Male,2005-07-29,GEN,B.Voc Healthcare Services,2026-06-15,debashis.roy12@mail.example,9000037478,Uttar Pradesh
+ST2024-0172,Kunal Bose,Male,2004-07-12,GEN,BBA Applied Skills,2024-06-16,kunal.bose12@mail.example,9000000624,Tamil Nadu
+ST2024-0168,Yash Das,Male,2005-01-09,GEN,B.Voc Automotive Technology,2024-08-09,yash.das50@mail.example,9000056828,Telangana
+ST2024-0278,Sourav Mukherjee,Male,2003-08-29,OBC,B.Voc Logistics & Supply Chain,2024-08-02,sourav.mukherjee13@mail.example,9000000904,Telangana
+ST2024-0081,Imran Patel,Male,2004-12-13,GEN,B.Voc Retail Management,2024-06-16,imran.patel27@mail.example,9000012604,Karnataka
+ST2025-0010,Rohan Banerjee,Male,2006-11-13,OBC,B.Voc Automotive Technology,2025-07-23,rohan.banerjee35@mail.example,9000090419,Karnataka
+ST2026-0214,Aarohi Reddy,Female,2008-05-03,SC,B.Voc Automotive Technology,2026-05-31,aarohi.reddy29@mail.example,9000087806,Bihar
+ST2025-0150,Abhik Verma,Male,2005-01-01,GEN,B.Sc Data Analytics,2025-08-02,abhik.verma46@mail.example,9000015143,West Bengal
+ST2025-0269,Tanvi Khan,Female,2005-08-31,OBC,B.Sc Data Analytics,2025-08-01,tanvi.khan37@mail.example,9000097912,Jharkhand
+ST2024-0073,Ananya Kapoor,Female,2004-12-05,GEN,BBA Applied Skills,2024-06-05,ananya.kapoor22@mail.example,9000013494,Telangana
+ST2024-0009,Lokesh Kapoor,Male,2006-06-25,SC,B.Sc Data Analytics,2024-08-28,lokesh.kapoor19@mail.example,9000065984,Jharkhand
+ST2025-0018,Tarun Mondal,Male,2006-02-22,SC,B.Voc Retail Management,2025-07-30,tarun.mondal84@mail.example,9000077976,Assam
+ST2025-0130,Debashis Ali,Male,2004-12-16,OBC,B.Voc Logistics & Supply Chain,2025-08-09,debashis.ali55@mail.example,9000054005,Assam
+ST2024-0154,Rahul Saxena,Male,2003-11-02,OBC,B.Voc Healthcare Services,2024-08-31,rahul.saxena80@mail.example,9000061422,West Bengal
+ST2023-0161,Aarav Joshi,Male,2003-10-08,SC,B.Voc Automotive Technology,2023-06-11,aarav.joshi39@mail.example,9000046190,Telangana
+ST2024-0128,Nandini Nair,Female,2005-08-17,OBC,B.Voc Retail Management,2024-08-30,nandini.nair47@mail.example,9000035639,Assam
+ST2025-0057,Sahil Sinha,Male,2006-03-12,OBC,BBA Applied Skills,2025-07-27,sahil.sinha58@mail.example,9000021404,Bihar
+ST2024-0133,Rohan Iyer,Male,2004-12-10,OBC,B.Voc Healthcare Services,2024-06-12,rohan.iyer63@mail.example,9000029215,West Bengal
+ST2025-0036,Imran Khan,Male,2004-09-19,OBC,B.Voc Retail Management,2025-07-20,imran.khan55@mail.example,9000039716,Karnataka
+ST2023-0083,Dev Pandey,Male,2004-12-15,OBC,B.Voc Retail Management,2023-06-11,dev.pandey13@mail.example,9000072458,Bihar
+ST2024-0199,Lavanya Kapoor,Female,2004-07-21,GEN,BBA Applied Skills,2024-08-22,lavanya.kapoor76@mail.example,9000022916,Odisha
+ST2026-0102,Sanjana Saxena,Female,2006-11-21,SC,B.Voc Logistics & Supply Chain,2026-08-23,sanjana.saxena58@mail.example,9000066638,Maharashtra
+ST2024-0292,Zoya Pandey,Female,2006-01-10,OBC,B.Sc Data Analytics,2024-08-01,zoya.pandey14@mail.example,9000042003,Maharashtra
+ST2025-0023,Bhavna Shetty,Female,2006-07-17,GEN,B.Voc Logistics & Supply Chain,2025-08-13,bhavna.shetty84@mail.example,9000043007,Odisha
+ST2024-0215,Sourav Gupta,Male,2005-10-12,OBC,B.Voc Logistics & Supply Chain,2024-07-10,sourav.gupta53@mail.example,9000063116,Jharkhand
+ST2025-0305,Ritesh Ali,Male,2006-06-09,GEN,BBA Applied Skills,2025-06-12,ritesh.ali41@mail.example,9000072405,West Bengal
+ST2026-0127,Ritesh Mehta,Male,2007-12-01,GEN,B.Voc Logistics & Supply Chain,2026-07-26,ritesh.mehta19@mail.example,9000029907,West Bengal
+ST2024-0058,Vaishnavi Das,Female,2005-11-20,SC,B.Voc Healthcare Services,2024-08-18,vaishnavi.das68@mail.example,9000019691,Telangana
+ST2024-0209,Pranav Shetty,Male,2005-06-15,GEN,B.Voc Logistics & Supply Chain,2024-07-13,pranav.shetty76@mail.example,9000001444,Uttar Pradesh
+ST2026-0227,Ankita Roy,Female,2005-09-11,OBC,B.Voc Logistics & Supply Chain,2026-06-08,ankita.roy78@mail.example,9000035875,Assam
+ST2026-0158,Vaishnavi Shetty,Female,2007-05-07,GEN,B.Voc Healthcare Services,2026-05-21,vaishnavi.shetty40@mail.example,9000026483,Maharashtra
+ST2026-0244,Zoya Pandey,Female,2006-03-03,OBC,B.Sc Data Analytics,2026-06-21,zoya.pandey42@mail.example,9000071473,Odisha
+ST2025-0124,Riya Gupta,Female,2006-06-16,OBC,B.Voc Retail Management,2025-06-18,riya.gupta66mail.example,9000086858,Bihar
+ST2024-0166,Tanvi Banerjee,Female,2005-03-12,GEN,B.Voc Retail Management,2024-07-16,tanvi.banerjee92@mail.example,9000086118,Bihar
+ST2024-0116,Kavya Pillai,Female,2005-09-26,SC,B.Sc Data Analytics,2024-06-27,kavya.pillai27@mail.example,9000060550,Assam
+ST2024-0099,Sahil Das,Male,2006-01-02,SC,BBA Applied Skills,2024-06-16,sahil.das70@mail.example,9000084930,Karnataka
+ST2024-0130,Gauri Ghosh,Female,2004-03-26,OBC,B.Voc Logistics & Supply Chain,2024-06-17,gauri.ghosh24@mail.example,9000072094,Maharashtra
+ST2023-0128,Riya Chatterjee,Female,2002-09-29,GEN,B.Voc Automotive Technology,2023-07-31,riya.chatterjee88@mail.example,9000033030,Assam
+ST2023-0043,Chirag Kulkarni,Male,2003-10-18,GEN,B.Voc Retail Management,2023-07-22,chirag.kulkarni93@mail.example,9000033099,Telangana
+ST2024-0283,Harini Reddy,Female,2004-06-13,OBC,BBA Applied Skills,2024-08-18,harini.reddy12@mail.example,9000098423,Odisha
+ST2023-0200,Gaurav Joshi,Male,2004-06-15,SC,BBA Applied Skills,2023-07-30,gaurav.joshi30@mail.example,9000080980,Telangana
+ST2026-0273,Kartik Desai,Male,2005-11-15,GEN,B.Voc Healthcare Services,2026-07-18,kartik.desai25@mail.example,9000062200,Uttar Pradesh
+ST2026-0144,Dev Iyer,Male,2007-03-19,ST,B.Voc Retail Management,2026-06-07,dev.iyer17@mail.example,9000074565,Tamil Nadu
+ST2023-0244,Imran Pandey,Male,2002-10-19,ST,B.Voc Automotive Technology,2023-07-28,imran.pandey70@mail.example,9000002878,Odisha
+ST2024-0054,Esha Shetty,Female,2003-10-10,GEN,BBA Applied Skills,2024-07-03,esha.shetty69@mail.example,9000087195,Tamil Nadu
+ST2025-0260,Imran Mukherjee,Male,2006-12-02,OBC,B.Voc Automotive Tech,2025-06-11,imran.mukherjee77@mail.example,9000084378,Maharashtra
+ST2023-0184,Diya Mehta,Female,2003-02-04,GEN,B.Voc Retail Management,2023-07-05,diya.mehta72@mail.example,9000016179,Tamil Nadu
+ST2026-0117,Jhanvi Nair,Female,2006-11-09,OBC,B.Sc Data Analytics,2026-07-05,jhanvi.nair57@mail.example,9000057244,West Bengal
+ST2024-0242,Nikhil Pandey,Male,2004-01-16,GEN,BBA Applied Skills,2024-08-17,nikhil.pandey98@mail.example,9000003820,West Bengal
+ST2025-0097,Kartik Iyer,Male,2004-09-08,EWS,B.Voc Retail Management,2025-08-01,kartik.iyer46@mail.example,9000018763,Bihar
+ST2023-0091,Debashis Khan,Male,2002-12-26,GEN,B.Voc Logistics & Supply Chain,2023-07-23,debashis.khan17@mail.example,9000044937,Telangana
+ST2024-0237,Bikram Das,Male,2005-09-03,SC,B.Voc Healthcare Services,2024-07-30,bikram.das57@mail.example,9000072705,Odisha
+ST2024-0261,Yamini Reddy,Female,2006-01-09,OBC,B.Voc Retail Management,2024-08-26,yamini.reddy28@mail.example,9000092645,Jharkhand
+ST2024-0213,Zubin Bose,Male,2006-02-06,GEN,B.Voc Healthcare Services,2024-06-11,zubin.bose17@mail.example,9000000151,Uttar Pradesh
+ST2025-0208,Yamini Kapoor,Female,2006-04-01,GEN,B.Sc Data Analytics,2025-07-29,yamini.kapoor45@mail.example,9000068253,Odisha
+ST2025-0233,Yamini Iyer,Female,2004-07-30,GEN,B.Voc Logistics & Supply Chain,2025-06-21,yamini.iyer74@mail.example,9000015278,Uttar Pradesh
+ST2023-0080,Gaurav Pandey,Male,2003-08-02,OBC,BBA Applied Skills,2023-08-30,gaurav.pandey54@mail.example,9000055249,Odisha
+ST2023-0050,Bhavna Sen,Female,2003-06-03,OBC,B.Sc Data Analytics,2023-08-17,bhavna.sen83@mail.example,9000068925,Maharashtra
+ST2024-0145,Kavya Mehta,Female,2006-02-09,GEN,BBA Applied Skills,2024-08-21,kavya.mehta57@mail.example,9000097599,Tamil Nadu
+ST2025-0211,Pranav Chatterjee,Male,2007-05-04,OBC,B.Voc Retail Management,2025-08-23,pranav.chatterjee10@mail.example,9000077884,Karnataka
+ST2025-0255,Ritesh Chatterjee,Male,2004-09-08,OBC,B.Voc Healthcare Services,2025-07-04,ritesh.chatterjee63@mail.example,9000070796,Maharashtra
+ST2025-0292,Esha Kapoor,Female,2005-07-22,OBC,BVoc Retail Mgmt,2025-08-23,esha.kapoor39@mail.example,9000038807,Telangana
+ST2025-0289,Ritesh Mondal,Male,2006-10-04,OBC,B.Voc Retail Management,2025-08-01,ritesh.mondal87@mail.example,9000093599,Assam
+ST2025-0224,Jay Nair,Male,2006-07-06,SC,B.Sc Data Analytics,2025-08-14,jay.nair45@mail.example,9000082228,Tamil Nadu
+ST2023-0234,Farida Banerjee,Female,2004-10-27,GEN,B.Voc Healthcare Services,2023-06-27,farida.banerjee41@mail.example,9000043322,West Bengal
+ST2026-0162,Harini Banerjee,Female,2008-07-20,GEN,B.Sc Data Analytics,2026-07-19,harini.banerjee98@mail.example,9000073899,Karnataka
+ST2025-0113,Debashis Pandey,Male,2005-08-31,GEN,B.Voc Healthcare Services,2025-08-02,debashis.pandey71@mail.example,9000048408,Assam
+ST2023-0028,Bikram Ghosh,Male,2004-07-26,GEN,B.Sc Data Analytics,2023-06-16,bikram.ghosh82@mail.example,9000018025,Tamil Nadu
+ST2023-0010,Aarav Shetty,Male,2003-04-20,OBC,B.Voc Retail Management,2023-07-18,aarav.shetty39@mail.example,9000017466,Telangana
+ST2023-0247,Lokesh Rao,Male,2005-03-06,GEN,B.Voc Automotive Technology,2023-06-17,lokesh.rao60@mail.example,9000014290,Uttar Pradesh
+ST2023-0119,Pranav Das,Male,2003-09-25,EWS,B.Sc Data Analytics,2023-06-20,pranav.das77@mail.example,9000060548,Maharashtra
+ST2026-0301,Diya Bose,Female,2007-12-16,GEN,B.Voc Retail Management,2026-08-04,diya.bose31@mail.example,9000064802,Tamil Nadu
+ST2026-0179,Esha Roy,Female,2007-04-30,GEN,B.Sc Data Analytics,2026-07-25,esha.roy34@mail.example,9000011447,West Bengal
+ST2024-0066,Zoya Das,Female,2004-01-07,GEN,B.Voc Healthcare Services,2024-08-20,zoya.das39@mail.example,9000026212,Bihar
+ST2026-0310,Gaurav Mishra,Male,2008-05-14,SC,B.Voc Automotive Technology,2026-07-24,gaurav.mishra28@mail.example,9000094386,West Bengal
+ST2023-0016,Mitali Rao,Female,2003-05-19,GEN,BBA Applied Skills,2023-07-26,mitali.rao82@mail.example,9000013353,Assam
+ST2025-0252,Swati Khan,Female,2005-08-03,GEN,B.Sc Data Analytics,2025-06-04,swati.khan79@mail.example,9000019532,Bihar
+ST2026-0254,Ishita Nair,Female,2006-07-06,GEN,BBA Applied Skills,2026-09-23,ishita.nair83@mail.example,900001234,Maharashtra
+ST2025-0079,Farida Desai,Female,2006-05-23,OBC,B.Voc Logistics & Supply Chain,2025-08-27,farida.desai70@mail.example,9000021690,West Bengal
+ST2026-0176,Sourav Pillai,Male,2006-11-29,GEN,B.Voc Logistics & Supply Chain,2026-07-03,sourav.pillai24@mail.example,9000006719,Bihar
+ST2025-0019,Pallavi Das,Female,2007-04-16,EWS,B.Sc. Data Analytics,2025-07-25,pallavi.das79@mail.example,9000090148,Odisha
+ST2025-0197,Ritesh Shetty,Male,2007-01-17,SC,B.Voc Healthcare Services,2025-08-06,ritesh.shetty35@mail.example,9000044760,West Bengal
+ST2026-0135,Rahul Kapoor,Male,2007-05-29,,B.Sc Data Analytics,2026-09-04,rahul.kapoor95@mail.example,9000081315,Bihar
+ST2024-0180,Dev Desai,Male,2006-01-08,EWS,B.Voc Retail Management,2024-06-30,dev.desai24@mail.example,9000039963,Telangana
+ST2025-0301,Oindrila Kapoor,Female,2005-02-22,OBC,B.Voc Retail Management,2025-08-20,oindrila.kapoor40@mail.example,9000081647,Telangana
+ST2023-0017,Kunal Iyer,Male,2003-09-06,ST,BBA Applied Skills,2023-06-27,kunal.iyer94@mail.example,9000032133,West Bengal
+ST2026-0329,Vaishnavi Banerjee,Female,2007-02-06,EWS,B.Voc Logistics & Supply Chain,2026-08-29,vaishnavi.banerjee46@mail.example,9000005685,Assam
+ST2024-0236,Vaishnavi Mishra,Female,2005-03-14,OBC,B.Voc Healthcare Services,2024-08-11,vaishnavi.mishra65@mail.example,9000033572,Maharashtra
+ST2023-0209,Aarohi Banerjee,Female,2004-11-18,SC,B.Voc. Healthcare Services,2023-08-20,aarohi.banerjee12@mail.example,9000038240,Assam
+ST2026-0315,Aarohi Kulkarni,Female,2006-12-31,SC,B.Sc Data Analytics,2026-08-04,aarohi.kulkarni44@mail.example,9000078845,Telangana
+ST2023-0001,Aarohi Mondal,Female,2004-02-13,GEN,B.Voc Healthcare Services,2023-07-04,aarohi.mondal83@mail.example,9000079051,Tamil Nadu
+ST2026-0330,Tanvi Das,Female,2008-04-11,GEN,B.Voc Retail Management,2026-06-23,tanvi.das12@mail.example,9000025582,Telangana
+ST2025-0114,Farida Ali,Female,2005-01-04,OBC,B.Sc Data Analytics,2025-06-11,farida.ali58@mail.example,9000003251,Odisha
+ST2023-0259,Harsh Roy,Male,2004-08-07,SC,B.Voc Logistics & Supply Chain,2023-07-03,harsh.roy70@mail.example,9000096282,Bihar
+ST2026-0053,Sahil Kapoor,Male,2006-09-15,GEN,B.Voc Retail Management,2026-07-08,sahil.kapoor44@mail.example,9000023528,Telangana
+ST2026-0011,Aarav Kulkarni,Male,2006-05-25,OBC,BBA Applied Skills,2026-08-03,aarav.kulkarni31@mail.example,9000016842,Telangana
+ST2026-0082,Chirag Sen,Male,2006-10-25,ST,B.Voc Logistics & Supply Chain,2026-07-17,chirag.sen65@mail.example,9000054644,Maharashtra
+ST2025-0095,Nikhil Khan,Other,2007-02-19,SC,B.Sc Data Analytics,2025-06-15,nikhil.khan31@mail.example,9000039415,Bihar
+ST2023-0163,Jay Reddy,Male,2004-07-05,OBC,B.Sc Data Analytics,2023-07-22,jay.reddy82@mail.example,9000014793,Odisha
+ST2024-0293,Kavya Nair,Female,2005-04-18,SC,B.Sc Data Analytics,2024-08-29,kavya.nair53@mail.example,9000013386,Odisha
+ST2026-0262,Oindrila Pillai,Female,2008-04-04,OBC,B.Voc Logistics & Supply Chain,2026-07-20,oindrila.pillai98@mail.example,9000094313,West Bengal
+ST2026-0149,Ishita Joshi,Female,2007-11-09,ST,B.Voc Retail Management,2026-05-30,ishita.joshi36@mail.example,9000054668,Telangana
+ST2023-0152,Uday Mukherjee,Male,2005-06-03,SC,B.Voc Retail Management,2023-06-12,uday.mukherjee32@mail.example,9000093883,Telangana
+ST2026-0090,Swati Iyer,Female,2006-08-11,GEN,BBA Applied Skills,2026-08-14,swati.iyer83@mail.example,9000092876,Uttar Pradesh
+ST2025-0004,Abhik Rao,Male,2007-01-22,GEN,B.Voc Logistics & Supply Chain,2025-07-17,abhik.rao26@mail.example,9000083110,Assam
+ST2024-0135,Diya Verma,Female,2004-09-10,GEN,B.Voc Healthcare Services,2024-06-19,diya.verma74@mail.example,9000048558,Jharkhand
+ST2025-0033,Kartik Sharma,Male,2005-08-01,GEN,B.Voc Automotive Technology,2025-06-17,kartik.sharma43@mail.example,9000094040,Tamil Nadu
+ST2023-0165,Pallavi Iyer,Female,2005-03-02,OBC,B.Voc Retail Management,2023-06-10,pallavi.iyer84@mail.example,9000084102,Odisha
+ST2023-0160,Uday Pandey,Male,2002-10-29,GEN,BBA Applied Skills,2023-08-14,uday.pandey21@mail.example,9000034324,Jharkhand
+ST2023-0075,Charvi Roy,Female,2004-03-22,GEN,B.Voc Automotive Technology,2023-08-30,charvi.roy95@mail.example,9000001299,Jharkhand
+ST2026-0284,Lokesh Mukherjee,Male,2006-08-01,OBC,B.Voc Healthcare Services,2026-06-09,lokesh.mukherjee90@mail.example,9000016343,Karnataka
+ST2026-0258,Sahil Ghosh,Male,2005-10-01,OBC,B.Voc Logistics & Supply Chain,2026-06-09,sahil.ghosh59@mail.example,9000003757,Maharashtra
+ST2026-0257,Nandini Das,Female,2005-07-01,SC,B.Voc Retail Management,2026-06-22,nandini.das20@mail.example,9000049126,Bihar
+ST2025-0066,Sahil Ali,Male,2005-09-13,SC,BBA Applied Skills,2025-08-04,sahil.ali95@mail.example,9000014247,Tamil Nadu
+ST2024-0245,Dev Roy,Male,2006-06-08,OBC,B.Voc Automotive Technology,2024-08-02,dev.roy46@mail.example,9000018492,Karnataka
+ST2023-0044,Manav Shetty,Male,2004-02-22,OBC,B.Voc Automotive Technology,2023-06-16,manav.shetty20@mail.example,9000098026,Uttar Pradesh
+ST2026-0098,Meera Reddy,Female,2007-09-25,GEN,B.Sc Data Analytics,2026-06-26,meera.reddy60@mail.example,9000008179,Odisha
+ST2025-0031,Oindrila Sen,Female,2006-01-31,GEN,B.Voc Retail Management,2025-06-17,oindrila.sen58@mail.example,9000009684,Telangana
+ST2025-0246,Yamini Mukherjee,Female,2006-01-16,GEN,BBA Applied Skills,2025-08-27,yamini.mukherjee48@mail.example,9000087638,Bihar
+ST2024-0003,Jhanvi Gupta,Female,2005-10-12,OBC,B.Voc Healthcare Services,2024-08-10,jhanvi.gupta60@mail.example,9000058722,Bihar
+ST2026-0147,Zoya Pillai,Female,2007-12-10,OBC,B.Voc Healthcare Services,2026-08-28,zoya.pillai16@mail.example,9000046535,West Bengal
+ST2023-0148,Bikram Rao,Male,2002-12-02,GEN,B.Sc Data Analytics,2023-08-29,bikram.rao30@mail.example,9000092206,Assam
+ST2024-0170,Meera Mondal,Female,2006-05-17,SC,B.Sc Data Analytics,2024-06-20,meera.mondal48mail.example,9000056948,West Bengal
+ST2026-0124,Rohan Chatterjee,Male,2007-09-09,GEN,B.Voc Logistics & Supply Chain,2026-07-04,rohan.chatterjee72@mail.example,9000098786,Odisha
+ST2024-0031,Varun Saxena,Male,2005-11-27,GEN,B.Sc Data Analytics,2024-08-19,varun.saxena87@mail.example,9000069761,Telangana
+ST2024-0069,Varun Bose,Male,2003-12-02,OBC,BBA Applied Skills,2024-07-09,varun.bose93@mail.example,9000010989,Karnataka
+ST2025-0159,Gauri Ali,Female,2006-12-28,GEN,B.Voc Logistics & Supply Chain,2025-06-20,gauri.ali18@mail.example,9000038722,Tamil Nadu
+ST2026-0230,Chirag Mehta,Male,2007-05-09,GEN,B.Voc Logistics & Supply Chain,2026-05-16,chirag.mehta16mail.example,9000044297,Uttar Pradesh
+ST2025-0126,Kavya Banerjee,Female,2007-05-11,OBC,BSc Data Analytics,2025-08-06,kavya.banerjee54@mail.example,9000039111,Assam
+ST2026-0212,Esha Joshi,Female,2008-07-31,GEN,BBA Applied Skills,2026-09-26,esha.joshi26@mail.example,9000004879,Maharashtra
+ST2024-0193,Meera Verma,Female,2004-10-01,SC,BBA Applied Skills,2024-07-23,meera.verma12@mail.example,9000040740,Bihar
+ST2026-0006,Rupa Ali,Female,2007-04-12,OBC,B.Sc Data Analytics,2026-09-18,rupa.ali35@mail.example,9000006148,Uttar Pradesh
+ST2023-0053,Rohan Desai,Male,2002-10-30,ST,B.Voc Retail Management,2023-07-07,rohan.desai21@mail.example,9000064833,Jharkhand
+ST2023-0019,Manav Banerjee,Male,2004-02-12,OBC,B.Voc Automotive Technology,2023-08-26,manav.banerjee76@mail.example,9000035506,Tamil Nadu
+ST2023-0089,Pranav Joshi,Male,2004-09-23,GEN,BBA Applied Skills,2023-07-27,pranav.joshi66@mail.example,9000005905,Telangana
+ST2023-0192,Sourav Patel,Male,2004-07-01,ST,B.Voc Logistics & Supply Chain,2023-07-15,sourav.patel91@mail.example,9000002001,Odisha
+ST2023-0176,Varun Khan,Male,2003-11-12,ST,B.Voc Automotive Technology,2023-06-28,varun.khan33@mail.example,9000097609,Odisha
+ST2026-0239,Mitali Mukherjee,Female,2006-08-01,GEN,BBA Applied Skills,2026-05-27,mitali.mukherjee39@mail.example,9000073688,Jharkhand
+ST2024-0109,Pranav Ghosh,Male,2004-07-17,GEN,B.Voc Retail Management,2024-08-17,pranav.ghosh15@mail.example,9000012345678,Karnataka
+ST2025-0253,Ananya Reddy,Female,2007-04-27,OBC,B.Voc Healthcare Services,2025-08-06,ananya.reddy81@mail.example,9000025552,Telangana
+ST2024-0039,Kunal Rao,Male,2004-09-06,OBC,B.Voc Retail Management,2024-07-29,kunal.rao43@mail.example,9000022728,Assam
+ST2023-0052,Ankita Chatterjee,Female,2004-02-04,OBC,B.Sc Data Analytics,2023-08-02,ankita.chatterjee73@mail.example,9000097767,Assam
+ST2025-0254,Aarav Das,Male,2005-11-27,OBC,B.Sc Data Analytics,2025-08-12,aarav.das59@mail.example,9000020262,Telangana
+ST2026-0235,Varun Banerjee,Male,2005-10-24,OBC,B.Sc Data Analytics,2026-08-29,varun.banerjee79@mail.example,9000084055,Karnataka
+ST2023-0007,Lavanya Verma,Female,2004-08-03,GEN,B.Sc Data Analytics,2023-07-08,lavanya.verma48@mail.example,9000022789,Maharashtra
+ST2024-0137,Lokesh Nair,Male,2005-07-30,OBC,B.Voc Retail Management,2024-06-06,lokesh.nair33@mail.example,9000060183,Uttar Pradesh
+ST2026-0032,Esha Mukherjee,Female,2007-07-24,SC,BBA Applied Skills,2026-09-28,esha.mukherjee69@mail.example,9000075070,Jharkhand
+ST2024-0107,Yash Gupta,Male,2004-02-07,OBC,B.Sc Data Analytics,2024-08-06,yash.gupta68@mail.example,9000018544,Assam
+ST2024-0240,Bhavna Nair,Female,2003-08-05,OBC,B.Voc Healthcare Services,2024-06-06,bhavna.nair69@mail.example,9000037582,Karnataka
+ST2024-0070,Oindrila Iyer,Female,2004-11-27,SC,BBA Applied Skills,2024-06-30,oindrila.iyer31@mail.example,9000035704,Uttar Pradesh
+ST2023-0242,Jhanvi Nair,Female,2003-10-25,SC,B.Voc Automotive Technology,2023-08-04,jhanvi.nair10@mail.example,9000098322,Jharkhand
+ST2023-0142,Dev Pillai,Male,2003-07-06,GEN,B.Voc Logistics & Supply Chain,2023-07-25,dev.pillai79@mail.example,9000045807,Telangana
+ST2024-0232,Gauri Das,Female,2004-04-23,GEN,BBA Applied Skills,2024-08-12,gauri.das94@mail.example,9000003704,Jharkhand
+ST2026-0040,Lavanya Desai,Female,2006-10-10,GEN,B.Voc Retail Management,2026-06-28,lavanya.desai47@mail.example,9000012431,Karnataka
+ST2025-0294,Bhavna Ghosh,Female,2006-10-30,GEN,B.Voc Automotive Technology,2025-08-07,bhavna.ghosh78@mail.example,9000077368,Assam
+ST2025-0052,Sahil Chatterjee,Male,2005-05-27,GEN,B.Voc Healthcare Services,2025-08-27,sahil.chatterjee45@mail.example,9000062457,West Bengal
+ST2025-0050,Oindrila Sharma,Female,2004-11-17,GEN,B.Voc Healthcare Services,2025-06-18,oindrila.sharma74@mail.example,9000086094,Karnataka
+ST2026-0199,Imran Rao,Other,2008-05-01,,B.Voc Automotive Technology,2026-05-31,imran.rao15@mail.example,9000033534,Bihar
+ST2023-0136,Yamini Nair,Female,2005-02-16,OBC,B.Voc Automotive Technology,2023-07-13,yamini.nair50@mail.example,9000020323,Tamil Nadu
+ST2023-0032,Tanvi Shetty,Female,2004-03-24,SC,B.Voc Retail Management,2023-08-08,tanvi.shetty78@mail.example,9000040797,Jharkhand
+ST2024-0016,Vaishnavi Shetty,Female,2005-01-03,OBC,B.Voc Healthcare Services,2024-06-21,vaishnavi.shetty64@mail.example,9000078648,Uttar Pradesh
+ST2023-0040,Kartik Shetty,Male,2005-06-27,EWS,B.Voc Automotive Technology,2023-08-08,kartik.shetty41@mail.example,9000040068,Maharashtra
+ST2025-0152,Sahil Mehta,Male,2005-12-19,GEN,B.Voc Retail Management,2025-06-17,sahil.mehta10@mail.example,9000083310,Assam
+ST2024-0122,Kunal Banerjee,Male,2004-05-11,OBC,B.Voc Retail Management,2024-08-11,kunal.banerjee42@mail.example,9000044877,Assam
+ST2024-0044,Uday Pandey,Male,2004-08-30,SC,B.Voc Automotive Technology,2024-07-22,uday.pandey19@mail.example,9000097567,Telangana
+ST2023-0243,Uday Ali,Male,2004-09-14,OBC,B.Voc Retail Management,2023-08-05,uday.ali48@mail.example,9000032143,Tamil Nadu
+ST2025-0091,Harini Nair,Female,2007-06-15,OBC,B.Voc. Healthcare Services,2025-06-19,harini.nair85@mail.example,9000041597,Maharashtra
+ST2026-0277,Harini Ghosh,Female,2008-02-13,ST,B.Voc Healthcare Services,2026-09-27,harini.ghosh73@mail.example,9000029904,Telangana
+ST2026-0141,Vaishnavi Verma,Female,2007-07-01,GEN,B.Voc Retail Management,2026-09-07,vaishnavi.verma82@mail.example,9000088732,Bihar
+ST2023-0006,Ritesh Banerjee,Male,2004-02-15,OBC,B.Voc Logistics & Supply Chain,2023-07-02,ritesh.banerjee94@mail.example,9000041944,Telangana
+ST2025-0156,Gauri Patel,Female,2007-05-30,SC,B.Voc Logistics & Supply Chain,2025-08-05,gauri.patel82@mail.example,9000005442,Uttar Pradesh
+ST2026-0280,Swati Kulkarni,Female,2006-05-19,GEN,B.Sc Data Analytics,2026-09-03,swati.kulkarni29@mail.example,9000031960,Bihar
+ST2023-0030,Tanvi Chatterjee,Female,2002-07-10,OBC,BBA Applied Skills,2023-06-15,tanvi.chatterjee58mail.example,9000050954,Karnataka
+ST2023-0175,Abhik Chatterjee,Male,2003-03-19,EWS,B.Voc Retail Management,2023-07-30,abhik.chatterjee35@mail.example,9000058508,Karnataka
+ST2025-0195,Payal Banerjee,Female,2004-11-30,OBC,B.Sc Data Analytics,2025-07-11,payal.banerjee78@mail.example,9000054388,Karnataka
+ST2024-0148,Jhanvi Ghosh,Female,2006-06-11,SC,BBA Applied Skills,2024-07-08,jhanvi.ghosh53@mail.example,9000070239,Jharkhand
+ST2024-0078,Tarun Mishra,Male,2003-10-22,OBC,B.Sc Data Analytics,2024-08-28,tarun.mishra51@mail.example,9000098460,West Bengal
+ST2023-0109,Abhik Mishra,Male,2004-09-15,GEN,B.Voc Logistics & Supply Chain,2023-08-03,abhik.mishra73@mail.example,9000057788,Telangana
+ST2023-0129,Zoya Banerjee,Female,2005-05-12,GEN,B.Voc Automotive Tech,2023-07-07,zoya.banerjee24@mail.example,9000000731,Telangana
+ST2024-0048,Yash Mukherjee,Male,2004-08-27,SC,BBA Applied Skills,2024-07-03,yash.mukherjee28@mail.example,9000093201,Telangana
+ST2026-0209,Omkar Chatterjee,Male,2006-07-23,EWS,B.Voc Healthcare Services,2026-06-02,omkar.chatterjee40@mail.example,9000017348,Assam
+ST2025-0007,Aarohi Kapoor,Female,2006-01-03,SC,B.Sc Data Analytics,2025-07-01,aarohi.kapoor86@mail.example,9000090668,Tamil Nadu
+ST2024-0271,Zoya Sharma,Female,2004-07-27,GEN,B.Sc Data Analytics,2024-08-10,zoya.sharma79@mail.example,9000075262,Tamil Nadu
+ST2026-0140,Meera Sinha,Female,2007-09-07,GEN,B.Voc Retail Management,2026-05-16,meera.sinha82@mail.example,9000008435,Assam
+ST2026-0168,Meera Saxena,Female,2008-08-13,ST,B.Sc Data Analytics,2026-09-11,meera.saxena32@mail.example,9000074198,Tamil Nadu
+ST2025-0242,Urmila Gupta,Female,2005-02-04,OBC,B.Voc Automotive Technology,2025-08-29,urmila.gupta96@mail.example,9000033784,Bihar
+ST2024-0083,Urmila Khan,Female,2003-09-13,EWS,B.Voc Logistics & Supply Chain,2024-06-19,urmila.khan61@mail.example,9000033118,West Bengal
+ST2025-0307,Gaurav Roy,Male,2005-08-11,EWS,B.Voc Retail Management,2025-07-13,gaurav.roy59@mail.example,9000026330,Maharashtra
+ST2023-0204,Mitali Saxena,Female,2003-02-23,SC,B.Voc Automotive Technology,2023-08-23,mitali.saxena26@mail.example,9000005397,Maharashtra
+ST2026-0004,Vaishnavi Iyer,Female,2007-06-24,OBC,B.Voc Automotive Technology,2026-06-26,vaishnavi.iyer94@mail.example,9000016386,Uttar Pradesh
+ST2025-0086,Yash Mehta,Male,2006-10-19,GEN,B.Sc Data Analytics,2025-07-18,yash.mehta98@mail.example,9000044808,Karnataka
+ST2025-0107,Bikram Chatterjee,Male,2006-05-29,ST,B.Voc Retail Management,2025-08-05,bikram.chatterjee29@mail.example,9000074895,Karnataka
+ST2023-0144,Meera Verma,Female,2004-09-21,ST,B.Voc Healthcare Services,2023-08-04,meera.verma30@mail.example,9000052027,Tamil Nadu
+ST2023-0188,Harini Pandey,Female,2002-09-06,GEN,B.Voc Healthcare Services,2023-06-27,harini.pandey88@mail.example,9000058120,Uttar Pradesh
+ST2023-0114,Diya Iyer,Female,2002-08-20,EWS,B.Voc Healthcare Services,2023-06-27,diya.iyer70@mail.example,9000015952,Uttar Pradesh
+ST2024-0082,Ritesh Patel,Male,2005-06-24,GEN,B.Voc Retail Management,2024-07-12,ritesh.patel25@mail.example,9000006404,Telangana
+ST2026-0023,Diya Sinha,Female,2006-05-08,GEN,B.Sc Data Analytics,2026-08-17,diya.sinha35@mail.example,9000039667,Bihar
+ST2026-0060,Tarun Kapoor,Male,2007-07-31,GEN,B.Sc Data Analytics,2026-09-20,tarun.kapoor93@mail.example,9000077036,Karnataka
+ST2024-0152,Uday Sen,Male,2005-08-03,EWS,BVoc Healthcare Services,2024-07-23,uday.sen38@mail.example,9000042943,West Bengal
+ST2026-0043,Swati Rao,Female,2008-05-15,EWS,B.Voc Retail Management,2026-05-27,swati.rao45@mail.example,9000041752,Odisha
+ST2026-0210,Farhan Roy,Male,2006-02-11,GEN,B.Voc Automotive Technology,2026-06-11,farhan.roy13@mail.example,9000073324,Bihar
+ST2023-0058,Kavya Desai,Female,2004-06-21,EWS,B.Voc Retail Management,2023-08-16,kavya.desai53@mail.example,9000024270,Uttar Pradesh
+ST2024-0034,Tarun Kapoor,Male,2005-01-24,OBC,B.Voc Retail Management,2024-07-06,tarun.kapoor62@mail.example,9000042670,Bihar
+ST2025-0118,Zubin Banerjee,Male,2005-05-02,EWS,B.Voc Retail Management,2025-08-02,zubin.banerjee11@mail.example,9000007962,West Bengal
+ST2024-0095,Lokesh Joshi,Male,2003-09-09,OBC,B.Voc Healthcare Services,2024-07-06,lokesh.joshi52@mail.example,9000064435,Uttar Pradesh
+ST2026-0001,Harsh Chatterjee,Male,2008-02-26,OBC,B.Sc Data Analytics,2026-09-12,harsh.chatterjee32@mail.example,9000042056,Karnataka
+ST2026-0189,Jay Chatterjee,Male,2006-08-23,EWS,BBA - Applied Skills,2026-09-29,jay.chatterjee54@mail.example,9000045353,Uttar Pradesh
+ST2025-0047,Gauri Das,Female,2006-03-08,ST,B.Voc Logistics & Supply Chain,2025-07-08,gauri.das24@mail.example,9000078798,Maharashtra
+ST2023-0024,Imran Mehta,Male,2005-05-13,GEN,BBA Applied Skills,2023-06-30,imran.mehta62@mail.example,9000014616,Odisha
+ST2025-0104,Harini Gupta,Female,2007-03-30,OBC,BBA Applied Skills,2025-06-12,harini.gupta61@mail.example,9000087437,Bihar
+ST2026-0275,Riya Ali,Female,2008-03-20,GEN,B.Voc Retail Management,2026-05-22,riya.ali56@mail.example,9000010484,West Bengal
+ST2023-0238,Ishita Rao,Female,2005-06-15,GEN,BBA Applied Skills,2023-06-21,ishita.rao73@mail.example,9000040416,Uttar Pradesh
+ST2025-0009,Sneha Kulkarni,Female,2006-04-23,EWS,BBA Applied Skills,2025-08-07,sneha.kulkarni88@mail.example,9000044145,Jharkhand
+ST2023-0254,Aarav Joshi,Male,2003-07-14,OBC,B.Voc Automotive Technology,2023-06-29,aarav.joshi65@mail.example,9000032103,West Bengal
+ST2025-0135,Ishita Reddy,Female,2007-03-23,GEN,B.Voc Healthcare Services,2025-06-21,ishita.reddy47@mail.example,9000074810,Uttar Pradesh
+ST2025-0198,Kunal Chatterjee,Male,2006-10-24,GEN,B.Voc Healthcare Services,2025-06-28,kunal.chatterjee34@mail.example,9000098289,Karnataka
+ST2026-0031,Vaishnavi Sen,Female,2006-09-13,GEN,B.Voc Healthcare Services,2026-09-04,vaishnavi.sen86@mail.example,9000035336,Assam
+ST2025-0121,Rohan Gupta,Male,2005-05-31,OBC,B.Voc Automotive Technology,2025-07-09,rohan.gupta47@mail.example,9000067065,Tamil Nadu
+ST2025-0153,Tanvi Sinha,Female,2007-04-14,GEN,B.Voc Automotive Technology,2025-07-18,tanvi.sinha28@mail.example,9000017060,Uttar Pradesh
+ST2025-0263,Manav Pandey,Male,2007-05-30,SC,B.Voc Logistics & Supply Chain,2025-07-13,manav.pandey95@mail.example,9000031480,Maharashtra
+ST2026-0207,Zubin Joshi,Male,2006-08-29,GEN,B.Voc Logistics & Supply Chain,2026-09-08,zubin.joshi10@mail.example,9000043443,West Bengal
+ST2025-0171,Farida Sen,Female,2006-10-18,OBC,B.Sc Data Analytics,2025-07-12,farida.sen75mail.example,9000080298,Assam
+ST2023-0147,Charvi Bose,Female,2005-02-22,GEN,BBA Applied Skills,2023-07-22,charvi.bose71@mail.example,9000041855,Uttar Pradesh
+ST2023-0221,Aarohi Shetty,Female,2003-07-21,GEN,B.Voc Retail Management,2023-07-06,aarohi.shetty14@mail.example,9000011781,Assam
+ST2023-0111,Rohan Rao,Male,2003-06-12,SC,B.Voc Retail Management,2023-06-03,rohan.rao75@mail.example,9000086405,Maharashtra
+ST2025-0290,Bikram Kulkarni,Male,2007-02-22,OBC,B.Voc Retail Management,2025-07-20,bikram.kulkarni72@mail.example,9000070406,Karnataka
+ST2023-0218,Gaurav Pillai,Male,2004-03-08,OBC,B.Voc Healthcare Services,2023-06-05,gaurav.pillai51@mail.example,9000001664,Assam
+ST2023-0106,Ritesh Pillai,Male,2003-03-28,SC,B.Voc Logistics & Supply Chain,2023-07-20,ritesh.pillai80@mail.example,9000068711,Karnataka
+ST2025-0155,Charvi Iyer,Female,2006-09-09,OBC,B.Sc Data Analytics,2025-08-14,charvi.iyer30@mail.example,9000063899,Odisha
+ST2025-0131,Bikram Banerjee,Male,2007-05-15,OBC,BBA Applied Skills,2025-06-16,bikram.banerjee74@mail.example,9000080634,Jharkhand
+ST2025-0140,Charvi Banerjee,Female,2007-03-16,OBC,B.Voc Automotive Technology,2025-06-21,charvi.banerjee82mail.example,9000028726,Tamil Nadu
+ST2024-0041,Oindrila Gupta,Female,2004-02-03,OBC,B.Voc Healthcare Services,2024-08-17,oindrila.gupta61@mail.example,9000022233,Telangana
+ST2025-0199,Harsh Pandey,Male,2004-12-14,GEN,B.Voc Logistics & Supply Chain,2025-07-29,harsh.pandey87@mail.example,9000022260,Telangana
+ST2026-0080,Bhavna Desai,Female,2006-09-22,GEN,BBA Applied Skills,2026-07-25,bhavna.desai31@mail.example,9000099990,Jharkhand
+ST2024-0024,Jhanvi Mondal,Female,2004-12-06,GEN,B.Sc Data Analytics,2024-07-01,jhanvi.mondal65@mail.example,9000030450,Uttar Pradesh
+ST2024-0266,Bikram Desai,Male,2004-01-31,GEN,B.Voc Retail Management,2024-08-26,bikram.desai43@mail.example,9000016674,Assam
+ST2026-0266,Charvi Banerjee,Female,2005-11-23,SC,B.Sc Data Analytics,2026-09-05,charvi.banerjee27@mail.example,9000088333,Bihar
+ST2023-0222,Nandini Sinha,Female,2002-11-09,GEN,B.Voc Retail Management,2023-07-09,nandini.sinha24@mail.example,9000043756,West Bengal
+ST2024-0093,Harsh Desai,Male,2005-04-10,GEN,BBA Applied Skills,2024-07-16,harsh.desai57@mail.example,9000024329,Bihar
+ST2025-0090,Zoya Mukherjee,Female,2005-11-09,ST,B.Voc Logistics & Supply Chain,2025-08-05,zoya.mukherjee54@mail.example,9000043691,Bihar
+ST2025-0039,Sourav Desai,Male,2006-01-26,OBC,B.Voc Retail Management,2025-07-23,sourav.desai71@mail.example,9000066014,Jharkhand
+ST2024-0246,Manav Chatterjee,Male,2006-01-19,SC,BVoc Logistics & Supply Chain,2024-08-15,manav.chatterjee64@mail.example,9000019967,Tamil Nadu
+ST2026-0028,Pallavi Nair,Female,2007-11-11,SC,B.Voc Healthcare Services,2026-05-31,pallavi.nair60@mail.example,9000087802,West Bengal
+ST2024-0174,Ishita Banerjee,Female,2006-01-28,GEN,BBA - Applied Skills,2024-08-17,ishita.banerjee44@mail.example,9000083308,Telangana
+ST2023-0003,Chirag Pillai,Male,2003-02-11,OBC,B.Voc Healthcare Services,2023-07-30,chirag.pillai23@mail.example,9000027789,Odisha
+ST2026-0325,Tarun Reddy,Male,2005-11-23,OBC,B.Voc Logistics & Supply Chain,2026-07-05,tarun.reddy72@mail.example,9000073014,West Bengal
+ST2025-0220,Ananya Roy,Female,2004-09-01,ST,BBA Applied Skills,2025-07-03,ananya.roy88@mail.example,9000067097,Telangana
+ST2023-0051,Lokesh Reddy,Male,2004-03-09,ST,B.Sc Data Analytics,2023-08-06,lokesh.reddy46@mail.example,9000030996,Uttar Pradesh
+ST2026-0113,Omkar Roy,Male,2008-01-06,OBC,B.Voc Healthcare Services,2026-06-30,omkar.roy16@mail.example,9000058613,Uttar Pradesh
+ST2026-0123,Abhik Ghosh,Male,2007-08-02,OBC,B.Voc Logistics & Supply Chain,2026-08-02,abhik.ghosh83@mail.example,9000073251,Telangana
+ST2025-0109,Tarun Ghosh,Male,2007-01-23,OBC,BVoc Automotive Technology,2025-07-25,tarun.ghosh83@mail.example,9000025877,West Bengal
+ST2025-0272,Swati Kapoor,Female,2007-03-23,OBC,B.Voc Retail Management,2025-07-04,swati.kapoor94@mail.example,9000029826,West Bengal
+ST2026-0167,Jhanvi Rao,Other,2005-11-28,OBC,B.Voc Automotive Technology,2026-08-15,jhanvi.rao46@mail.example,9000050601,Telangana
+ST2026-0256,Meera Rao,Female,2005-10-04,GEN,B.Voc Automotive Technology,2026-07-22,meera.rao68@mail.example,9000091461,West Bengal
+ST2025-0082,Rohan Chatterjee,Male,2007-01-07,OBC,B.Voc Logistics & Supply Chain,2025-08-20,rohan.chatterjee70@mail.example,9000076055,Uttar Pradesh
+ST2024-0264,Sourav Rao,Male,2006-04-14,GEN,B.Voc. Retail Management,2024-06-19,sourav.rao56@mail.example,9000041148,Tamil Nadu
+ST2025-0267,Meera Nair,Female,2007-03-19,OBC,B.Sc Data Analytics,2025-06-08,meera.nair65@mail.example,9000084744,Tamil Nadu
+ST2026-0312,Tarun Sen,Male,2007-01-12,GEN,B.Voc Automotive Technology,2026-07-05,tarun.sen80@mail.example,9000034647,Maharashtra
+ST2023-0166,Farhan Kapoor,Male,2003-02-04,GEN,B.Voc Retail Management,2023-07-03,farhan.kapoor19@mail.example,9000074879,Jharkhand
+ST2025-0094,Omkar Saxena,Male,2004-12-14,OBC,B.Voc Logistics & Supply Chain,2025-06-15,omkar.saxena59@mail.example,9000036642,West Bengal
+ST2025-0070,Mitali Banerjee,Female,2007-05-03,GEN,B.Voc Healthcare Services,2025-06-19,mitali.banerjee85@mail.example,9000069215,Odisha
+ST2025-0274,Sanjana Shetty,Female,2006-01-15,OBC,B.Voc Automotive Technology,2025-07-05,sanjana.shetty95@mail.example,9000053812,Bihar
+ST2024-0297,Ankita Ali,Female,2005-05-12,EWS,B.Voc Healthcare Services,2024-08-23,ankita.ali43@mail.example,9000004997,Karnataka
+ST2023-0103,Esha Sinha,Female,2005-07-25,GEN,B.Voc Automotive Technology,2023-08-17,esha.sinha62@mail.example,9000095230,Bihar
+ST2024-0260,Dev Banerjee,Male,2005-12-23,GEN,BBA Applied Skills,2024-06-07,dev.banerjee12@mail.example,9000099415,Assam
+ST2026-0101,Lavanya Pandey,Female,2007-11-28,ST,B.Voc Retail Management,2026-05-30,lavanya.pandey10@mail.example,9000070986,Assam
+ST2025-0282,Charvi Desai,Female,2006-11-12,OBC,B.Voc Retail Management,2025-06-16,charvi.desai92@mail.example,9000072565,Bihar
+ST2026-0065,Zubin Khan,Male,2006-12-29,EWS,B.Voc Automotive Technology,2026-08-30,zubin.khan48@mail.example,9000059673,Karnataka
+ST2026-0298,Ritesh Mishra,Male,2006-11-04,EWS,B.Sc Data Analytics,2026-09-16,ritesh.mishra94@mail.example,9000034879,Uttar Pradesh
+ST2023-0034,Aarohi Mehta,Female,2004-04-22,OBC,B.Voc Retail Management,2023-06-25,aarohi.mehta91@mail.example,9000014425,Assam
+ST2024-0097,Varun Sinha,Male,2005-02-04,OBC,B.Voc Retail Management,2024-08-01,varun.sinha52@mail.example,9000076315,Odisha
+ST2025-0067,Tanvi Gupta,Female,2006-11-05,OBC,B.Voc Automotive Technology,2025-06-13,tanvi.gupta71@mail.example,9000010893,Odisha
+ST2024-0020,Urmila Saxena,Female,2004-08-06,EWS,B.Voc Logistics & Supply Chain,2024-08-13,urmila.saxena31@mail.example,9000030062,Assam
+ST2026-0215,Yash Rao,Male,2008-05-11,GEN,B.Voc. Retail Management,2026-06-04,yash.rao32@mail.example,9000087024,Bihar
+ST2023-0219,Mitali Mukherjee,Female,2005-06-21,GEN,B.Voc Logistics & Supply Chain,2023-08-11,mitali.mukherjee36@mail.example,9000070788,West Bengal
+ST2025-0189,Rahul Banerjee,Male,2006-03-24,OBC,B.Sc Data Analytics,2025-07-22,rahul.banerjee33@mail.example,9000034806,Tamil Nadu
+ST2024-0239,Rupa Kapoor,Female,2004-11-23,GEN,B.Voc Retail Management,2024-08-26,rupa.kapoor81@mail.example,9000038668,West Bengal
+ST2026-0118,Uday Sharma,Male,2006-03-03,OBC,B.Voc Retail Management,2026-05-29,uday.sharma16@mail.example,9000052971,West Bengal
+ST2026-0003,Sahil Gupta,Male,2007-11-21,OBC,B.Voc Automotive Technology,2026-07-22,sahil.gupta97@mail.example,9000096900,Odisha
+ST2023-0072,Sahil Sharma,Male,2004-04-30,GEN,B.Voc Logistics & Supply Chain,2023-07-18,sahil.sharma30@mail.example,9000022688,Karnataka
+ST2025-0060,Yash Pillai,Other,2006-03-07,EWS,B.Voc Healthcare Services,2025-06-08,yash.pillai88@mail.example,9000042788,West Bengal
+ST2026-0016,Bhavna Ghosh,Female,2006-05-19,OBC,B.Voc Healthcare Services,2026-06-21,bhavna.ghosh50@mail.example,9000019069,Karnataka
+ST2023-0061,Arjun Sen,Male,2003-09-14,GEN,BBA Applied Skills,2023-06-26,arjun.sen37@mail.example,9000068193,Odisha
+ST2026-0309,Diya Mehta,Female,2008-01-23,OBC,B.Voc Automotive Technology,2026-08-05,diya.mehta33@mail.example,9000078830,Uttar Pradesh
+ST2025-0102,Yamini Sinha,Female,2007-07-02,OBC,B.Voc Retail Management,2025-07-28,yamini.sinha77@mail.example,9000015989,Tamil Nadu
+ST2025-0025,Ankita Chatterjee,Female,2005-04-08,GEN,B.Sc Data Analytics,2025-07-29,ankita.chatterjee88@mail.example,9000020065,Odisha
+ST2026-0073,Meera Kapoor,Female,2007-04-18,SC,B.Voc Healthcare Services,2026-05-16,meera.kapoor19@mail.example,9000022414,Odisha
+ST2025-0014,Chirag Chatterjee,Other,2006-01-02,OBC,B.Voc Healthcare Services,2025-07-02,chirag.chatterjee79@mail.example,9000057360,Bihar
+ST2025-0053,Nikhil Reddy,Male,2005-12-16,OBC,B.Voc Healthcare Services,2025-07-22,nikhil.reddy73@mail.example,9000057122,Karnataka
+ST2023-0207,Kavya Ghosh,Female,2005-05-03,GEN,B.Voc Logistics & Supply Chain,2023-08-03,kavya.ghosh29@mail.example,9000068599,Tamil Nadu
+ST2023-0077,Bikram Rao,Male,2003-11-01,GEN,B.Voc Retail Management,2023-07-27,bikram.rao39@mail.example,9000016381,Assam
+ST2025-0048,Varun Nair,Male,2005-04-28,SC,B.Voc Healthcare Services,2025-07-10,varun.nair37@mail.example,9000083148,West Bengal
+ST2024-0178,Yamini Ghosh,Female,2006-06-04,SC,B.Voc Healthcare Services,2024-07-22,yamini.ghosh37@mail.example,9000009657,Uttar Pradesh
+ST2023-0158,Manav Khan,Male,2004-01-23,GEN,B.Voc Healthcare Services,2023-06-22,manav.khan58@mail.example,9000030770,Karnataka
+ST2023-0084,Sahil Reddy,Male,2005-04-17,GEN,B.Sc Data Analytics,2023-08-17,sahil.reddy78@mail.example,9000015403,Maharashtra
+ST2024-0004,Rupa Khan,Female,2004-12-02,GEN,BBA Applied Skills,2024-07-09,rupa.khan56@mail.example,9000085689,Telangana
+ST2026-0170,Omkar Shetty,Male,2006-09-25,OBC,B.Voc Retail Management,2026-06-04,omkar.shetty83@mail.example,9000021403,Jharkhand
+ST2024-0064,Charvi Rao,Female,2005-07-21,ST,B.Voc Healthcare Services,2024-07-21,charvi.rao10@mail.example,9000052347,Maharashtra
+ST2026-0042,Sahil Nair,Male,2006-01-05,OBC,B.Voc Retail Management,2026-06-27,sahil.nair11@mail.example,9000071138,Telangana
+ST2023-0116,Chirag Kulkarni,Male,2002-10-02,GEN,B.Voc Automotive Technology,2023-08-19,chirag.kulkarni71@mail.example,9000096290,Jharkhand
+ST2024-0047,Harini Verma,Female,2006-06-01,OBC,B.Voc Logistics & Supply Chain,2024-08-14,harini.verma72@mail.example,9000030778,Odisha
+ST2025-0071,Rahul Mukherjee,Male,2005-08-15,SC,B.Voc Automotive Technology,2025-08-26,rahul.mukherjee84@mail.example,9000003900,Assam
+ST2026-0099,Sahil Ghosh,Male,2007-04-14,GEN,B.Sc Data Analytics,2026-09-04,sahil.ghosh24@mail.example,9000011733,West Bengal
+ST2026-0148,Jay Reddy,Male,2008-05-16,OBC,B.Voc Retail Management,2026-06-08,jay.reddy94@mail.example,9000072352,Assam
+ST2026-0211,Ankita Khan,Female,2006-04-08,OBC,B.Voc Logistics & Supply Chain,2026-08-31,ankita.khan18@mail.example,9000020100,Tamil Nadu
+ST2025-0173,Sneha Kulkarni,Female,2006-08-04,GEN,BBA Applied Skills,2025-06-20,sneha.kulkarni36@mail.example,9000095509,Uttar Pradesh
+ST2025-0096,Sahil Mehta,Male,2006-06-26,SC,B.Voc Logistics & Supply Chain,2025-08-25,sahil.mehta23@mail.example,9000011213,Telangana
+ST2023-0201,Sahil Desai,Male,2002-11-25,ST,B.Voc Automotive Technology,2023-08-26,sahil.desai91@mail.example,9000095539,Maharashtra
+ST2024-0171,Zoya Kapoor,Female,2004-01-21,GEN,B.Sc Data Analytics,2024-07-14,zoya.kapoor40@mail.example,9000072136,Bihar
+ST2024-0251,Debashis Shetty,Male,2006-03-21,EWS,B.Voc Logistics & Supply Chain,2024-07-23,debashis.shetty14@mail.example,9000082064,Assam
+ST2025-0241,Tarun Sharma,Male,2006-03-13,GEN,B.Voc Automotive Technology,2025-07-17,tarun.sharma36@mail.example,9000035652,West Bengal
+ST2025-0265,Dev Khan,Male,2006-09-13,OBC,B.Voc Automotive Technology,2025-08-16,dev.khan58@mail.example,9000078820,West Bengal
+ST2026-0282,Mitali Joshi,Female,2006-04-12,EWS,B.Sc Data Analytics,2026-08-27,mitali.joshi46@mail.example,9000091187,Odisha
+ST2023-0195,Manav Ghosh,Male,2004-03-19,GEN,B.Voc Healthcare Services,2023-06-14,manav.ghosh94@mail.example,9000080737,Odisha
+ST2023-0056,Nandini Reddy,Female,2003-11-23,GEN,B.Sc Data Analytics,2023-07-18,nandini.reddy68@mail.example,9000083624,Tamil Nadu
+ST2023-0185,Vaishnavi Ghosh,Female,2005-03-24,GEN,B.Voc Logistics & Supply Chain,2023-07-13,vaishnavi.ghosh36@mail.example,9000045997,Karnataka
+ST2026-0029,Abhik Desai,Male,2005-07-21,SC,B.Voc Retail Management,2026-06-19,abhik.desai57@mail.example,900001234,Odisha
+ST2024-0223,Jay Reddy,Male,2006-08-19,GEN,B.Voc Retail Management,2024-08-28,jay.reddy15@mail.example,9000038168,Bihar
+ST2026-0020,Ritesh Ghosh,Male,2007-12-04,OBC,BBA Applied Skills,2026-07-19,ritesh.ghosh35@mail.example,9000051509,Maharashtra
+ST2024-0035,Zoya Ali,Female,2003-12-12,GEN,B.Voc Automotive Technology,2024-08-10,zoya.ali62@mail.example,9000024708,Bihar
+ST2026-0243,Nikhil Nair,Male,2007-12-05,EWS,B.Voc Retail Management,2026-05-27,nikhil.nair30@mail.example,9000056575,Jharkhand
+ST2024-0001,Lavanya Kulkarni,Female,2006-02-11,GEN,B.Sc Data Analytics,2024-08-31,lavanya.kulkarni88@mail.example,9000030713,Karnataka
+ST2024-0184,Ananya Khan,Female,2003-10-31,OBC,B.Sc Data Analytics,2024-08-06,ananya.khan25@mail.example,9000023490,Jharkhand
+ST2026-0263,Vaishnavi Iyer,Female,2007-11-10,OBC,B.Sc. Data Analytics,2026-09-17,vaishnavi.iyer14@mail.example,9000088116,Karnataka
+ST2026-0192,Manav Ghosh,Other,2007-09-26,OBC,B.Voc Automotive Technology,2026-06-10,manav.ghosh27@mail.example,9000078252,Telangana
+ST2024-0026,Riya Khan,Female,2003-10-20,OBC,B.Sc Data Analytics,2024-06-06,riya.khan66@mail.example,9000061974,Bihar
+ST2026-0084,Varun Sen,Male,2006-01-10,OBC,B.Voc Healthcare Services,2026-08-25,varun.sen29@mail.example,9000083020,West Bengal
+ST2024-0050,Omkar Reddy,,2006-01-29,GEN,B.Voc Healthcare Services,2024-06-25,omkar.reddy77@mail.example,9000069010,Assam
+ST2024-0248,Bikram Bose,Other,2004-05-18,GEN,B.Voc Healthcare Services,2024-08-22,bikram.bose54@mail.example,9000079124,Bihar
+ST2025-0129,Chirag Joshi,Male,2004-10-31,EWS,BBA Applied Skills,2025-08-06,chirag.joshi95@mail.example,9000077753,Maharashtra
+ST2023-0038,Ritesh Mukherjee,Male,2004-11-04,GEN,B.Voc Retail Management,2023-08-31,ritesh.mukherjee53@mail.example,9000011909,Assam
+ST2026-0152,Sneha Khan,Female,2008-06-07,GEN,B.Voc Retail Management,2026-08-14,sneha.khan61@mail.example,9000022755,Jharkhand
+ST2024-0062,Pranav Saxena,Male,2004-10-16,EWS,BBA Applied Skills,2024-06-14,pranav.saxena61@mail.example,9000044926,Tamil Nadu
+ST2024-0023,Ananya Khan,Female,2005-01-12,OBC,B.Voc Logistics & Supply Chain,2024-06-19,ananya.khan26@mail.example,9000058998,Telangana
+ST2023-0015,Gauri Desai,Female,2003-02-16,OBC,BBA Applied Skills,2023-06-23,gauri.desai16@mail.example,9000054606,Tamil Nadu
+ST2024-0108,Rupa Kapoor,Female,2004-08-07,GEN,B.Sc Data Analytics,2024-07-09,rupa.kapoor64@mail.example,9000009818,Maharashtra
+ST2025-0244,Rahul Reddy,Male,2004-08-04,OBC,B.Voc Logistics & Supply Chain,2025-07-21,rahul.reddy65@mail.example,9000013668,Karnataka
+ST2026-0094,Gauri Reddy,Female,2006-10-04,OBC,BBA Applied Skills,2026-05-25,gauri.reddy71@mail.example,9000016540,Assam
+ST2026-0297,Sahil Desai,Male,2006-08-15,OBC,B.Sc Data Analytics,2026-07-18,sahil.desai67@mail.example,9000062459,West Bengal
+ST2026-0069,Dev Nair,Male,2006-11-20,OBC,B.Voc Logistics & Supply Chain,2026-07-30,dev.nair65@mail.example,9000048765,Karnataka
+ST2025-0288,Nandini Shetty,Female,2007-02-15,EWS,B.Voc Logistics & Supply Chain,2025-08-26,nandini.shetty80@mail.example,9000041134,Jharkhand
+ST2026-0057,Arjun Pillai,Male,2007-12-21,GEN,B.Voc Retail Management,2026-09-15,arjun.pillai66@mail.example,9000012218,Uttar Pradesh
+ST2026-0208,Vikram Bose,Male,2008-05-23,GEN,B.Voc Automotive Technology,2026-06-03,vikram.bose59@mail.example,9000090360,Bihar
+ST2025-0284,Urmila Kulkarni,Female,2007-03-12,SC,B.Voc Automotive Technology,2025-06-23,urmila.kulkarni22@mail.example,9000018450,Jharkhand
+ST2023-0009,Yamini Mishra,Female,2004-03-26,OBC,BBA Applied Skills,2023-08-18,yamini.mishra93@mail.example,9000041627,Tamil Nadu
+ST2023-0182,Ritesh Desai,Male,2003-10-22,GEN,B.Sc Data Analytics,2023-06-08,ritesh.desai36@mail.example,9000013014,Assam
+ST2024-0101,Swati Saxena,Female,2006-06-22,OBC,B.Voc Automotive Technology,2024-08-05,swati.saxena92@mail.example,9000041682,Assam
+ST2023-0223,Aarav Mondal,Male,2003-08-26,EWS,BBA Applied Skills,2023-07-21,aarav.mondal24@mail.example,9000093325,Jharkhand
+ST2024-0294,Ishita Sinha,Female,2004-04-20,SC,B.Voc Healthcare Services,2024-07-08,ishita.sinha95@mail.example,9000030973,Karnataka
+ST2024-0181,Diya Bose,Female,2005-01-20,SC,B.Voc Automotive Technology,2024-06-30,diya.bose31@mail.example,9000038556,Odisha
+ST2026-0327,Jay Chatterjee,Male,2008-05-02,GEN,B.Sc Data Analytics,2026-09-07,jay.chatterjee37@mail.example,9000065527,Karnataka
+ST2026-0134,Tarun Pandey,Male,2006-06-23,OBC,B.Voc Retail Management,2026-09-22,tarun.pandey75@mail.example,9000036671,Assam
+ST2024-0121,Ankita Verma,Female,2005-07-11,SC,B.Voc Automotive Technology,2024-08-12,ankita.verma83@mail.example,9000073819,Assam
+ST2023-0231,Rohan Das,Male,2004-06-05,GEN,B.Sc Data Analytics,2023-07-29,rohan.das11@mail.example,9000022922,Tamil Nadu
+ST2023-0113,Harsh Pillai,Male,2004-01-17,OBC,BBA Applied Skills,2023-08-07,harsh.pillai71@mail.example,9000000141,Jharkhand
+ST2025-0180,Sahil Saxena,Male,2005-09-22,EWS,B.Voc Healthcare Services,2025-07-29,sahil.saxena55@mail.example,9000059622,West Bengal
+ST2026-0129,Pallavi Verma,Female,2005-09-28,EWS,B.Voc Retail Management,2026-08-25,pallavi.verma61@mail.example,9000015437,Bihar
+ST2025-0287,Sourav Joshi,Male,2005-04-23,,BBA Applied Skills,2025-07-08,sourav.joshi86@mail.example,9000001496,Odisha
+ST2023-0154,Dev Mishra,Male,2003-10-31,GEN,B.Voc Logistics & Supply Chain,2023-08-15,dev.mishra30@mail.example,9000050732,Uttar Pradesh
+ST2024-0228,Imran Reddy,Male,2004-01-08,OBC,B.Voc Healthcare Services,2024-06-18,imran.reddy56@mail.example,9000092797,Jharkhand
+ST2023-0123,Yamini Sinha,Female,2003-04-16,OBC,B.Sc Data Analytics,2023-07-03,yamini.sinha37@mail.example,9000024681,Uttar Pradesh
+ST2025-0283,Aarohi Ali,Female,2005-07-30,GEN,B.Voc Logistics & Supply Chain,2025-08-31,aarohi.ali68@mail.example,9000006916,Telangana
+ST2026-0037,Gauri Bose,Female,2005-07-30,SC,B.Sc Data Analytics,2026-06-22,gauri.bose52@mail.example,9000018166,West Bengal
+ST2023-0096,Zoya Ali,Female,2004-10-20,SC,B.Sc Data Analytics,2023-06-06,zoya.ali76@mail.example,9000032221,Assam
+ST2026-0303,Sanjana Ghosh,Female,2006-12-06,SC,B.Voc Healthcare Services,2026-05-29,sanjana.ghosh18@mail.example,9000020199,Jharkhand
+ST2025-0275,Aarav Reddy,Male,2005-09-24,SC,B.Voc Healthcare Services,2025-08-29,aarav.reddy55@mail.example,9000054799,Maharashtra
+ST2023-0145,Farhan Ali,Male,2004-05-08,GEN,BBA Applied Skills,2023-07-22,farhan.ali34@mail.example,9000096319,Bihar
+ST2024-0125,Yamini Desai,Female,2005-03-04,OBC,B.Voc Healthcare Services,2024-06-27,yamini.desai19@mail.example,9000020719,Assam
+ST2026-0160,Vikram Banerjee,Male,2008-03-06,OBC,B.Sc Data Analytics,2026-06-19,vikram.banerjee95@mail.example,9000053881,Uttar Pradesh
+ST2024-0072,Bhavna Khan,Female,2006-03-21,GEN,B.Voc Automotive Technology,2024-06-30,bhavna.khan55@mail.example,9000018865,Telangana
+ST2025-0056,Riya Mondal,Female,2006-10-10,GEN,B.Voc Automotive Technology,2025-06-04,riya.mondal86@mail.example,9000061856,West Bengal
+ST2025-0087,Esha Kapoor,Female,2005-12-18,GEN,B.Voc Automotive Technology,2025-08-17,esha.kapoor15@mail.example,9000063863,West Bengal
+ST2023-0248,Vaishnavi Verma,Female,2005-01-21,SC,B.Voc Automotive Technology,2023-08-20,vaishnavi.verma16@mail.example,9000041569,Tamil Nadu
+ST2026-0156,Pallavi Pillai,Female,2007-07-15,OBC,B.Voc Healthcare Services,2026-06-05,pallavi.pillai75@mail.example,9000084443,Tamil Nadu
+ST2026-0229,Payal Mehta,Female,2008-05-25,ST,B.Sc Data Analytics,2026-09-10,payal.mehta84@mail.example,9000082606,Odisha
+ST2024-0163,Pallavi Bose,Female,2005-10-23,OBC,B.Voc Logistics & Supply Chain,2024-06-15,pallavi.bose65@mail.example,9000062920,Jharkhand
+ST2026-0157,Sourav Kapoor,Male,2007-08-13,GEN,B.Voc Retail Management,2026-09-06,sourav.kapoor76@mail.example,9000083991,Assam
+ST2023-0196,Manav Mehta,Male,2003-02-28,GEN,B.Voc Retail Management,2023-06-29,manav.mehta65@mail.example,9000043061,Assam
+ST2025-0051,Omkar Sinha,Male,2007-05-19,OBC,BBA Applied Skills,2025-08-30,omkar.sinha10@mail.example,9000049223,Bihar
+ST2025-0099,Sourav Mukherjee,Male,2005-03-02,GEN,B.Voc Logistics & Supply Chain,2025-06-28,sourav.mukherjee39@mail.example,9000066261,Uttar Pradesh
+ST2025-0116,Imran Das,Male,2006-03-03,OBC,B.Voc Logistics & Supply Chain,2025-06-26,imran.das40@mail.example,9000064669,Odisha
+ST2023-0179,Vikram Sharma,Male,2004-03-26,GEN,B.Voc Retail Management,2023-07-31,vikram.sharma22@mail.example,9000004561,West Bengal
+ST2024-0112,Zubin Mukherjee,Male,2005-06-14,OBC,B.Voc Logistics & Supply Chain,2024-06-20,zubin.mukherjee89@mail.example,9000053275,Assam
+ST2025-0167,Sourav Chatterjee,Male,2007-06-15,OBC,B.Sc. Data Analytics,2025-07-27,sourav.chatterjee15@mail.example,9000032089,Odisha
+ST2023-0143,Arjun Joshi,Male,2003-06-02,GEN,B.Voc Healthcare Services,2023-06-13,arjun.joshi92@mail.example,9000056731,Odisha
+ST2024-0076,Mitali Ghosh,Female,2005-06-26,GEN,B.Voc Healthcare Services,2024-07-02,mitali.ghosh68@mail.example,9000089673,Odisha
+ST2026-0027,Abhik Roy,Male,2006-05-13,OBC,B.Voc Retail Management,2026-09-01,abhik.roy66@mail.example,9000043635,Maharashtra
+ST2023-0062,Imran Chatterjee,Male,2003-06-20,GEN,B.Voc Healthcare Services,2023-07-27,imran.chatterjee63@mail.example,9000055713,Bihar
+ST2023-0206,Rohan Ali,Male,2004-01-19,OBC,B.Voc Logistics & Supply Chain,2023-06-21,rohan.ali63@mail.example,9000031872,West Bengal
+ST2026-0294,Lavanya Sinha,Female,2005-11-08,SC,B.Voc Healthcare Services,2026-09-11,lavanya.sinha44@mail.example,9000026457,Tamil Nadu
+ST2026-0024,Kunal Mukherjee,Male,2007-01-26,OBC,B.Voc Automotive Technology,2026-06-17,kunal.mukherjee15@mail.example,9000003632,Jharkhand
+ST2023-0205,Ishita Desai,Female,2003-10-30,GEN,B.Voc Automotive Technology,2023-07-30,ishita.desai46@mail.example,9000082651,West Bengal
+ST2025-0293,Yash Roy,Male,2005-08-20,EWS,B.Voc Healthcare Services,2025-07-04,yash.roy46@mail.example,9000024562,Bihar
+ST2026-0321,Pallavi Chatterjee,Female,2007-04-29,OBC,B.Voc Retail Management,2026-09-24,pallavi.chatterjee95@mail.example,9000044526,Assam
+ST2026-0289,Esha Bose,Female,2006-12-08,GEN,B.Voc Healthcare Services,2026-05-15,esha.bose46@mail.example,9000096271,Maharashtra
+ST2026-0302,Zoya Mukherjee,Female,2007-12-02,OBC,BBA Applied Skills,2026-08-21,zoya.mukherjee68@mail.example,9000045151,Tamil Nadu
+ST2023-0098,Imran Shetty,Male,2005-05-30,EWS,B.Voc Automotive Technology,2023-08-20,imran.shetty64@mail.example,9000051047,Tamil Nadu
+ST2024-0205,Oindrila Verma,Female,2004-05-30,OBC,B.Voc Logistics and Supply Chain,2024-08-19,oindrila.verma79@mail.example,9000042533,Assam
+ST2025-0210,Uday Shetty,Male,2006-11-25,GEN,B.Sc Data Analytics,2025-08-19,uday.shetty73@mail.example,9000040448,Assam
+ST2024-0161,Rupa Patel,Female,2004-01-22,GEN,B.Sc Data Analytics,2024-07-03,rupa.patel71@mail.example,9000013788,Tamil Nadu
+ST2023-0025,Harsh Kulkarni,Male,2004-11-27,SC,BBA Applied Skills,2023-06-12,harsh.kulkarni34@mail.example,9000043814,Odisha
+ST2024-0233,Ritesh Iyer,Male,2006-01-29,SC,BBA Applied Skills,2024-06-14,ritesh.iyer81@mail.example,9000071936,Karnataka
+ST2026-0075,Yash Mondal,Male,2006-05-14,GEN,B.Voc Automotive Technology,2026-07-12,yash.mondal55@mail.example,9000078339,Uttar Pradesh
+ST2026-0139,Farhan Iyer,Male,2006-06-17,GEN,B.Voc Healthcare Services,2026-09-23,farhan.iyer48@mail.example,9000057326,Uttar Pradesh
+ST2024-0150,Kartik Pillai,Male,2006-07-21,GEN,B.Voc Retail Management,2024-07-29,kartik.pillai34@mail.example,9000024652,Karnataka
+ST2026-0225,Jhanvi Sharma,Female,2005-09-15,GEN,B.Sc Data Analytics,2026-07-26,jhanvi.sharma81@mail.example,9000057296,Maharashtra
+ST2025-0207,Pranav Gupta,Male,2004-10-23,GEN,BBA Applied Skills,2025-06-15,pranav.gupta45@mail.example,9000093059,Uttar Pradesh
+ST2025-0270,Ishita Kapoor,Female,2006-02-06,EWS,B.Voc Healthcare Services,2025-07-17,ishita.kapoor96@mail.example,9000007171,Jharkhand
+ST2026-0116,Gaurav Mukherjee,Male,2007-09-05,GEN,B.Voc Healthcare Services,2026-07-22,gaurav.mukherjee45@mail.example,9000028512,Assam
+ST2026-0048,Gauri Rao,Female,2008-04-30,OBC,B.Voc Retail Management,2026-06-13,gauri.rao24@mail.example,9000072727,Bihar
+ST2025-0186,Vikram Khan,Male,2005-04-06,ST,B.Sc Data Analytics,2025-06-12,vikram.khan63@mail.example,9000029499,Uttar Pradesh
+ST2025-0214,Arjun Nair,Male,2006-02-07,OBC,B.Sc Data Analytics,2025-06-26,arjun.nair84@mail.example,9000034479,Karnataka
+ST2023-0164,Nikhil Bose,Male,2005-01-26,SC,B.Sc Data Analytics,2023-08-16,nikhil.bose72@mail.example,9000052911,Uttar Pradesh
+ST2026-0063,Abhik Patel,Male,2007-08-06,OBC,B.Voc Retail Management,2026-06-06,abhik.patel19@mail.example,9000045550,Tamil Nadu
+ST2023-0155,Urmila Ali,Female,2003-09-25,SC,B.Voc Retail Management,2023-06-13,urmila.ali19@mail.example,9000096521,Karnataka
+ST2026-0107,Nandini Mishra,Female,2006-10-04,ST,BBA Applied Skills,2026-07-31,nandini.mishra94@mail.example,9000043483,West Bengal
+ST2026-0295,Sneha Mondal,Female,2006-08-13,OBC,B.Sc Data Analytics,2026-09-27,sneha.mondal71@mail.example,9000062638,Uttar Pradesh
+ST2023-0127,Imran Nair,Male,2003-04-10,GEN,B.Sc Data Analytics,2023-06-11,imran.nair36@mail.example,9000005081,Jharkhand
+ST2024-0183,Ritesh Banerjee,Male,2005-06-21,GEN,B.Voc Automotive Technology,2024-08-06,ritesh.banerjee84@mail.example,9000016892,Assam
+ST2026-0287,Lavanya Verma,Female,2007-09-18,EWS,B.Voc Healthcare Services,2026-05-27,lavanya.verma91@mail.example,9000005575,Maharashtra
+ST2025-0133,Nikhil Sharma,Male,2004-11-11,GEN,B.Voc Healthcare Services,2025-07-08,nikhil.sharma69@mail.example,9000079441,Uttar Pradesh
+ST2024-0217,Lokesh Pillai,Male,2005-05-27,GEN,B.Voc Retail Management,2024-07-25,lokesh.pillai33@mail.example,9000034964,Uttar Pradesh
+ST2023-0131,Jay Mishra,Male,2004-05-13,SC,B.Voc Retail Management,2023-07-10,jay.mishra74@mail.example,9000059857,Assam
+ST2025-0034,Kavya Shetty,Female,2005-03-17,EWS,B.Voc Automotive Technology,2025-08-01,kavya.shetty59@mail.example,9000048116,Uttar Pradesh
+ST2025-0032,Harsh Khan,Male,2004-12-21,ST,B.Voc Healthcare Services,2025-06-29,harsh.khan58@mail.example,9000040013,Bihar
+ST2023-0037,Pranav Sen,Male,2004-08-31,OBC,B.Voc Healthcare Services,2023-07-16,pranav.sen45@mail.example,9000043523,Karnataka
+ST2023-0156,Dev Mishra,Male,2003-06-14,GEN,B.Voc Logistics & Supply Chain,2023-06-01,dev.mishra74@mail.example,9000076670,Uttar Pradesh
+ST2023-0246,Farhan Nair,Male,2005-07-03,SC,B.Voc Retail Management,2023-08-19,farhan.nair69@mail.example,9000031537,Bihar
+ST2023-0079,Riya Kulkarni,Female,2003-02-13,OBC,B.Voc Logistics & Supply Chain,2023-07-01,riya.kulkarni21@mail.example,9000099877,Jharkhand
+ST2023-0216,Varun Sinha,Male,2002-10-18,SC,B.Sc Data Analytics,2023-08-14,varun.sinha69@mail.example,9000028374,West Bengal
+ST2024-0115,Diya Khan,Female,2004-11-10,SC,BBA Applied Skills,2024-08-20,diya.khan52@mail.example,9000092324,Maharashtra
+ST2024-0143,Ananya Das,Female,2006-02-27,OBC,B.Voc Logistics & Supply Chain,2024-06-21,ananya.das54@mail.example,9000030541,Maharashtra
+ST2023-0197,Rahul Ali,Male,2004-10-23,GEN,B.Voc Retail Management,2023-06-17,rahul.ali16@mail.example,9000064140,Odisha
+ST2024-0129,Bhavna Joshi,,2003-09-11,OBC,B.Sc Data Analytics,2024-08-15,bhavna.joshi30@mail.example,9000008876,Jharkhand
+ST2023-0178,Nikhil Roy,Male,2004-07-08,OBC,B.Voc Retail Management,2023-08-04,nikhil.roy97@mail.example,9000081938,Jharkhand
+ST2024-0118,Zubin Reddy,Male,2006-01-21,GEN,BVoc Automotive Technology,2024-07-15,zubin.reddy55@mail.example,9000081904,West Bengal
+ST2025-0262,Rahul Bose,Male,2006-12-28,ST,B.Voc Logistics & Supply Chain,2025-07-29,rahul.bose27@mail.example,9000020597,Odisha
+ST2024-0284,Pranav Khan,Male,2003-12-07,OBC,BBA Applied Skills,2024-06-02,pranav.khan68@mail.example,9000046687,West Bengal
+ST2023-0060,Ananya Bose,Female,2003-08-23,EWS,BBA Applied Skills,2023-06-29,ananya.bose32@mail.example,9000057216,Odisha
+ST2026-0022,Abhik Kulkarni,Male,2007-04-12,OBC,B.Voc Retail Management,2026-07-30,abhik.kulkarni24@mail.example,9000016411,Bihar
+ST2025-0001,Swati Khan,Female,2006-04-14,GEN,BBA Applied Skills,2025-08-04,swati.khan41@mail.example,9000084312,Telangana
+ST2024-0153,Abhik Gupta,Male,2006-02-01,GEN,B.Voc. Retail Management,2024-08-20,abhik.gupta83@mail.example,9000089309,Jharkhand
+ST2024-0274,Diya Desai,Female,,GEN,B.Voc Retail Management,2024-06-18,diya.desai80@mail.example,9000030462,Uttar Pradesh
+ST2025-0276,Rohan Verma,Male,2005-06-10,GEN,B.Voc Automotive Technology,2025-06-23,rohan.verma25@mail.example,9000006486,Odisha
+ST2024-0141,Oindrila Verma,Female,2005-01-26,SC,B.Sc Data Analytics,2024-07-06,oindrila.verma88@mail.example,9000056788,West Bengal
+ST2023-0162,Pallavi Mukherjee,Female,2005-04-01,GEN,B.Voc Healthcare Services,2023-08-25,pallavi.mukherjee89@mail.example,9000023806,Uttar Pradesh
+ST2023-0226,Vaishnavi Bose,Female,2004-07-04,GEN,B.Voc Retail Management,2023-08-13,vaishnavi.bose19@mail.example,9000075969,Telangana
+ST2025-0065,Zoya Mishra,Female,2006-12-07,ST,BBA Applied Skills,2025-08-20,zoya.mishra25@mail.example,9000076319,Jharkhand
+ST2025-0160,Manav Roy,Male,2006-03-25,GEN,B.Voc Automotive Technology,2025-08-01,manav.roy30@mail.example,9000064422,Karnataka
+ST2024-0202,Tarun Khan,Male,2014-04-15,GEN,B.Voc Logistics & Supply Chain,2024-07-17,tarun.khan86@mail.example,9000050218,Jharkhand
+ST2026-0049,Payal Sinha,Female,2006-11-16,GEN,B.Voc Healthcare Services,2026-08-07,payal.sinha98@mail.example,9000082427,Odisha
+ST2026-0015,Arjun Mondal,Male,2008-01-24,GEN,B.Voc Healthcare Services,2026-06-30,arjun.mondal72@mail.example,9000092153,Tamil Nadu
+ST2025-0306,Kunal Shetty,Male,2005-03-21,OBC,B.Voc Logistics & Supply Chain,2025-07-24,kunal.shetty47@mail.example,9000011626,Jharkhand
+ST2025-0183,Harsh Sharma,Male,2006-12-25,EWS,B.Voc Retail Management,2025-07-03,harsh.sharma73@mail.example,9000081879,West Bengal
+ST2026-0067,Meera Iyer,Female,2007-03-26,OBC,B.Voc Logistics & Supply Chain,2026-07-23,meera.iyer18@mail.example,9000014523,Telangana
+ST2026-0127,Ritesh Mehta,Male,2007-12-01,GEN,B.Voc Logistics & Supply Chain,2026-07-26,ritesh.mehta19@mail.example,9000029907,West Bengal
+ST2026-0155,Abhik Das,Male,2005-11-21,EWS,B.Voc Healthcare Services,2026-07-01,abhik.das30@mail.example,9000095900,Odisha
+ST2026-0288,Gaurav Khan,Male,2007-03-13,SC,BBA Applied Skills,2026-09-24,gaurav.khan97@mail.example,9000015584,Bihar
+ST2025-0037,Jhanvi Joshi,Female,2005-05-01,GEN,B.Voc Retail Management,2025-08-13,jhanvi.joshi81@mail.example,9000055527,West Bengal
+ST2025-0154,Charvi Verma,Female,2004-11-06,GEN,B.Sc Data Analytics,2025-08-16,charvi.verma39@mail.example,9000094613,Karnataka
+ST2023-0054,Zubin Rao,Male,2003-11-08,GEN,B.Sc Data Analytics,2023-07-19,zubin.rao27@mail.example,9000076741,Odisha
+ST2024-0007,Tarun Patel,Male,2005-09-29,GEN,B.Sc Data Analytics,2024-07-17,tarun.patel43@mail.example,9000038596,Assam
+ST2025-0239,Uday Chatterjee,Male,2006-05-08,OBC,B.Voc Healthcare Services,2025-07-28,uday.chatterjee74@mail.example,9000090049,Bihar
+ST2024-0068,Ankita Kapoor,Female,2003-12-19,GEN,B.Voc Automotive Technology,2024-08-06,ankita.kapoor17@mail.example,9000091896,Telangana
+ST2025-0068,Farida Verma,Female,2007-06-02,OBC,B.Voc Retail Management,2025-08-23,farida.verma44@mail.example,9000022178,Telangana
+ST2023-0256,Swati Nair,Female,2004-09-07,ST,BBA Applied Skills,2023-06-23,swati.nair58@mail.example,9000024540,West Bengal
+ST2026-0055,Imran Sharma,Male,2006-10-01,OBC,B.Voc Automotive Technology,2026-07-19,imran.sharma84@mail.example,9000067594,Bihar
+ST2023-0088,Omkar Shetty,Male,2005-06-11,EWS,B.Sc Data Analytics,2023-08-02,omkar.shetty69@mail.example,9000039114,Telangana
+ST2025-0300,Sourav Joshi,Male,2006-07-06,OBC,B.Voc Healthcare Services,2025-07-11,sourav.joshi52@mail.example,9000078455,Odisha
+ST2024-0063,Manav Khan,Male,2003-09-21,GEN,BVoc Retail Mgmt,2024-08-29,manav.khan46@mail.example,9000057215,West Bengal
+ST2026-0159,Riya Reddy,Female,2007-02-16,SC,B.B.A Applied Skills,2026-09-13,riya.reddy70@mail.example,9000074559,Tamil Nadu
+ST2026-0079,Rupa Verma,Female,2006-07-15,OBC,B.Voc Healthcare Services,2026-08-16,rupa.verma68@mail.example,9000058885,Telangana
+ST2024-0021,Chirag Reddy,Male,2005-03-22,GEN,B.Voc Retail Management,2024-07-16,chirag.reddy85@mail.example,9000058774,Tamil Nadu
+ST2026-0197,Yamini Joshi,Female,2008-04-20,GEN,B.Voc Healthcare Services,2026-07-05,yamini.joshi30@mail.example,9000093606,Jharkhand
+ST2023-0087,Gaurav Shetty,Male,2004-07-05,GEN,B.Sc Data Analytics,2023-07-25,gaurav.shetty83@mail.example,9000041958,Tamil Nadu
+ST2025-0003,Harsh Iyer,Male,2005-07-20,GEN,B.Voc Logistics & Supply Chain,2025-08-30,harsh.iyer93@mail.example,9000063327,Maharashtra
+ST2025-0170,Chirag Desai,Male,2004-11-11,OBC,B.Voc Logistics & Supply Chain,2025-06-08,chirag.desai82@mail.example,9000098595,Tamil Nadu
+ST2023-0134,Yamini Mondal,Female,2002-12-15,GEN,BBA Applied Skills,2023-08-11,yamini.mondal23@mail.example,9000016198,Tamil Nadu
+ST2023-0194,Chirag Shetty,Male,2003-08-14,OBC,BBA Applied Skills,2023-07-18,chirag.shetty41@mail.example,9000054798,Telangana
+ST2025-0221,Oindrila Saxena,Female,2006-08-22,GEN,B.Voc Retail Management,2025-07-06,oindrila.saxena45@mail.example,9000001442,Uttar Pradesh
+ST2026-0109,Imran Khan,Male,2008-04-04,OBC,B.Voc Retail Management,2026-07-17,imran.khan15@mail.example,9000012417,Maharashtra
+ST2026-0045,Kartik Pandey,Male,2006-03-15,SC,BBA Applied Skills,2026-07-02,kartik.pandey16@mail.example,9000055954,Karnataka
+ST2026-0177,Sneha Pillai,Female,2007-08-22,SC,B.Sc Data Analytics,2026-07-20,sneha.pillai23@mail.example,9000078768,Karnataka
+ST2024-0230,Gaurav Sharma,Male,2004-05-01,GEN,B.Voc Healthcare Services,2024-07-23,gaurav.sharma25@mail.example,9000031248,Telangana
+ST2024-0227,Jay Sen,Other,2005-07-04,OBC,B.Sc Data Analytics,2024-08-22,jay.sen95@mail.example,9000010707,Telangana
+ST2025-0157,Abhik Sinha,Male,2007-03-26,GEN,BBA Applied Skills,2025-06-16,abhik.sinha42@mail.example,9000066566,Uttar Pradesh
+ST2024-0295,Bhavna Bose,Female,2004-10-30,OBC,B.Voc Logistics & Supply Chain,2024-08-03,bhavna.bose88@mail.example,9000052122,Tamil Nadu
+ST2024-0127,Chirag Khan,Male,,SC,BBA Applied Skills,2024-06-21,chirag.khan22@mail.example,9000011047,Assam
+ST2026-0137,Vikram Patel,Male,2007-02-26,GEN,B.Sc Data Analytics,2026-05-29,vikram.patel33@mail.example,9000045848,Karnataka
+ST2025-0139,Abhik Khan,Male,2004-09-24,OBC,B.Voc Healthcare Services,2025-07-06,abhik.khan86@mail.example,9000098654,Assam
+ST2025-0092,Farhan Bose,Male,2005-07-23,GEN,B.Sc Data Analytics,2025-07-30,farhan.bose41@mail.example,9000068621,Uttar Pradesh
+ST2026-0196,Ritesh Saxena,Male,2008-03-28,OBC,B.Sc Data Analytics,2026-05-19,ritesh.saxena55@mail.example,9000079495,Assam
+ST2025-0200,Zoya Reddy,Female,2006-12-06,SC,B.Voc Retail Management,2025-06-20,zoya.reddy53@mail.example,9000098943,Bihar
+ST2023-0105,Tanvi Sen,Female,2005-05-12,GEN,B.Voc Healthcare Services,2023-08-05,tanvi.sen80@mail.example,9000049435,Tamil Nadu
+ST2023-0073,Diya Sen,Female,2004-06-08,OBC,B.Voc Healthcare Services,2023-08-20,diya.sen69@mail.example,9000087607,Uttar Pradesh
+ST2023-0211,Arjun Roy,Male,2005-04-13,ST,B.Voc Healthcare Services,2023-08-15,arjun.roy87@mail.example,9000095977,Odisha
+ST2024-0254,Rahul Mishra,Male,2003-07-26,OBC,BBA Applied Skills,2024-06-26,rahul.mishra42@mail.example,9000087428,Odisha
+ST2026-0237,Gaurav Patel,Other,2006-02-13,GEN,B.Voc Automotive Technology,2026-08-13,gaurav.patel68@mail.example,9000031283,Maharashtra
+ST2026-0173,Esha Sinha,Female,2005-09-25,OBC,B.Voc Healthcare Services,2026-07-24,esha.sinha57@mail.example,9000066678,Maharashtra
+ST2025-0128,Ananya Nair,Female,2004-10-31,SC,B.Voc Healthcare Services,2025-08-19,ananya.nair49@mail.example,9000008729,Telangana
+ST2024-0198,Swati Sinha,Female,2004-09-07,OBC,B.Sc Data Analytics,2024-07-14,swati.sinha65@mail.example,9000036850,Maharashtra
+ST2023-0055,Dev Iyer,Male,2004-05-09,GEN,BBA Applied Skills,2023-07-30,dev.iyer66@mail.example,9000029291,Bihar
+ST2026-0008,Chirag Khan,Male,2006-11-07,OBC,BBA Applied Skills,2026-05-23,chirag.khan87@mail.example,9000075843,Jharkhand
+ST2026-0017,Charvi Chatterjee,Female,2007-02-07,OBC,B.Voc Retail Management,2026-08-17,charvi.chatterjee68@mail.example,9000013558,Telangana
+ST2026-0034,Rupa Reddy,Female,2006-07-14,GEN,B.Voc Automotive Technology,2026-05-19,rupa.reddy63@mail.example,9000009914,Telangana
+ST2026-0095,Chirag Saxena,Male,2008-05-30,OBC,B.Voc Automotive Technology,2026-07-21,chirag.saxena77@mail.example,9000019101,Bihar
+ST2024-0206,Riya Mehta,Other,2006-06-15,GEN,B.Voc Automotive Technology,2024-06-12,riya.mehta81@mail.example,9000008321,Telangana
+ST2024-0019,Abhik Ghosh,Male,2006-02-18,EWS,B.Sc Data Analytics,2024-08-07,abhik.ghosh28@mail.example,9000098586,Assam
+ST2023-0081,Sourav Gupta,Male,2002-10-24,OBC,B.Voc Healthcare Services,2023-07-30,sourav.gupta94@mail.example,9000067551,Assam
+ST2025-0188,Omkar Khan,Male,2007-03-23,GEN,BBA Applied Skills,2025-07-22,omkar.khan63@mail.example,9000026421,Karnataka
+ST2025-0213,Ishita Banerjee,Female,2005-10-26,OBC,B.Voc Retail Management,2025-07-09,ishita.banerjee24@mail.example,9000017208,Tamil Nadu
+ST2026-0324,Nandini Chatterjee,Female,2006-06-07,GEN,B.Voc Logistics & Supply Chain,2026-09-25,nandini.chatterjee83@mail.example,9000025667,West Bengal
+ST2025-0008,Varun Mishra,Male,2006-03-08,GEN,B.Sc Data Analytics,2025-07-04,varun.mishra56@mail.example,9000072142,West Bengal
+ST2024-0103,Jay Ali,Male,2003-09-15,ST,B.Sc Data Analytics,2024-08-22,jay.ali81@mail.example,9000076022,Maharashtra
+ST2026-0265,Sourav Pillai,Male,2007-09-08,OBC,B.Voc Healthcare Services,2026-06-05,sourav.pillai82@mail.example,9000087879,Maharashtra
+ST2024-0268,Tanvi Bose,Female,2004-07-05,OBC,B.Voc Logistics & Supply Chain,2024-07-30,tanvi.bose40@mail.example,9000000306,West Bengal
+ST2025-0143,Bikram Roy,Male,2006-11-18,ST,B.Voc Logistics & Supply Chain,2025-08-04,bikram.roy53@mail.example,9000030619,Assam
+ST2023-0225,Gauri Mukherjee,Female,2004-03-28,GEN,BBA Applied Skills,2023-07-12,gauri.mukherjee82@mail.example,9000008847,Uttar Pradesh
+ST2023-0190,Yamini Patel,Female,2003-05-12,GEN,B.Sc Data Analytics,2023-07-25,yamini.patel94@mail.example,9000065718,Bihar
+ST2024-0053,Bikram Ghosh,Male,2004-05-16,GEN,BBA Applied Skills,2024-08-09,bikram.ghosh40@mail.example,9000077418,Assam
+ST2024-0186,Zubin Kapoor,Other,2005-03-31,GEN,B.Sc Data Analytics,2024-07-14,zubin.kapoor71@mail.example,9000095225,Odisha
+ST2025-0021,Zubin Sen,Male,2005-01-22,EWS,B.Voc Logistics & Supply Chain,2025-08-28,zubin.sen67@mail.example,9000065738,Telangana
+ST2026-0143,Jhanvi Bose,Female,2006-06-30,GEN,B.Voc Healthcare Services,2026-08-15,jhanvi.bose96@mail.example,9000051021,West Bengal
+ST2023-0137,Ankita Banerjee,Female,2004-03-19,GEN,B.Sc Data Analytics,2023-06-27,ankita.banerjee61@mail.example,9000054783,Assam
+ST2023-0100,Ananya Iyer,Female,2004-09-26,OBC,B.Sc Data Analytics,2023-07-24,ananya.iyer92@mail.example,9000049812,Odisha
+ST2025-0302,Varun Pandey,Male,2005-08-25,GEN,B.Voc Healthcare Services,2025-08-06,varun.pandey70@mail.example,9000096707,Bihar
+ST2023-0169,Farida Ghosh,Female,2005-02-05,GEN,B.Sc Data Analytics,2023-08-11,farida.ghosh66@mail.example,9000008337,Karnataka
+ST2024-0164,Aarav Bose,Male,2006-04-14,GEN,B.Voc Healthcare Services,2024-08-22,aarav.bose74@mail.example,9000045906,Jharkhand
+ST2024-0203,Vaishnavi Joshi,Female,2006-02-14,ST,B.Voc Healthcare Services,2024-06-18,vaishnavi.joshi70@mail.example,9000007400,Bihar
+ST2024-0290,Nikhil Gupta,Male,2004-11-25,GEN,B.Voc Automotive Technology,2024-08-05,nikhil.gupta96@mail.example,9000057315,Jharkhand
+ST2024-0027,Harini Nair,Female,2005-02-16,OBC,B.Voc Retail Management,2024-07-30,harini.nair39@mail.example,9000095888,Uttar Pradesh
+ST2023-0215,Arjun Das,Male,2004-08-06,ST,B.Sc Data Analytics,2023-06-06,arjun.das45@mail.example,9000021510,Maharashtra
+ST2024-0002,Kartik Shetty,Male,2004-08-06,GEN,B.Voc Logistics & Supply Chain,2024-06-04,kartik.shetty74@mail.example,9000048624,Assam
+ST2025-0138,Urmila Pandey,Female,2006-01-12,GEN,B.Voc Automotive Technology,2025-07-27,urmila.pandey18@mail.example,9000057713,Karnataka
+ST2023-0139,Jay Mondal,Male,2003-04-04,OBC,B.Voc Automotive Tech,2023-07-17,jay.mondal98@mail.example,9000040661,Maharashtra
+ST2025-0249,Uday Bose,Male,2006-08-06,OBC,B.Voc Logistics and Supply Chain,2025-08-12,uday.bose62@mail.example,9000048140,Jharkhand
+ST2026-0051,Yash Khan,Male,2006-10-08,SC,B.Voc Logistics & Supply Chain,2026-08-04,yash.khan30@mail.example,9000068147,Telangana
+ST2025-0103,Pallavi Mishra,Other,2005-05-26,GEN,B.Voc Healthcare Services,2025-06-23,pallavi.mishra22@mail.example,9000082441,Uttar Pradesh
+ST2023-0241,Esha Mondal,Female,2005-05-16,SC,B.Voc Retail Management,2023-08-13,esha.mondal68@mail.example,9000063235,West Bengal
+ST2026-0035,Sourav Khan,Male,2006-10-17,ST,BBA Applied Skills,2026-09-29,sourav.khan58@mail.example,9000080572,West Bengal
+ST2023-0245,Bikram Mehta,Male,2004-08-21,SC,B.Voc Logistics & Supply Chain,2023-07-30,bikram.mehta51@mail.example,9000044325,Karnataka
+ST2024-0098,Vaishnavi Gupta,Female,2005-04-24,OBC,BBA Applied Skills,2024-06-12,vaishnavi.gupta15@mail.example,9000056981,West Bengal
+ST2025-0072,Rahul Patel,Male,2005-08-23,OBC,B.Sc Data Analytics,2025-08-18,rahul.patel68@mail.example,9000052844,Tamil Nadu
+ST2023-0042,Oindrila Shetty,Female,2005-06-16,GEN,B.Voc Automotive Technology,2023-08-20,oindrila.shetty58@mail.example,9000050699,Telangana
+ST2023-0004,Gaurav Iyer,Male,2004-09-21,GEN,B.Voc Logistics & Supply Chain,2023-07-10,gaurav.iyer69@mail.example,9000099070,Bihar
+ST2023-0035,Chirag Mondal,Male,2004-01-24,OBC,B.Voc Healthcare Services,2023-08-25,chirag.mondal56@mail.example,9000057499,Odisha
+ST2023-0236,Uday Banerjee,Male,2004-03-22,ST,B.Sc Data Analytics,2023-08-25,uday.banerjee46@mail.example,9000095012,Jharkhand
+ST2025-0055,Rupa Mehta,Female,2005-08-16,GEN,B.Sc Data Analytics,2025-07-13,rupa.mehta65@mail.example,9000003670,Uttar Pradesh
+ST2023-0110,Oindrila Verma,Female,2002-07-22,GEN,B.Voc Automotive Technology,2023-06-08,oindrila.verma97@mail.example,9000046076,West Bengal
+ST2025-0223,Rohan Nair,Male,2006-09-16,GEN,B.Voc Retail Management,2025-07-22,rohan.nair27@mail.example,9000055023,Assam
+ST2025-0062,Aarav Iyer,Male,2005-08-06,OBC,B.Voc Healthcare Services,2025-07-17,aarav.iyer35@mail.example,9000091329,Karnataka
+ST2024-0088,Lavanya Joshi,Female,2005-11-26,GEN,B.Voc Retail Management,2024-07-08,lavanya.joshi32@mail.example,9000075316,Odisha
+ST2026-0039,Aarav Kapoor,Male,2006-06-24,OBC,B.Voc Retail Management,2026-06-15,aarav.kapoor91@mail.example,9000009079,West Bengal
+ST2025-0136,Abhik Pillai,Male,2005-11-21,GEN,B.Voc Automotive Technology,2025-06-30,abhik.pillai49@mail.example,9000062871,Karnataka
+ST2025-0028,Rupa Desai,Female,2007-07-02,GEN,B.Voc Retail Management,2025-07-17,rupa.desai77@mail.example,9000093967,Bihar
+ST2024-0030,Omkar Saxena,Male,2005-05-06,OBC,B.Voc Healthcare Services,2024-07-11,omkar.saxena10@mail.example,9000079403,Odisha
+ST2026-0145,Manav Mishra,Male,2007-02-11,SC,B.Voc Automotive Technology,2026-07-27,manav.mishra10@mail.example,9000058427,Uttar Pradesh
+ST2026-0323,Farhan Reddy,Male,2007-06-08,SC,B.Voc Retail Management,2026-09-15,farhan.reddy69@mail.example,9000094385,Tamil Nadu
+ST2024-0134,Vaishnavi Rao,Female,2005-04-23,SC,BBA Applied Skills,2024-06-01,vaishnavi.rao92@mail.example,9000057293,Tamil Nadu
+ST2023-0255,Sourav Verma,Other,2002-07-29,GEN,B.Voc Healthcare Services,2023-07-20,sourav.verma19@mail.example,9000011801,Odisha
+ST2024-0012,Kartik Mondal,,2004-12-14,SC,B.Voc Retail Management,2024-06-12,kartik.mondal40@mail.example,9000005752,West Bengal
+ST2025-0308,Payal Desai,Female,2005-10-27,GEN,B.Voc Retail Management,2025-07-17,payal.desai95@mail.example,9000022370,Jharkhand
+ST2026-0062,Omkar Bose,Male,2007-09-23,EWS,B.Voc Automotive Technology,2026-09-17,omkar.bose41@mail.example,9000077943,Bihar
+ST2026-0072,Tarun Sinha,Male,2008-06-13,EWS,BBA - Applied Skills,2026-09-11,tarun.sinha81@mail.example,9000068005,West Bengal
+ST2025-0098,Bikram Joshi,Male,2005-02-11,GEN,BBA Applied Skills,2025-06-12,bikram.joshi85@mail.example,9000093972,Maharashtra
+ST2026-0191,Kartik Verma,Male,2005-11-12,OBC,B.Voc Logistics & Supply Chain,2026-08-24,kartik.verma41@mail.example,9000010937,Uttar Pradesh
+ST2024-0126,Esha Mukherjee,Female,2004-03-21,OBC,B.Voc Logistics & Supply Chain,2024-07-21,esha.mukherjee60@mail.example,9000078905,Odisha
+ST2026-0033,Kunal Mishra,Male,2007-12-13,OBC,B.Voc Logistics & Supply Chain,2026-08-25,kunal.mishra24@mail.example,9000098508,Odisha
+ST2026-0200,Arjun Roy,Male,2006-11-10,GEN,BBA Applied Skills,2026-05-15,arjun.roy51@mail.example,9000068383,Bihar
+ST2024-0280,Yash Kulkarni,Male,2006-02-05,GEN,B.Voc Retail Management,2024-06-16,yash.kulkarni71@mail.example,9000055300,Assam
+ST2025-0245,Tarun Gupta,Male,2006-06-19,GEN,B.Voc Logistics & Supply Chain,2025-07-03,tarun.gupta66@mail.example,9000081004,West Bengal
+ST2025-0044,Pranav Saxena,Male,2004-10-04,OBC,B.Voc Healthcare Services,2025-08-06,pranav.saxena19@mail.example,9000047429,Jharkhand
+ST2026-0279,Arjun Nair,Male,2005-08-17,EWS,B.Voc Retail Management,2026-06-29,arjun.nair76@mail.example,9000041641,Telangana
+ST2026-0059,Zoya Roy,Female,2006-04-10,SC,B.Voc Automotive Technology,2026-06-09,zoya.roy23@mail.example,9000096624,Bihar
+ST2024-0104,Riya Sinha,Female,2003-10-19,EWS,B.Voc Retail Management,2024-08-10,riya.sinha64@mail.example,9000045705,Telangana
+ST2023-0033,Gaurav Shetty,Male,2004-11-22,OBC,B.Voc Healthcare Services,2023-07-01,gaurav.shetty72@mail.example,9000041628,Karnataka
+ST2023-0008,Omkar Saxena,Male,2005-01-04,OBC,BBA Applied Skills,2023-06-18,omkar.saxena75@mail.example,9000003464,Bihar
+ST2026-0320,Esha Shetty,Female,2008-04-03,GEN,B.Voc Retail Management,2026-08-22,esha.shetty20@mail.example,9000079970,Maharashtra
+ST2025-0134,Yamini Banerjee,Female,2006-09-25,ST,BBA Applied Skills,2025-07-26,yamini.banerjee70@mail.example,9000016409,Bihar
+ST2025-0163,Debashis Mishra,Male,2005-06-01,SC,BBA Applied Skills,2025-08-22,debashis.mishra35@mail.example,9000028529,West Bengal
+ST2026-0272,Charvi Khan,Female,2006-10-17,OBC,B.Voc Logistics & Supply Chain,2026-05-16,charvi.khan24@mail.example,9000047581,West Bengal
+ST2024-0006,Ritesh Ghosh,Male,2004-08-19,OBC,B.Voc Retail Management,2024-06-05,ritesh.ghosh60@mail.example,9000083561,Bihar
+ST2026-0151,Farida Ali,Female,2006-09-27,GEN,B.Voc Automotive Technology,2026-07-22,farida.ali16@mail.example,9000074078,Uttar Pradesh
+ST2024-0244,Zubin Chatterjee,Male,2006-05-27,GEN,B.Voc Retail Management,2024-08-19,zubin.chatterjee15@mail.example,9000029752,Karnataka
+ST2026-0130,Jhanvi Ghosh,Female,2006-12-02,OBC,B.Voc Automotive Technology,2026-09-27,jhanvi.ghosh15@mail.example,9000026510,Telangana
+ST2026-0161,Arjun Kulkarni,Male,2008-02-08,OBC,B.Sc Data Analytics,2026-07-06,arjun.kulkarni13@mail.example,9000022301,Uttar Pradesh
+ST2024-0162,Esha Patel,Female,2005-12-30,OBC,B.Voc Automotive Technology,2024-07-01,esha.patel58@mail.example,9000079208,Karnataka
+ST2026-0264,Omkar Sen,Male,2007-09-18,GEN,BVoc Healthcare Services,2026-06-07,omkar.sen93@mail.example,9000080627,Odisha
+ST2026-0104,Imran Sen,Male,2008-06-01,SC,B.B.A Applied Skills,2026-06-18,imran.sen59@mail.example,9000054757,Uttar Pradesh
+ST2024-0250,Jay Das,Male,2003-07-22,SC,B.Voc Logistics & Supply Chain,2024-06-11,jay.das34@mail.example,9000017939,Jharkhand
+ST2025-0123,Arjun Sharma,Male,2005-06-04,OBC,B.Voc Logistics & Supply Chain,2025-07-17,arjun.sharma25@mail.example,9000078803,Maharashtra
+ST2023-0191,Pallavi Pillai,Female,2004-11-23,OBC,BBA Applied Skills,2023-06-15,pallavi.pillai54@mail.example,9000077078,Odisha
+ST2023-0150,Mitali Roy,Female,2003-08-20,SC,B.Voc Retail Management,2023-07-01,mitali.roy80@mail.example,9000019197,Maharashtra
+ST2025-0088,Manav Reddy,Male,2006-07-16,ST,B.Voc Automotive Technology,2025-07-21,manav.reddy72@mail.example,9000045724,Odisha
+ST2023-0141,Urmila Nair,Female,2003-03-21,OBC,B.Voc Logistics & Supply Chain,2023-07-29,urmila.nair63@mail.example,9000020099,Tamil Nadu
+ST2024-0185,Gaurav Desai,Male,2005-11-09,GEN,BBA Applied Skills,2024-08-11,gaurav.desai17@mail.example,9000033410,West Bengal
+ST2026-0221,Pranav Iyer,Male,2007-09-05,OBC,B.Voc Logistics & Supply Chain,2026-09-27,pranav.iyer20@mail.example,9000005734,West Bengal
+ST2023-0065,Kartik Chatterjee,Male,2005-06-03,OBC,BVoc Retail Mgmt,2023-08-28,kartik.chatterjee19@mail.example,9000045137,Uttar Pradesh
+ST2025-0166,Diya Joshi,Female,2007-04-10,ST,B.Voc Healthcare Services,2025-08-30,diya.joshi12@mail.example,9000025874,Tamil Nadu
+ST2025-0229,Pallavi Nair,Female,2005-07-06,SC,B.Voc Automotive Technology,2025-07-19,pallavi.nair56@mail.example,9000039789,Uttar Pradesh
+ST2026-0181,Zubin Bose,Male,2008-08-02,OBC,B.Voc Automotive Technology,2026-08-13,zubin.bose94@mail.example,9000050328,Odisha
+ST2025-0258,Harsh Rao,Male,2005-12-15,OBC,B.Sc Data Analytics,2025-07-25,harsh.rao33@mail.example,9000022995,Odisha
+ST2025-0161,Diya Pillai,Female,2006-07-31,SC,B.Voc Retail Management,2025-07-17,diya.pillai34@mail.example,9000083328,West Bengal
+ST2025-0149,Ankita Iyer,Female,2005-01-07,OBC,BBA Applied Skills,2025-08-09,ankita.iyer81@mail.example,9000035829,Odisha
+ST2025-0179,Ritesh Mondal,Male,2005-04-26,GEN,B.Voc Healthcare Services,2025-06-22,ritesh.mondal55@mail.example,9000048938,Karnataka
+ST2023-0039,Rupa Khan,Female,2004-10-12,EWS,B.Voc Retail Management,2023-06-22,rupa.khan39@mail.example,9000011013,West Bengal
+ST2024-0189,Vikram Iyer,Male,2004-11-22,OBC,B.Voc Automotive Technology,2024-08-11,vikram.iyer28@mail.example,9000087223,Uttar Pradesh
+ST2025-0272,Farhan Chatterjee,Female,2007-03-23,OBC,B.Voc Retail Management,2025-07-04,dup.swati.kapoor94@mail.example,9000029826,West Bengal
+ST2026-0268,Sourav Pillai,Male,2007-06-17,GEN,B.Voc Retail Management,2026-06-16,sourav.pillai75@mail.example,9000022964,Karnataka
+ST2026-0318,Jhanvi Ghosh,Female,2007-03-14,SC,B.Sc Data Analytics,2026-05-31,jhanvi.ghosh22@mail.example,9000084809,Jharkhand
+ST2025-0215,Bikram Joshi,Male,2006-07-23,GEN,B.Voc Retail Management,2025-08-04,bikram.joshi86@mail.example,9000050838,Odisha
+ST2026-0270,Aarav Chatterjee,Male,2005-10-11,SC,B.Voc Automotive Technology,2026-07-12,aarav.chatterjee47@mail.example,9000013083,Jharkhand
+ST2026-0013,Rohan Kulkarni,Male,2006-12-17,ST,B.Sc Data Analytics,2026-05-25,rohan.kulkarni47@mail.example,9000051012,Uttar Pradesh
+ST2024-0123,Oindrila Ghosh,Female,2005-12-19,GEN,B.Voc Retail Management,2024-08-19,oindrila.ghosh32@mail.example,9000002173,Jharkhand
+ST2023-0159,Tanvi Sinha,Female,2003-07-07,GEN,BBA Applied Skills,2023-08-08,tanvi.sinha77@mail.example,9000005499,Jharkhand
+ST2023-0217,Sahil Das,Male,2004-10-15,GEN,B.Voc Logistics & Supply Chain,2023-08-19,sahil.das68@mail.example,9000032925,Odisha
+ST2024-0300,Debashis Kapoor,Male,2005-11-06,OBC,BBA Applied Skills,2024-06-01,debashis.kapoor25@mail.example,9000076130,Tamil Nadu
+ST2024-0140,Farhan Sinha,Male,2003-12-01,OBC,B.Voc Retail Management,2024-08-24,farhan.sinha44@mail.example,9000028961,Jharkhand
+ST2023-0012,Manav Pillai,Male,2002-11-01,OBC,B.Voc Retail Management,2023-08-28,manav.pillai89@mail.example,9000010521,Telangana
+ST2023-0013,Ananya Ghosh,Female,2004-10-30,OBC,B.Voc Logistics & Supply Chain,2023-08-30,ananya.ghosh17@mail.example,9000009288,Bihar
+ST2023-0046,Mitali Patel,Female,2003-03-14,GEN,B.Voc Retail Management,2023-08-08,mitali.patel54@mail.example,9000022540,Maharashtra
+ST2024-0211,Esha Banerjee,Female,2004-05-01,GEN,B.Voc Automotive Technology,2024-06-21,esha.banerjee54@mail.example,9000083356,Maharashtra
+ST2025-0298,Lokesh Desai,Male,2005-04-20,OBC,B.Voc Retail Management,2025-08-16,lokesh.desai46@mail.example,9000007970,Tamil Nadu
+ST2026-0131,Rohan Reddy,Male,2006-12-18,GEN,B.Voc Retail Management,2026-08-17,rohan.reddy96@mail.example,9000069177,Uttar Pradesh
+ST2025-0110,Sanjana Shetty,Female,2004-08-28,OBC,B.Voc Healthcare Services,2025-06-10,sanjana.shetty51@mail.example,9000068196,Telangana
+ST2026-0111,Pranav Kapoor,Male,2008-01-09,GEN,BBA Applied Skills,2026-07-17,pranav.kapoor92@mail.example,9000014852,Jharkhand
+ST2024-0096,Farida Mishra,Female,2006-01-29,OBC,BBA Applied Skills,2024-07-08,farida.mishra77@mail.example,9000058822,Assam
+ST2026-0088,Harini Bose,Female,2005-12-09,OBC,B.Voc Automotive Technology,2026-05-19,harini.bose65@mail.example,9000025925,Assam
+ST2025-0277,Pallavi Nair,Female,2007-08-15,GEN,B.Voc Retail Management,2025-08-20,pallavi.nair76@mail.example,9000037986,Uttar Pradesh
+ST2023-0041,Yash Pillai,Other,2004-03-02,SC,BBA Applied Skills,2023-06-22,yash.pillai82@mail.example,9000020053,Tamil Nadu
+ST2025-0227,Nikhil Ghosh,Male,2007-04-26,GEN,B.Voc Healthcare Services,2025-07-05,nikhil.ghosh46@mail.example,9000087324,Telangana
+ST2025-0035,Varun Chatterjee,Male,2007-02-21,SC,B.Voc Logistics & Supply Chain,2025-08-22,varun.chatterjee93@mail.example,9000071421,Tamil Nadu
+ST2025-0151,Tarun Bose,Male,2007-05-26,GEN,BBA Applied Skills,2025-06-21,tarun.bose79@mail.example,9000075829,Maharashtra
+ST2024-0010,Mitali Desai,Female,2003-08-26,OBC,B.Voc Automotive Technology,2024-06-09,mitali.desai92@mail.example,9000020097,Assam
+ST2025-0169,Urmila Banerjee,Female,2007-07-14,OBC,B.Voc Retail Management,2025-07-23,urmila.banerjee97@mail.example,9000030120,Assam
+ST2024-0265,Manav Mehta,Male,2004-08-30,GEN,BBA Applied Skills,2024-06-23,manav.mehta79@mail.example,9000034703,Uttar Pradesh
+ST2025-0080,Nandini Sen,Female,2005-03-02,OBC,B.Voc Logistics & Supply Chain,2025-07-01,nandini.sen65@mail.example,9000007020,Uttar Pradesh
+ST2025-0309,Gauri Sharma,Female,2005-12-19,OBC,B.Voc Automotive Technology,2025-06-01,gauri.sharma30@mail.example,9000091912,Tamil Nadu
+ST2025-0142,Yash Patel,Male,2005-01-09,GEN,B.Voc Logistics & Supply Chain,2025-06-11,yash.patel48@mail.example,9000096933,West Bengal
+ST2024-0085,Meera Das,Female,2006-05-20,EWS,B.Voc Automotive Technology,2024-08-31,meera.das40@mail.example,9000097947,West Bengal
+ST2024-0173,Dev Shetty,Male,2006-06-21,ST,B.Voc Retail Management,2024-08-06,dev.shetty72@mail.example,9000008304,Maharashtra
+ST2024-0028,Sourav Mukherjee,Male,2006-01-24,SC,B.Voc Automotive Technology,2024-07-16,sourav.mukherjee43@mail.example,9000027076,Tamil Nadu
+ST2024-0201,Oindrila Sharma,Female,2004-07-18,ST,BBA Applied Skills,2024-06-10,oindrila.sharma88@mail.example,9000092710,Karnataka
+ST2023-0235,Harini Shetty,Female,2003-06-03,SC,B.Sc Data Analytics,2023-06-12,harini.shetty96@mail.example,9000031501,Uttar Pradesh
+ST2023-0107,Arjun Iyer,Male,2003-09-20,SC,B.Voc Logistics & Supply Chain,2023-07-13,arjun.iyer35@mail.example,9000074994,Assam
+ST2024-0092,Manav Banerjee,Male,2004-06-05,SC,B.Sc Data Analytics,2024-07-09,manav.banerjee71@mail.example,9000056065,Jharkhand
+ST2025-0144,Arjun Mishra,Male,2007-03-28,ST,B.Voc Retail Management,2025-08-11,arjun.mishra12@mail.example,9000096276,Maharashtra
+ST2025-0085,Sneha Verma,Female,2007-06-29,SC,BBA Applied Skills,2025-07-31,sneha.verma38@mail.example,9000006125,Uttar Pradesh
+ST2026-0105,Bhavna Kulkarni,Female,2006-02-09,GEN,B.Voc Automotive Technology,2026-09-22,bhavna.kulkarni56@mail.example,9000024899,Jharkhand
+ST2025-0170,Chirag Desai,Male,2004-11-11,OBC,B.Voc Logistics & Supply Chain,2025-06-08,chirag.desai82@mail.example,9000098595,Tamil Nadu
+ST2025-0191,Meera Ali,Female,2005-10-24,EWS,B.Voc Healthcare Services,2025-06-19,meera.ali72@mail.example,9000089097,Jharkhand
+ST2026-0097,Rohan Kulkarni,Male,2006-11-20,OBC,B.Voc Logistics & Supply Chain,2026-09-06,rohan.kulkarni63@mail.example,9000013856,Jharkhand
+ST2026-0316,Mitali Bose,Female,2007-08-30,OBC,B.Voc Retail Management,2026-09-14,mitali.bose50@mail.example,9000056927,Assam
+ST2025-0266,Swati Mukherjee,Female,2007-06-27,OBC,B.Voc Automotive Technology,2025-08-13,swati.mukherjee90@mail.example,9000089236,Bihar
+ST2024-0084,Gaurav Sinha,Male,2006-04-21,EWS,B.Voc Retail Management,2024-06-22,gaurav.sinha31@mail.example,9000010176,Odisha
+ST2023-0036,Vikram Reddy,Male,2003-09-20,GEN,B.Voc Automotive Technology,2023-08-21,vikram.reddy11@mail.example,9000055091,Maharashtra
+ST2025-0212,Nikhil Gupta,Male,2006-09-03,GEN,B.Voc Retail Management,2025-06-14,nikhil.gupta44@mail.example,9000002666,Jharkhand
+ST2025-0030,Jay Ghosh,Male,2007-06-04,SC,B.Voc Retail Management,2025-08-05,jay.ghosh66@mail.example,9000098845,Karnataka
+ST2026-0125,Rahul Ghosh,Male,2007-05-19,ST,BBA Applied Skills,2026-05-20,rahul.ghosh42@mail.example,9000075675,Bihar
+ST2025-0194,Oindrila Mehta,Female,2007-03-29,OBC,B.Sc Data Analytics,2025-08-12,oindrila.mehta50@mail.example,9000034924,Telangana
+ST2025-0297,Harsh Kapoor,Male,2004-09-17,SC,B.Voc Automotive Technology,2025-07-18,harsh.kapoor60@mail.example,9000021875,Karnataka
+ST2026-0133,Payal Mishra,Female,2006-11-30,ST,B.Voc Retail Management,2026-07-09,payal.mishra46@mail.example,9000071511,Assam
+ST2023-0213,Meera Sharma,Female,2004-04-22,SC,B.Voc Automotive Technology,2023-07-14,meera.sharma54@mail.example,9000030800,Karnataka
+ST2024-0124,Chirag Joshi,Male,2005-10-06,EWS,B.Voc Logistics & Supply Chain,2024-06-17,chirag.joshi44@mail.example,9000067561,Uttar Pradesh
+ST2026-0071,Lokesh Banerjee,Male,2006-03-17,OBC,B.Voc Retail Management,2026-05-24,lokesh.banerjee74@mail.example,9000039526,Jharkhand
+ST2025-0181,Meera Verma,Other,2005-07-21,GEN,B.Sc Data Analytics,2025-06-18,meera.verma98@mail.example,9000058782,Assam
+ST2026-0074,Jhanvi Iyer,Female,2006-08-19,EWS,B.Voc Automotive Technology,2026-06-04,jhanvi.iyer50@mail.example,9000054851,Tamil Nadu
+ST2023-0157,Meera Chatterjee,Female,2003-09-06,GEN,B.Sc Data Analytics,2023-07-07,meera.chatterjee81@mail.example,9000094879,Maharashtra
+ST2023-0151,Riya Sinha,Female,2004-09-02,GEN,B.B.A Applied Skills,2023-08-08,riya.sinha75@mail.example,9000090374,West Bengal
+ST2023-0132,Swati Mukherjee,Female,2002-07-13,OBC,B.Voc Automotive Technology,2023-06-28,swati.mukherjee43@mail.example,9000015540,Tamil Nadu
+ST2026-0050,Ritesh Reddy,Male,2006-11-20,EWS,B.Voc Automotive Technology,2026-08-14,ritesh.reddy56@mail.example,9000015782,Uttar Pradesh
+ST2026-0252,Abhik Khan,Male,2006-06-17,EWS,B.Voc Retail Management,2026-07-29,abhik.khan67@mail.example,9000081658,Maharashtra
+ST2025-0040,Yash Gupta,Male,2006-12-27,GEN,B.Voc Logistics & Supply Chain,2025-08-31,yash.gupta90@mail.example,9000035134,Maharashtra
+ST2025-0089,Pranav Sen,Male,2006-03-14,GEN,B.Voc Retail Management,2025-07-27,pranav.sen14@mail.example,9000082887,Odisha
+ST2025-0240,Jay Desai,Male,2005-12-05,OBC,B.Sc Data Analytics,2025-08-15,jay.desai73@mail.example,9000080792,Tamil Nadu
+ST2025-0285,Pranav Pillai,Male,2005-07-22,SC,B.Voc Retail Management,2025-07-10,pranav.pillai35@mail.example,9000009696,Jharkhand
+ST2026-0236,Sanjana Banerjee,Female,2007-02-01,GEN,B.Voc Retail Management,2026-09-14,sanjana.banerjee62@mail.example,9000035090,Telangana
+ST2024-0117,Bhavna Bose,Female,2004-06-10,GEN,B.Voc Logistics & Supply Chain,2024-06-07,bhavna.bose62@mail.example,9000023689,Maharashtra
+ST2024-0061,Esha Roy,Female,2006-01-04,GEN,BBA Applied Skills,2024-06-09,esha.roy93@mail.example,9000056911,Telangana
+ST2026-0178,Aarohi Saxena,Female,2007-03-03,OBC,BBA Applied Skills,2026-07-21,aarohi.saxena41@mail.example,9000060642,Maharashtra
+ST2026-0100,Vaishnavi Mehta,Female,2007-04-02,GEN,B.Sc Data Analytics,2026-06-06,vaishnavi.mehta10@mail.example,9000054011,Assam
+ST2026-0025,Bikram Das,Male,2005-09-27,GEN,B.Sc Data Analytics,2026-09-03,bikram.das25@mail.example,9000036077,Tamil Nadu
+ST2023-0214,Nikhil Sharma,Male,2004-04-11,ST,BBA Applied Skills,2023-06-24,nikhil.sharma70@mail.example,9000091170,Odisha
+ST2023-0011,Vaishnavi Das,Other,2004-06-01,SC,B.Voc Healthcare Services,2023-06-24,vaishnavi.das43@mail.example,9000056704,Karnataka
+ST2025-0226,Bhavna Saxena,Female,2006-10-27,SC,B.Voc Automotive Technology,2025-08-08,bhavna.saxena92@mail.example,9000073832,Maharashtra
+ST2024-0017,Lokesh Rao,Male,2003-11-07,OBC,B.Voc Healthcare Services,2024-07-11,lokesh.rao43@mail.example,9000084572,Karnataka
+ST2026-0293,Imran Khan,Male,2008-01-14,OBC,B.Voc Retail Management,2026-07-18,imran.khan86@mail.example,9000055391,Uttar Pradesh
+ST2023-0099,Sahil Roy,Male,2004-07-08,SC,B.Voc Logistics & Supply Chain,2023-07-12,sahil.roy37@mail.example,9000022805,Tamil Nadu
+ST2025-0125,Abhik Gupta,Male,2005-06-26,SC,B.Voc Logistics & Supply Chain,2025-07-06,abhik.gupta70@mail.example,9000022730,Telangana
+ST2026-0326,Chirag Joshi,Male,2007-10-17,SC,BVoc Logistics & Supply Chain,2026-07-02,chirag.joshi51@mail.example,9000025998,Tamil Nadu
+ST2026-0218,Farida Roy,Female,2008-02-18,EWS,B.Voc Logistics & Supply Chain,2026-07-26,farida.roy19@mail.example,9000086435,Maharashtra
+ST2023-0108,Abhik Ali,Male,2002-09-17,SC,B.Voc Logistics & Supply Chain,2023-07-20,abhik.ali74@mail.example,9000088524,West Bengal
+ST2025-0225,Manav Banerjee,Male,2005-09-01,OBC,B.Voc Retail Management,2025-06-13,manav.banerjee95@mail.example,9000071757,Odisha
+ST2026-0068,Abhik Sinha,Male,2007-07-03,SC,B.Sc Data Analytics,2026-08-09,abhik.sinha27@mail.example,9000074285,Assam
+ST2025-0296,Ankita Sinha,Female,2004-10-19,SC,BBA Applied Skills,2025-08-20,ankita.sinha37@mail.example,9000024484,Jharkhand
+ST2024-0055,Nandini Mehta,Female,2006-05-22,OBC,B.Voc Logistics & Supply Chain,2024-07-04,nandini.mehta46@mail.example,9000068583,Telangana
+ST2026-0305,Tanvi Rao,Other,2006-01-27,GEN,B.Sc Data Analytics,2026-07-09,tanvi.rao94@mail.example,9000042081,Jharkhand
+ST2026-0061,Pranav Banerjee,Male,2006-04-19,ST,B.Voc Retail Management,2026-07-07,pranav.banerjee95@mail.example,9000024884,Bihar
+ST2025-0219,Kunal Reddy,Male,2006-10-26,SC,B.Sc Data Analytics,2025-08-16,kunal.reddy75@mail.example,9000028716,Bihar
+ST2026-0281,Jhanvi Banerjee,Female,2008-06-11,SC,B.Voc Logistics & Supply Chain,2026-06-23,jhanvi.banerjee81@mail.example,9000018296,Bihar
+ST2026-0112,Omkar Iyer,Male,2007-11-18,SC,B.Voc Logistics & Supply Chain,2026-07-20,omkar.iyer16@mail.example,9000028207,Maharashtra
+ST2024-0086,Kunal Shetty,Male,2005-06-01,OBC,BBA Applied Skills,2024-08-24,kunal.shetty38@mail.example,9000062055,Odisha
+ST2024-0087,Tarun Saxena,Male,2005-06-26,SC,B.Voc Logistics & Supply Chain,2024-06-07,tarun.saxena82@mail.example,9000012943,Bihar
+ST2024-0194,Lavanya Verma,Female,2004-10-12,OBC,B.Voc Automotive Technology,2024-06-21,lavanya.verma40@mail.example,9000088099,Uttar Pradesh
+ST2023-0095,Sanjana Kapoor,Female,2003-06-20,ST,BBA Applied Skills,2023-07-03,sanjana.kapoor22@mail.example,9000045377,Tamil Nadu
+ST2023-0181,Sahil Mondal,Male,2002-12-24,OBC,BBA Applied Skills,2023-07-04,sahil.mondal36@mail.example,9000021130,Jharkhand
+ST2025-0081,Gaurav Rao,Male,2005-11-17,OBC,B.Sc Data Analytics,2025-06-17,gaurav.rao29@mail.example,9000054552,Telangana
+ST2026-0219,Ankita Iyer,Female,2006-10-12,OBC,B.Sc Data Analytics,2026-09-02,ankita.iyer80@mail.example,9000035623,Odisha
+ST2024-0216,Mitali Ghosh,Female,2004-02-21,OBC,B.Voc Healthcare Services,2024-07-26,mitali.ghosh87@mail.example,9000028453,West Bengal
+ST2025-0261,Manav Mehta,Male,2006-06-11,SC,B.Voc Healthcare Services,2025-06-17,manav.mehta88@mail.example,9000029311,West Bengal
+ST2026-0092,Rahul Patel,Male,2007-08-13,GEN,B.Voc Retail Management,2026-06-05,rahul.patel83@mail.example,9000076615,Maharashtra
+ST2026-0307,Chirag Roy,Male,2006-03-24,GEN,B.Sc Data Analytics,2026-06-03,chirag.roy79@mail.example,9000055620,Assam
+ST2025-0279,Kartik Sinha,Male,2004-10-19,GEN,B.Voc Retail Management,2025-07-21,kartik.sinha28@mail.example,9000092768,Bihar
+ST2026-0304,Oindrila Sharma,Female,2006-12-20,SC,B.Voc Retail Management,2026-09-26,oindrila.sharma52@mail.example,9000005193,Jharkhand
+ST2026-0231,Arjun Mehta,Male,2006-11-04,ST,B.Voc Healthcare Services,2026-07-07,arjun.mehta55@mail.example,9000032719,Tamil Nadu
+ST2024-0277,Esha Sen,Female,2004-06-06,OBC,B.Sc Data Analytics,2024-08-22,esha.sen91@mail.example,9000015685,Maharashtra
+ST2026-0081,Esha Patel,Female,2006-11-18,GEN,B.Voc Healthcare Services,2026-09-11,esha.patel48@mail.example,9000098227,West Bengal
+ST2025-0075,Swati Ghosh,Female,2006-05-18,GEN,B.Sc Data Analytics,2025-06-06,swati.ghosh75@mail.example,9000065561,Assam
+ST2024-0147,Sahil Ali,Male,2004-08-26,OBC,B.Voc Retail Management,2024-06-19,sahil.ali21@mail.example,9000055827,Tamil Nadu
+ST2025-0146,Rohan Iyer,Male,2005-04-10,GEN,B.Voc Retail Management,2025-07-14,rohan.iyer25@mail.example,9000003645,West Bengal
+ST2025-0059,Vikram Banerjee,Male,2005-06-08,OBC,BBA Applied Skills,2025-06-15,vikram.banerjee39@mail.example,9000060986,Odisha
+ST2026-0232,Ankita Desai,Female,2006-01-09,OBC,B.Sc Data Analytics,2026-06-27,ankita.desai31@mail.example,9000099255,Odisha
+ST2025-0043,Lavanya Pandey,Female,2005-02-12,GEN,B.Voc Healthcare Services,2025-06-28,lavanya.pandey61@mail.example,9000029815,Maharashtra
+ST2025-0105,Rohan Khan,Male,2004-12-15,OBC,B.Voc Retail Management,2025-07-24,rohan.khan54@mail.example,9000061597,Tamil Nadu
+ST2025-0228,Aarohi Mondal,Female,2004-11-05,GEN,B.Sc Data Analytics,2025-08-29,aarohi.mondal90@mail.example,9000041454,Uttar Pradesh
+ST2025-0278,Ritesh Patel,Male,2005-09-03,EWS,BBA Applied Skills,2025-07-28,ritesh.patel26@mail.example,9000095639,West Bengal
+ST2025-0251,Debashis Reddy,Male,2004-10-15,GEN,B.Voc Automotive Technology,2025-07-05,debashis.reddy27@mail.example,9000089884,Assam
+ST2024-0144,Yamini Verma,Female,2006-06-08,OBC,B.Voc Logistics & Supply Chain,2024-06-12,yamini.verma48@mail.example,9000025033,Jharkhand
+ST2023-0239,Jay Roy,Male,2004-11-05,GEN,B.Voc Healthcare Services,2023-07-07,jay.roy54@mail.example,9000028138,Jharkhand
+ST2026-0009,Gaurav Rao,Male,2007-12-13,EWS,B.Voc Logistics & Supply Chain,2026-06-03,gaurav.rao13@mail.example,9000015313,West Bengal
+ST2023-0064,Yamini Sen,Female,2005-04-09,OBC,B.Voc Logistics & Supply Chain,2023-08-19,yamini.sen90@mail.example,9000037577,West Bengal
+ST2023-0082,Rohan Ghosh,Male,2003-07-28,SC,B.Voc Automotive Technology,2023-06-27,rohan.ghosh93@mail.example,9000077960,Odisha
+ST2024-0059,Sahil Nair,Male,2005-06-15,GEN,B.Voc Retail Management,2024-06-23,sahil.nair20@mail.example,9000007413,Tamil Nadu
+ST2026-0242,Debashis Pandey,Male,2006-09-19,OBC,B.Voc Automotive Technology,2026-06-10,debashis.pandey88@mail.example,9000053239,West Bengal
+ST2025-0013,Vikram Rao,Male,2005-09-01,OBC,B.Sc Data Analytics,2025-07-25,vikram.rao79@mail.example,9000008915,West Bengal
+ST2025-0058,Zubin Mukherjee,Male,2006-05-19,GEN,B.Voc Retail Management,2025-08-22,zubin.mukherjee71@mail.example,9000048323,Bihar
+ST2023-0171,Uday Mehta,Male,2005-01-30,OBC,B.Voc Healthcare Services,2023-06-24,uday.mehta67@mail.example,9000087923,Tamil Nadu
+ST2024-0018,Vaishnavi Banerjee,Female,2005-01-28,GEN,B.Voc Logistics & Supply Chain,2024-08-30,vaishnavi.banerjee93@mail.example,9000084570,Assam
+ST2026-0126,Rupa Reddy,Female,2006-02-25,GEN,B.Voc Logistics & Supply Chain,2026-08-03,rupa.reddy92@mail.example,9000003772,Jharkhand
+ST2025-0017,Bikram Nair,Male,2004-09-09,EWS,B.Voc Logistics & Supply Chain,2025-08-16,bikram.nair38@mail.example,9000027462,West Bengal
+ST2024-0291,Riya Mondal,Female,2005-09-16,OBC,B.Voc Logistics & Supply Chain,2024-06-03,riya.mondal46@mail.example,9000097270,Karnataka
+ST2026-0087,Lokesh Sinha,Male,2008-03-09,GEN,B.Voc Automotive Technology,2026-05-26,lokesh.sinha35@mail.example,9000081351,Uttar Pradesh
+ST2025-0291,Kartik Nair,Male,2005-03-12,EWS,B.Voc Logistics & Supply Chain,2025-06-25,kartik.nair12@mail.example,9000080563,Uttar Pradesh
+ST2024-0114,Dev Kapoor,Male,2004-05-22,GEN,B.Sc Data Analytics,2024-08-05,dev.kapoor75@mail.example,9000045377,Jharkhand
+ST2023-0094,Sourav Kulkarni,Male,2005-08-04,OBC,BBA Applied Skills,2023-08-23,sourav.kulkarni31@mail.example,9000017661,Telangana
+ST2026-0319,Meera Reddy,Female,2007-03-31,GEN,B.Voc Healthcare Services,2026-06-08,meera.reddy79@mail.example,9000097909,Jharkhand
+ST2025-0027,Abhik Ghosh,Male,2004-12-30,GEN,B.Voc Automotive Technology,2025-07-20,abhik.ghosh21@mail.example,9000030431,Uttar Pradesh
+ST2025-0259,Imran Mondal,Other,2004-06-23,OBC,B.Sc Data Analytics,2025-06-15,imran.mondal49@mail.example,9000083320,Assam
+ST2025-0238,Sourav Shetty,Male,2007-04-08,OBC,BBA Applied Skills,2025-08-22,sourav.shetty48@mail.example,9000003796,Karnataka
+ST2025-0078,Nandini Saxena,Female,2005-08-12,GEN,B.Voc Logistics & Supply Chain,2025-07-29,nandini.saxena43@mail.example,9000050758,Karnataka
+ST2023-0249,Vaishnavi Sinha,Female,2003-03-26,OBC,BVoc Healthcare Services,2023-08-16,vaishnavi.sinha89@mail.example,9000075327,Assam
+ST2026-0093,Aarav Mishra,Male,2008-01-28,OBC,B.Voc Automotive Technology,2026-06-17,aarav.mishra47@mail.example,9000004034,Bihar
+ST2024-0040,Yamini Mehta,Female,2003-11-28,GEN,B.Sc Data Analytics,2024-08-04,yamini.mehta23@mail.example,9000041412,Karnataka
+ST2026-0285,Imran Reddy,Male,2008-01-03,OBC,BBA Applied Skills,2026-08-09,imran.reddy29@mail.example,9000093115,Jharkhand
+ST2026-0044,Bikram Gupta,Male,2006-10-01,GEN,B.Voc Logistics & Supply Chain,2026-09-02,bikram.gupta36@mail.example,9000070571,Tamil Nadu
+ST2024-0043,Ananya Khan,Female,2004-11-23,GEN,B.Voc Healthcare Services,2024-08-21,ananya.khan13@mail.example,9000002867,Tamil Nadu
+ST2026-0296,Jay Patel,Male,2007-06-17,OBC,B.Sc Data Analytics,2026-07-03,jay.patel38@mail.example,9000041684,Tamil Nadu
+ST2026-0019,Kavya Roy,Female,2008-03-15,GEN,B.Voc Automotive Technology,2026-07-13,kavya.roy43@mail.example,9000090850,Uttar Pradesh
+ST2024-0299,Oindrila Khan,Female,2004-06-30,OBC,BBA Applied Skills,2024-08-18,oindrila.khan11@mail.example,9000028759,Jharkhand
+ST2024-0234,Lokesh Gupta,Male,2006-06-05,GEN,B.Voc Retail Management,2024-06-28,lokesh.gupta22@mail.example,9000001405,Karnataka
+ST2026-0089,Yash Mishra,Male,2007-08-08,OBC,B.Voc Logistics & Supply Chain,2026-09-29,yash.mishra54@mail.example,9000095587,Maharashtra
+ST2025-0222,Esha Desai,Other,2007-02-21,ST,B.Voc Logistics & Supply Chain,2025-06-08,esha.desai87@mail.example,9000032268,Maharashtra
+ST2025-0268,Ankita Mondal,Female,2007-05-16,ST,B.Voc Retail Management,2025-08-16,ankita.mondal75@mail.example,9000066165,Assam
+ST2025-0201,Ananya Patel,Female,2006-08-26,GEN,B.Voc Automotive Technology,2025-06-13,ananya.patel94@mail.example,9000081365,Tamil Nadu
+ST2026-0172,Varun Mishra,Male,2007-01-11,GEN,B.B.A Applied Skills,2026-09-29,varun.mishra74@mail.example,9000018031,Tamil Nadu
+ST2023-0005,Nandini Joshi,Female,2004-03-16,GEN,B.Voc Healthcare Services,2023-07-01,nandini.joshi93@mail.example,9000087462,Telangana
+ST2026-0085,Esha Reddy,Female,2005-09-28,GEN,B.Voc Retail Management,2026-08-28,esha.reddy86@mail.example,9000088567,Tamil Nadu
+ST2025-0115,Tanvi Khan,Female,2004-11-19,SC,B.Voc Automotive Technology,2025-07-27,tanvi.khan93@mail.example,9000017467,West Bengal
+ST2025-0203,Ankita Joshi,Female,2007-04-22,EWS,B.Voc Logistics & Supply Chain,2025-06-28,ankita.joshi65@mail.example,9000064872,West Bengal
+ST2025-0041,Lavanya Shetty,Female,2004-08-02,GEN,B.Voc Retail Management,2025-07-15,lavanya.shetty92@mail.example,9000094817,Karnataka
+ST2025-0005,Vikram Sinha,Male,2007-03-27,OBC,B.Voc Retail Management,2025-07-10,vikram.sinha42@mail.example,9000012006,Assam
+ST2024-0229,Manav Kulkarni,Male,2005-04-23,EWS,BBA Applied Skills,2024-06-01,manav.kulkarni96@mail.example,9000022135,Karnataka
+ST2024-0252,Rupa Desai,Female,2005-11-13,OBC,B.Voc Healthcare Services,2024-07-16,rupa.desai40@mail.example,9000030104,Jharkhand
+ST2024-0272,Zoya Reddy,Female,2005-07-04,SC,B.Voc Healthcare Services,2024-08-02,zoya.reddy96@mail.example,9000097777,West Bengal
+ST2024-0285,Harini Joshi,Female,2006-05-12,OBC,BBA Applied Skills,2024-06-13,harini.joshi37@mail.example,9000098846,Tamil Nadu
+ST2025-0271,Farhan Mukherjee,Male,2005-03-17,GEN,B.Voc Logistics & Supply Chain,2025-08-01,farhan.mukherjee76@mail.example,9000028493,Bihar
+ST2025-0146,Rohan Mehta,Male,2005-04-10,GEN,B.Voc Retail Management,2025-07-14,dup.rohan.iyer25@mail.example,9000003645,West Bengal
+ST2025-0063,Ishita Chatterjee,Female,2006-09-09,SC,B.Voc Automotive Technology,2025-08-23,ishita.chatterjee78@mail.example,9000041375,West Bengal
+ST2026-0091,Sourav Saxena,Male,2006-10-01,GEN,B.Voc Healthcare Services,2026-06-09,sourav.saxena73@mail.example,9000064865,Karnataka
+ST2026-0014,Mitali Bose,Female,2006-03-20,ST,BBA Applied Skills,2026-05-26,mitali.bose97@mail.example,9000053597,West Bengal
+ST2024-0111,Rahul Sen,Male,2003-11-08,EWS,B.Voc Logistics & Supply Chain,2024-06-08,rahul.sen81@mail.example,9000041706,Assam
+ST2023-0220,Debashis Joshi,Male,2005-08-13,EWS,B.Voc Automotive Technology,2023-08-28,debashis.joshi69@mail.example,9000001278,Uttar Pradesh
+ST2025-0205,Vikram Chatterjee,Male,2005-10-15,GEN,B.Voc Retail Management,2025-06-09,vikram.chatterjee96@mail.example,9000020943,Uttar Pradesh
+ST2023-0138,Nikhil Das,Male,2004-03-08,SC,B.Sc Data Analytics,2023-07-06,nikhil.das86@mail.example,9000078877,Telangana
+ST2026-0096,Farida Mukherjee,Female,2005-08-10,GEN,B.Voc Healthcare Services,2026-06-01,farida.mukherjee29@mail.example,9000027557,West Bengal
+ST2023-0070,Tarun Mehta,Male,2004-11-05,GEN,BBA Applied Skills,2023-08-28,tarun.mehta17@mail.example,9000032826,Bihar
+ST2026-0322,Yash Roy,Male,2006-12-11,OBC,B.Voc Automotive Technology,2026-05-26,yash.roy66@mail.example,9000097831,Karnataka
+ST2026-0136,Esha Chatterjee,Female,2005-09-11,GEN,BBA Applied Skills,2026-08-10,esha.chatterjee93@mail.example,9000092403,Telangana
+ST2023-0047,Kartik Pandey,Male,2004-07-16,GEN,BBA Applied Skills,2023-07-14,kartik.pandey53@mail.example,9000018956,Jharkhand
+ST2026-0190,Farida Nair,Female,2008-04-17,SC,B.Voc Logistics & Supply Chain,2026-05-23,farida.nair58@mail.example,9000027456,Karnataka
+ST2024-0238,Manav Khan,Male,2006-02-07,EWS,B.Voc Automotive Technology,2024-08-24,manav.khan24@mail.example,9000059647,Maharashtra
+ST2024-0091,Sahil Sen,Male,2003-09-21,ST,B.Voc Automotive Technology,2024-07-13,sahil.sen91@mail.example,9000002866,Bihar
+ST2026-0021,Jay Reddy,Male,2007-12-23,OBC,B.Sc Data Analytics,2026-06-05,jay.reddy47@mail.example,9000099199,Tamil Nadu
+ST2026-0052,Ananya Pillai,Female,2008-01-06,GEN,B.Voc Retail Management,2026-05-19,ananya.pillai57@mail.example,9000001444,Uttar Pradesh
+ST2024-0177,Dev Reddy,Male,2004-10-31,GEN,B.Voc Logistics & Supply Chain,2024-08-29,dev.reddy93@mail.example,9000097902,Odisha
+ST2025-0006,Harsh Das,Male,2005-03-19,SC,BVoc Retail Mgmt,2025-08-18,harsh.das10@mail.example,9000005679,Maharashtra
+ST2026-0012,Oindrila Mondal,Female,2008-06-21,OBC,B.Sc Data Analytics,2026-09-05,oindrila.mondal22@mail.example,9000030652,Telangana
+ST2024-0196,Dev Ghosh,Male,2004-04-21,OBC,B.Voc Retail Management,2024-08-28,dev.ghosh87@mail.example,9000089073,Karnataka
+ST2026-0064,Zoya Shetty,Female,2006-01-21,ST,B.Sc Data Analytics,2026-08-22,zoya.shetty88@mail.example,9000047054,Karnataka
+ST2024-0257,Bikram Joshi,Male,2003-09-25,GEN,B.Voc Retail Management,2024-07-02,bikram.joshi73@mail.example,9000058054,Telangana
+ST2026-0153,Aarav Roy,Male,2008-03-21,GEN,B.Voc Logistics & Supply Chain,2026-05-20,aarav.roy18@mail.example,9000007068,Karnataka
+ST2026-0228,Bikram Saxena,Male,2006-11-02,GEN,B.Sc Data Analytics,2026-07-14,bikram.saxena47@mail.example,9000013876,Jharkhand
+ST2024-0067,Kavya Ghosh,Other,2005-06-16,SC,B.Sc Data Analytics,2024-06-22,kavya.ghosh91@mail.example,9000046111,Tamil Nadu
+ST2023-0066,Tarun Shetty,Male,2002-09-29,GEN,B.Voc Retail Management,2023-06-27,tarun.shetty30@mail.example,9000005361,Telangana
+ST2025-0264,Uday Mishra,Male,2005-08-06,GEN,B.Voc Healthcare Services,2025-08-04,uday.mishra96@mail.example,9000082100,Tamil Nadu
+ST2025-0176,Kartik Kulkarni,Male,2005-12-07,OBC,B.Voc Retail Management,2025-06-05,kartik.kulkarni91@mail.example,9000078913,Odisha
+ST2026-0010,Chirag Khan,Male,2006-08-23,SC,B.Voc Retail Management,2026-06-18,chirag.khan72@mail.example,9000056828,Uttar Pradesh
+ST2025-0231,Meera Das,Female,2007-04-26,SC,B.Voc Healthcare Services,2025-08-20,meera.das17@mail.example,9000049560,West Bengal
+ST2026-0164,Vikram Gupta,Male,2008-07-05,SC,B.Voc Automotive Technology,2026-09-24,vikram.gupta23@mail.example,9000076226,West Bengal
+ST2026-0299,Ananya Kapoor,Female,2005-09-17,OBC,B.Voc Retail Management,2026-07-01,ananya.kapoor60@mail.example,9000024436,Odisha
+ST2026-0054,Payal Joshi,Female,2007-11-10,SC,BBA Applied Skills,2026-08-17,payal.joshi63@mail.example,9000070717,Karnataka
+ST2026-0306,Ananya Desai,Female,2007-05-31,OBC,B.Voc Automotive Technology,2026-08-17,ananya.desai48@mail.example,9000039000,West Bengal
+ST2023-0177,Lokesh Verma,Male,,OBC,B.Voc Healthcare Services,2023-06-12,lokesh.verma61@mail.example,9000071738,Tamil Nadu
+ST2026-0018,Imran Reddy,Male,2008-07-13,EWS,B.Voc Healthcare Services,2026-09-28,imran.reddy19@mail.example,9000074139,Jharkhand
+ST2026-0226,Yamini Desai,Female,2006-10-17,OBC,B.Voc Retail Management,2026-09-07,yamini.desai81@mail.example,9000095419,Odisha
+ST2026-0245,Ishita Kulkarni,Female,2006-03-14,EWS,B.Sc Data Analytics,2026-08-14,ishita.kulkarni93@mail.example,9000046093,Uttar Pradesh
+ST2026-0103,Gaurav Iyer,Male,2008-02-23,GEN,BBA Applied Skills,2026-06-30,gaurav.iyer29@mail.example,9000084096,Tamil Nadu
+ST2024-0049,Farida Desai,Female,2003-10-23,ST,B.Voc Logistics & Supply Chain,2024-08-23,farida.desai60@mail.example,9000078396,Karnataka
+ST2026-0317,Manav Sen,Male,2007-02-23,EWS,B.Voc Automotive Technology,2026-07-18,manav.sen30@mail.example,9000006873,Tamil Nadu
+ST2024-0287,Mitali Roy,Female,2004-08-08,SC,B.Voc Retail Management,2024-07-18,mitali.roy85@mail.example,9000099246,West Bengal
+ST2026-0206,Rupa Sharma,Female,2006-10-13,EWS,B.Voc Healthcare Services,2026-09-19,rupa.sharma27@mail.example,9000019663,Uttar Pradesh
+ST2026-0261,Meera Sen,Female,2008-03-10,EWS,B.Voc Healthcare Services,2026-05-26,meera.sen75@mail.example,9000038246,West Bengal
+ST2024-0136,Bikram Kulkarni,Male,2006-06-25,OBC,B.Voc Healthcare Services,2024-08-24,bikram.kulkarni90@mail.example,9000035897,West Bengal
+ST2026-0002,Pranav Pandey,Male,2007-10-04,EWS,B.Voc Healthcare Services,2026-06-05,pranav.pandey94@mail.example,9000034771,Bihar
+ST2024-0253,Gauri Khan,Female,2004-02-26,OBC,B.Voc Healthcare Services,2024-07-19,gauri.khan35@mail.example,90000-12AB5,Tamil Nadu
+ST2025-0256,Varun Sharma,Male,2005-09-03,GEN,BBA Applied Skills,2025-07-18,varun.sharma50@mail.example,9000040375,Jharkhand
+ST2024-0197,Gaurav Gupta,Male,2004-05-21,ST,B.Sc Data Analytics,2024-08-22,gaurav.gupta41@mail.example,9000036958,Maharashtra
+ST2025-0127,Pallavi Mukherjee,Female,2005-01-18,GEN,B.Voc Logistics & Supply Chain,2025-08-17,pallavi.mukherjee73@mail.example,9000058673,Karnataka
+ST2023-0232,Sahil Sen,Male,2003-11-07,GEN,B.Sc Data Analytics,2023-08-16,sahil.sen82@mail.example,9000067174,Odisha
+ST2024-0042,Kunal Reddy,Male,2006-06-08,EWS,B.Sc Data Analytics,2024-06-19,kunal.reddy77@mail.example,9000016549,West Bengal
+ST2025-0175,Pranav Sinha,Male,2007-05-20,SC,B.Voc Healthcare Services,2025-08-04,pranav.sinha28@mail.example,9000061700,Tamil Nadu
+ST2025-0193,Harini Desai,Female,2006-09-14,GEN,B.Sc Data Analytics,2025-07-07,harini.desai22@mail.example,9000031618,West Bengal
+ST2025-0108,Esha Sinha,Female,2014-09-15,GEN,BBA Applied Skills,2025-06-16,esha.sinha71@mail.example,9000064882,Karnataka
+ST2024-0191,Yash Gupta,Male,2005-06-10,GEN,B.Voc Healthcare Services,2024-08-29,yash.gupta97@mail.example,9000078813,Bihar
+ST2025-0042,Lavanya Mukherjee,Female,2007-03-02,GEN,BBA Applied Skills,2025-06-11,lavanya.mukherjee90@mail.example,9000060538,Odisha
+ST2023-0186,Vikram Sinha,Male,2005-06-03,GEN,B.Sc Data Analytics,2023-06-21,vikram.sinha70@mail.example,9000074710,Bihar
+ST2025-0190,Debashis Kulkarni,Male,2004-10-10,SC,B.Voc Logistics & Supply Chain,2025-07-19,debashis.kulkarni12@mail.example,9000049124,Odisha
+ST2024-0200,Oindrila Mukherjee,Female,2004-02-18,GEN,B.Sc Data Analytics,2024-06-17,oindrila.mukherjee46@mail.example,9000091669,West Bengal
+ST2026-0046,Varun Reddy,Male,2008-04-03,GEN,B.Voc Automotive Tech,2026-07-01,varun.reddy39@mail.example,9000025515,Maharashtra
+ST2024-0212,Rahul Desai,Male,2006-02-20,SC,B.Voc Healthcare Services,2024-06-22,rahul.desai53@mail.example,9000056297,Bihar
+ST2023-0069,Bikram Mishra,Male,2004-09-29,GEN,B.Sc Data Analytics,2023-08-09,bikram.mishra77@mail.example,9000021950,Telangana
+ST2024-0138,Yamini Pillai,Female,2006-05-15,OBC,B.Voc. Healthcare Services,2024-07-22,yamini.pillai74@mail.example,9000003700,Odisha
+ST2024-0262,Ankita Nair,Female,2005-11-27,GEN,B.Voc Retail Management,2024-08-08,ankita.nair37@mail.example,9000055822,Maharashtra
+ST2023-0167,Meera Sinha,Female,2004-04-11,OBC,B.Voc Retail Management,2023-07-25,meera.sinha23@mail.example,9000005910,Tamil Nadu
+ST2026-0121,Lavanya Joshi,Female,2008-05-23,ST,B.Voc Healthcare Services,2026-06-15,lavanya.joshi78@mail.example,9000078120,Uttar Pradesh
+ST2025-0100,Meera Kapoor,Female,2006-02-10,GEN,B.Voc Logistics & Supply Chain,2025-06-19,meera.kapoor68@mail.example,9000028668,Bihar
+ST2026-0240,Sahil Ghosh,Male,2005-12-12,EWS,B.Voc Healthcare Services,2026-07-05,sahil.ghosh72@mail.example,9000048315,Odisha
+ST2023-0014,Aarav Desai,Male,2003-11-20,OBC,B.Voc Automotive Technology,2023-07-16,aarav.desai63@mail.example,9000030337,Telangana
+ST2023-0224,Tanvi Sharma,Female,2003-02-06,GEN,B.Voc Retail Management,2023-08-04,tanvi.sharma48@mail.example,9000003510,Telangana
+ST2025-0073,Rupa Nair,Female,2006-02-15,ST,B.Voc Healthcare Services,2025-06-19,rupa.nair10@mail.example,9000045531,Assam
+ST2024-0289,Sanjana Joshi,Female,2004-10-17,GEN,B.Sc Data Analytics,2024-07-16,sanjana.joshi41@mail.example,9000047714,Odisha
+ST2023-0229,Manav Nair,Male,2004-04-18,GEN,B.Voc Retail Management,2023-07-27,manav.nair64@mail.example,9000095860,Uttar Pradesh
+ST2025-0185,Jhanvi Reddy,Female,2004-12-30,GEN,BVoc Retail Mgmt,2025-08-30,jhanvi.reddy49@mail.example,9000088649,West Bengal
+ST2024-0008,Tanvi Verma,Female,2004-11-25,OBC,B.Voc Automotive Technology,2024-07-10,tanvi.verma20@mail.example,9000035736,Tamil Nadu
+ST2025-0286,Imran Mehta,Male,2006-12-21,OBC,BBA Applied Skills,2025-06-18,imran.mehta80@mail.example,9000042141,West Bengal
+ST2025-0234,Jay Sharma,Male,2007-06-20,GEN,B.Voc Automotive Technology,2025-08-25,jay.sharma65@mail.example,9000038985,Tamil Nadu
+ST2025-0132,Vaishnavi Verma,Female,2007-01-13,GEN,B.Voc Logistics & Supply Chain,2025-07-25,vaishnavi.verma28@mail.example,9000086446,Uttar Pradesh
+ST2023-0068,Dev Sharma,Male,2003-07-15,OBC,B.Sc Data Analytics,2023-06-28,dev.sharma46@mail.example,9000055415,Assam
+ST2026-0119,Jhanvi Ali,Female,2007-09-30,GEN,BBA Applied Skills,2026-09-06,jhanvi.ali20@mail.example,9000025243,Uttar Pradesh
+ST2023-0117,Payal Iyer,Female,2003-04-11,SC,B.Voc Automotive Technology,2023-08-12,payal.iyer41@mail.example,9000075439,Odisha
+ST2024-0298,Rahul Pillai,Male,2003-09-24,SC,B.Voc Automotive Technology,2024-08-15,rahul.pillai90@mail.example,9000026100,West Bengal
+ST2024-0038,Ananya Mukherjee,Female,2003-10-04,GEN,B.Voc Logistics & Supply Chain,2024-07-25,ananya.mukherjee61@mail.example,9000005436,Bihar
+ST2023-0048,Jay Joshi,Male,2002-10-29,GEN,B.Voc Retail Management,2023-07-07,jay.joshi50@mail.example,9000086134,Uttar Pradesh
+ST2025-0145,Oindrila Pandey,Female,2004-11-29,GEN,B.Sc Data Analytics,2025-06-25,oindrila.pandey44@mail.example,9000065338,Bihar
+ST2024-0005,Arjun Pillai,Male,2005-12-02,GEN,B.Voc Automotive Technology,2024-07-07,arjun.pillai10@mail.example,9000073830,Assam
+ST2026-0005,Lavanya Khan,Female,2007-05-29,SC,B.Voc Automotive Technology,2026-09-02,lavanya.khan34@mail.example,9000045263,West Bengal
+ST2024-0195,Ananya Rao,Female,2006-04-18,ST,B.Voc Healthcare Services,2024-08-31,ananya.rao15@mail.example,9000048459,Assam
+ST2024-0175,Kavya Kapoor,Female,2004-05-20,OBC,B.Sc Data Analytics,2024-07-21,kavya.kapoor83@mail.example,9000049714,Maharashtra
+ST2025-0046,Kartik Mukherjee,Male,2007-04-10,OBC,B.Voc Retail Management,2025-06-18,kartik.mukherjee42@mail.example,9000055872,Jharkhand
+ST2025-0076,Diya Ghosh,Female,2004-12-13,GEN,B.Sc Data Analytics,2025-08-03,diya.ghosh92@mail.example,9000084602,Maharashtra
+ST2025-0120,Ritesh Sharma,Male,2005-05-16,GEN,B.Voc Retail Management,2025-08-27,ritesh.sharma66@mail.example,9000066534,West Bengal
+ST2026-0203,Rahul Banerjee,Male,2008-03-24,OBC,B.Voc Retail Management,2026-07-30,rahul.banerjee85@mail.example,9000040019,Karnataka
+ST2025-0184,Sahil Pandey,Male,2004-12-19,OBC,B.Sc Data Analytics,2025-07-15,sahil.pandey19@mail.example,9000056607,Odisha
+ST2024-0157,Aarohi Sen,Female,2004-01-06,OBC,B.Voc Healthcare Services,2024-06-29,aarohi.sen68@mail.example,9000052336,Bihar
+ST2023-0203,Bhavna Mondal,Female,2003-02-13,GEN,B.Voc Automotive Technology,2023-08-22,bhavna.mondal57@mail.example,9000071874,Uttar Pradesh
+ST2025-0172,Harsh Ghosh,Male,2005-10-14,SC,B.Voc Retail Management,2025-08-11,harsh.ghosh57@mail.example,9000052167,Karnataka
+ST2023-0118,Debashis Ghosh,Male,2003-07-02,EWS,B.Voc Logistics & Supply Chain,2023-07-20,debashis.ghosh66@mail.example,9000007381,Jharkhand
+ST2024-0057,Pallavi Patel,Female,2004-04-29,GEN,B.Voc Logistics & Supply Chain,2024-07-26,pallavi.patel38@mail.example,9000099383,Bihar
+ST2023-0071,Pallavi Shetty,Female,2003-06-27,GEN,B.Voc Retail Management,2023-08-31,pallavi.shetty73@mail.example,9000084241,Assam
+ST2024-0060,Dev Ali,Male,2003-11-18,OBC,B.Voc Automotive Technology,2024-07-27,dev.ali49@mail.example,9000029248,Bihar
+ST2024-0119,Gauri Reddy,Female,2005-12-22,OBC,B.Voc Retail Management,2024-07-04,gauri.reddy18@mail.example,9000061049,Assam
+ST2023-0021,Kartik Verma,Male,2003-04-30,ST,B.Voc. Healthcare Services,2023-07-19,kartik.verma50@mail.example,9000065016,Tamil Nadu
+ST2024-0210,Sanjana Banerjee,Female,2003-08-29,OBC,B.Voc Automotive Technology,2024-06-01,sanjana.banerjee93@mail.example,9000055721,Maharashtra
+ST2023-0210,Ritesh Pillai,Male,2004-08-14,GEN,B.Voc Automotive Technology,2023-08-05,ritesh.pillai61@mail.example,9000007900,Karnataka
+ST2025-0016,Swati Mehta,Female,2005-12-22,OBC,B.Voc Automotive Technology,2025-08-13,swati.mehta44@mail.example,9000061096,Jharkhand
+ST2023-0090,Farhan Ghosh,Male,2004-01-29,GEN,B.B.A Applied Skills,2023-08-02,farhan.ghosh12@mail.example,9000019030,Assam
+ST2024-0013,Ishita Gupta,Female,2005-01-14,GEN,B.Voc Healthcare Services,2024-06-20,ishita.gupta76@mail.example,9000013602,Karnataka
+ST2025-0061,Vaishnavi Sen,Female,2005-07-24,OBC,B.Voc Healthcare Services,2025-06-05,vaishnavi.sen74@mail.example,9000007948,Bihar
+ST2026-0187,Jhanvi Patel,Female,2005-12-18,EWS,B.Voc Healthcare Services,2026-07-12,jhanvi.patel97@mail.example,9000000934,Telangana
+ST2023-0183,Aarav Saxena,Male,2004-05-20,EWS,B.Sc Data Analytics,2023-06-28,aarav.saxena44@mail.example,9000064849,Bihar
+ST2025-0209,Sahil Kulkarni,Male,2006-03-13,GEN,B.Voc Logistics & Supply Chain,2025-08-30,sahil.kulkarni16@mail.example,9000099023,Tamil Nadu
+ST2024-0249,Swati Patel,Female,2005-01-06,OBC,B.Voc Healthcare Services,2024-07-09,swati.patel38@mail.example,9000048443,West Bengal
+ST2023-0023,Kavya Desai,Female,2004-11-02,GEN,B.Voc Healthcare Services,2023-06-23,kavya.desai65@mail.example,9000010098,Tamil Nadu
+ST2026-0193,Omkar Das,Male,2007-01-29,GEN,B.Voc Automotive Technology,2026-06-19,omkar.das85@mail.example,9000052152,Bihar
+ST2026-0250,Uday Bose,Male,2006-01-04,OBC,B.Voc Healthcare Services,2026-06-21,uday.bose14@mail.example,9000011784,Jharkhand
+ST2026-0286,Farida Ali,Female,2008-05-15,GEN,B.Voc Automotive Technology,2026-08-03,farida.ali58@mail.example,9000004586,West Bengal
+ST2024-0094,Jhanvi Mishra,Female,2005-11-24,ST,B.Voc Retail Management,2024-08-17,jhanvi.mishra76@mail.example,9000045033,Odisha
+ST2024-0288,Zoya Mehta,Female,2004-11-07,SC,B.Voc Healthcare Services,2024-08-10,zoya.mehta24@mail.example,9000086849,Odisha
+ST2024-0160,Ananya Reddy,Female,2005-01-06,GEN,B.Voc Healthcare Services,2024-08-12,ananya.reddy67@mail.example,9000081412,Assam
+ST2023-0086,Nikhil Iyer,Male,2002-10-08,OBC,B.Voc Healthcare Services,2023-07-26,nikhil.iyer86@mail.example,9000088233,Maharashtra
+ST2024-0110,Kartik Chatterjee,Male,2005-08-21,GEN,B.Sc. Data Analytics,2024-07-22,kartik.chatterjee94@mail.example,9000064672,Tamil Nadu
+ST2024-0159,Riya Sharma,Female,2006-03-03,OBC,B.Voc Logistics & Supply Chain,2024-07-25,riya.sharma68@mail.example,9000084306,Uttar Pradesh
+ST2024-0142,Nikhil Gupta,Male,2004-05-01,GEN,B.Voc Retail Management,2024-07-10,nikhil.gupta51@mail.example,9000014534,Telangana
+ST2025-0174,Mitali Joshi,Female,2007-06-23,SC,BBA Applied Skills,2025-06-21,mitali.joshi65@mail.example,9000049094,Assam
+ST2026-0150,Jhanvi Roy,Female,2006-04-27,ST,B.Voc Logistics & Supply Chain,2026-09-18,jhanvi.roy23@mail.example,9000091586,Tamil Nadu
+ST2023-0230,Pallavi Kulkarni,Female,2004-10-15,SC,B.Sc. Data Analytics,2023-08-11,pallavi.kulkarni53@mail.example,9000030701,West Bengal
+ST2026-0188,Aarav Kapoor,Male,2007-07-20,GEN,B.Voc Healthcare Services,2026-07-08,aarav.kapoor18@mail.example,9000035534,Telangana
+ST2025-0230,Arjun Bose,Male,2005-02-11,ST,B.B.A Applied Skills,2025-06-24,arjun.bose78@mail.example,9000050433,Maharashtra
+ST2025-0148,Diya Sen,Female,2004-08-27,OBC,B.Sc Data Analytics,2025-07-08,diya.sen93@mail.example,9000053061,Telangana
+ST2023-0250,Kartik Reddy,Male,2002-10-11,GEN,B.Voc Healthcare Services,2023-07-06,kartik.reddy97@mail.example,9000065081,Telangana
+ST2024-0105,Riya Das,Female,2004-09-08,GEN,BBA Applied Skills,2024-07-27,riya.das11@mail.example,9000037724,West Bengal
+ST2024-0011,Rupa Kapoor,Female,2005-02-21,GEN,B.Voc Logistics & Supply Chain,2024-07-09,rupa.kapoor75@mail.example,9000020732,Assam
+ST2024-0052,Harsh Mondal,Male,2006-01-05,GEN,B.Voc Retail Management,2024-06-15,harsh.mondal70@mail.example,9000083477,Uttar Pradesh
+ST2026-0224,Dev Shetty,Male,2007-04-04,GEN,BBA Applied Skills,2026-06-05,dev.shetty66@mail.example,9000008766,Uttar Pradesh
+ST2024-0255,Payal Pillai,Female,2005-05-09,SC,BBA Applied Skills,2024-07-22,payal.pillai65@mail.example,9000053620,Assam
+ST2026-0174,Nandini Roy,Female,2005-10-22,OBC,BBA Applied Skills,2026-07-22,nandini.roy81@mail.example,9000088031,Jharkhand
+ST2025-0020,Diya Sharma,Female,2005-05-14,SC,BBA Applied Skills,2025-06-25,diya.sharma48@mail.example,9000020381,Maharashtra
+ST2024-0241,Diya Khan,Female,2005-07-26,GEN,B.Voc Logistics & Supply Chain,2024-08-18,diya.khan91@mail.example,9000056692,Assam
+ST2023-0189,Tarun Reddy,,2003-12-25,OBC,B.Sc Data Analytics,2023-06-23,tarun.reddy23@mail.example,9000013394,Bihar
+ST2026-0267,Urmila Nair,Female,2007-08-03,OBC,B.Voc Logistics & Supply Chain,2026-05-27,urmila.nair78@mail.example,9000015374,Karnataka
+ST2024-0219,Omkar Mehta,Male,2005-08-07,SC,BBA Applied Skills,2024-07-01,omkar.mehta58@mail.example,9000097336,West Bengal
+ST2023-0253,Vaishnavi Mukherjee,Female,2004-04-05,GEN,BBA Applied Skills,2023-07-22,vaishnavi.mukherjee52@mail.example,9000005348,Odisha
+ST2024-0075,Gaurav Nair,Male,2004-04-05,GEN,B.Voc Logistics & Supply Chain,2024-06-30,gaurav.nair74@mail.example,9000073769,Assam
+ST2026-0198,Bhavna Mishra,Other,2007-10-31,SC,B.Voc Logistics & Supply Chain,2026-09-09,bhavna.mishra93@mail.example,9000090334,Tamil Nadu
+ST2026-0041,Yamini Bose,Female,2006-02-08,GEN,B.Voc Automotive Technology,2026-07-14,yamini.bose30@mail.example,9000095958,West Bengal
+ST2025-0273,Tarun Mondal,Male,2004-10-20,ST,B.Voc Retail Management,2025-08-26,tarun.mondal46@mail.example,9000035924,Maharashtra
+ST2023-0067,Varun Saxena,Male,2005-05-21,GEN,B.Voc Automotive Technology,2023-08-06,varun.saxena49@mail.example,9000012499,Bihar
+ST2025-0165,Swati Verma,Female,2006-02-23,OBC,B.Voc Automotive Technology,2025-06-14,swati.verma14@mail.example,9000043291,Uttar Pradesh
+ST2024-0029,Urmila Kapoor,Female,2005-04-10,GEN,B.Voc Healthcare Services,2024-08-15,urmila.kapoor95@mail.example,9000090558,Telangana
+ST2025-0204,Imran Banerjee,Male,2004-10-20,OBC,B.Voc Automotive Technology,2025-08-27,imran.banerjee86@mail.example,9000025104,Assam
+ST2023-0140,Kavya Iyer,Female,2004-06-04,ST,B.Voc Healthcare Services,2023-08-26,kavya.iyer17@mail.example,9000034847,Telangana
+ST2023-0076,Omkar Sharma,Male,2005-05-24,OBC,B.Sc Data Analytics,2023-06-13,omkar.sharma63@mail.example,9000091380,Karnataka
+ST2026-0234,Imran Das,Male,2007-02-17,SC,B.Voc Logistics & Supply Chain,2026-09-18,imran.das62@mail.example,9000021409,Assam
+ST2026-0115,Kavya Desai,Female,2008-07-22,GEN,B.Voc Retail Management,2026-09-28,kavya.desai18@mail.example,9000031861,Tamil Nadu
+ST2024-0275,Pranav Patel,Male,2005-07-26,EWS,B.Voc Healthcare Services,2024-06-08,pranav.patel69@mail.example,9000080688,West Bengal
+ST2026-0213,Ishita Pillai,Female,2006-03-29,SC,B.Sc Data Analytics,2026-08-06,ishita.pillai38@mail.example,9000092412,Tamil Nadu
+ST2025-0054,Nandini Kapoor,Female,2005-01-17,OBC,B.Voc Logistics & Supply Chain,2025-06-23,nandini.kapoor84@mail.example,9000022822,West Bengal
+ST2024-0106,Farhan Bose,Male,2004-02-11,GEN,B.Sc Data Analytics,2024-08-13,farhan.bose35@mail.example,9000080221,Assam
+ST2023-0074,Jay Patel,Male,2002-11-10,GEN,B.Sc Data Analytics,2023-08-16,jay.patel88@mail.example,9000008858,Jharkhand
+ST2023-0260,Harini Khan,Female,2004-10-10,SC,B.Voc Healthcare Services,2023-07-20,harini.khan82@mail.example,9000061099,Odisha
+ST2024-0032,Chirag Verma,Male,2005-03-18,ST,B.Voc Retail Management,2024-07-06,chirag.verma79@mail.example,9000033633,Assam
+ST2023-0227,Zoya Joshi,Female,2004-05-07,GEN,B.Voc Retail Management,2023-07-04,zoya.joshi68@mail.example,9000059391,Jharkhand
+ST2026-0204,Dev Verma,Male,2006-07-06,OBC,B.Voc Healthcare Services,2026-09-14,dev.verma36@mail.example,9000068796,Assam
+ST2024-0222,Gaurav Das,Male,2004-07-21,SC,B.Voc Healthcare Services,2024-08-14,gaurav.das40@mail.example,9000071101,Tamil Nadu
+ST2024-0033,Nikhil Desai,Male,2004-09-03,OBC,B.Voc Automotive Technology,2024-08-25,nikhil.desai69@mail.example,9000012667,Maharashtra
+ST2026-0106,Pranav Saxena,Male,2008-03-19,GEN,B.Voc Healthcare Services,2026-07-13,pranav.saxena66@mail.example,9000019732,Tamil Nadu
+ST2024-0037,Yash Mishra,Male,2004-10-05,GEN,BBA Applied Skills,2024-07-26,yash.mishra38@mail.example,9000031967,Karnataka
+ST2024-0102,Tanvi Kulkarni,Female,2003-10-07,GEN,B.Voc Retail Management,2024-07-03,tanvi.kulkarni19@mail.example,9000046708,Assam
+ST2025-0101,Ishita Rao,Female,2005-08-17,ST,B.Sc Data Analytics,2025-07-25,ishita.rao85@mail.example,9000084940,Uttar Pradesh
+ST2024-0204,Farida Sinha,Female,2004-10-22,GEN,BBA Applied Skills,2024-07-08,farida.sinha11@mail.example,9000089964,Jharkhand
+ST2026-0202,Chirag Sen,Male,2006-10-24,OBC,B.Voc Retail Management,2026-05-17,chirag.sen53@mail.example,9000087756,Odisha
+ST2026-0271,Vaishnavi Mukherjee,Female,2007-12-17,GEN,B.Voc Healthcare Services,2026-09-09,vaishnavi.mukherjee51@mail.example,9000003298,Uttar Pradesh
+ST2023-0202,Jhanvi Verma,Female,2003-09-10,ST,B.Voc Automotive Technology,2023-08-25,jhanvi.verma37@mail.example,9000017677,Karnataka
+ST2023-0018,Tanvi Chatterjee,Female,2003-02-21,GEN,B.Voc Retail Management,2023-08-01,tanvi.chatterjee21@mail.example,9000042210,West Bengal
+ST2026-0142,Sneha Mehta,Female,2006-05-04,GEN,B.Sc Data Analytics,2026-09-19,sneha.mehta85@mail.example,9000038282,Karnataka
+ST2026-0180,Lavanya Banerjee,Female,2008-01-06,SC,B.Voc Logistics & Supply Chain,2026-06-12,lavanya.banerjee39@mail.example,9000074297,Bihar
+ST2025-0257,Lokesh Gupta,Male,2004-10-24,,BBA Applied Skills,2025-06-19,lokesh.gupta14@mail.example,9000066260,Assam
+ST2024-0158,Esha Chatterjee,Female,2006-05-22,SC,B.Voc Automotive Technology,2024-08-28,esha.chatterjee30@mail.example,9000001143,Telangana
+ST2026-0047,Riya Gupta,Female,2006-07-09,EWS,B.Voc Retail Management,2026-07-04,riya.gupta67@mail.example,9000039373,Uttar Pradesh
+ST2025-0064,Vaishnavi Joshi,Female,2007-06-18,OBC,B.Voc Automotive Technology,2025-06-20,vaishnavi.joshi20@mail.example,9000009502,Bihar
+ST2026-0290,Jhanvi Kulkarni,Female,2005-11-13,GEN,BBA Applied Skills,2026-05-22,jhanvi.kulkarni68@mail.example,9000050809,Telangana
+ST2025-0049,Debashis Sinha,Male,2005-04-03,OBC,B.Voc Automotive Technology,2025-06-01,debashis.sinha10@mail.example,9000086376,Maharashtra
+ST2025-0216,Rupa Mukherjee,Female,2004-10-14,EWS,B.Sc Data Analytics,2025-08-17,rupa.mukherjee41@mail.example,9000089459,West Bengal
+ST2025-0202,Sahil Sen,Male,2006-03-29,ST,B.Voc Automotive Technology,2025-07-20,sahil.sen51@mail.example,9000075020,Maharashtra
+ST2024-0221,Payal Rao,Female,2004-12-10,GEN,B.Voc Automotive Technology,2024-07-11,payal.rao43@mail.example,900001234,Maharashtra
+ST2026-0182,Arjun Pandey,Male,2006-11-06,OBC,B.Sc Data Analytics,2026-08-05,arjun.pandey21@mail.example,9000062460,Uttar Pradesh
+ST2025-0158,Meera Iyer,Female,2005-02-07,GEN,B.Voc Retail Management,2025-08-19,meera.iyer45@mail.example,9000054201,Karnataka
+ST2024-0179,Omkar Verma,Male,2005-11-29,OBC,B.Voc Healthcare Services,2024-07-02,omkar.verma15@mail.example,9000036781,Jharkhand
+ST2025-0083,Debashis Reddy,Male,2007-04-21,GEN,B.Voc Retail Management,2025-08-18,debashis.reddy39@mail.example,9000036286,Odisha
+ST2023-0029,Dev Sinha,Male,2004-10-13,,B.Sc Data Analytics,2023-08-06,dev.sinha71@mail.example,9000007962,Jharkhand
+ST2026-0154,Ananya Desai,Female,2006-04-16,EWS,B.Voc Retail Management,2026-07-30,ananya.desai88@mail.example,9000010225,Maharashtra
+ST2025-0069,Imran Saxena,Male,2005-07-05,OBC,B.Sc Data Analytics,2025-06-24,imran.saxena72@mail.example,9000044715,West Bengal
+ST2024-0074,Uday Roy,Male,2005-03-14,GEN,B.Voc Retail Management,2024-06-04,uday.roy17@mail.example,9000094084,West Bengal
+ST2023-0078,Ankita Joshi,Female,2002-10-22,GEN,B.Voc Healthcare Services,2023-08-22,ankita.joshi37@mail.example,9000035649,Bihar
+ST2026-0083,Farida Sinha,Female,2008-06-01,EWS,B.Voc Logistics & Supply Chain,2026-05-28,farida.sinha66@mail.example,9000078818,West Bengal
+ST2025-0235,Meera Verma,Female,2006-03-31,GEN,B.Voc Healthcare Services,2025-06-21,meera.verma95@mail.example,9000054712,Maharashtra
+ST2023-0258,Aarav Sharma,Male,2004-05-17,SC,B.Voc Logistics & Supply Chain,2023-08-18,aarav.sharma24@mail.example,9000005513,Jharkhand

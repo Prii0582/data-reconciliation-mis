@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Monthly MIS Dashboard</title>
+<style>
+  :root {
+    --navy: #1B2A4A; --navy-2: #2C3E66; --teal: #0F8B8D; --teal-soft: #DDF0EF;
+    --bg: #F3F6F9; --card: #FFFFFF; --ink: #1F2A3C; --muted: #6B7785; --line: #E1E7EE;
+    --amber: #E0A030; --red: #C0392B;
+  }
+  @page { size: 1240px 1754px; margin: 0; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink);
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .page { width: 1240px; height: 1754px; padding: 0 0 24px; overflow: hidden; background: var(--bg); }
+  header { background: var(--navy); color: #fff; padding: 30px 44px 26px; display: flex; justify-content: space-between; align-items: flex-end; }
+  header h1 { margin: 0; font-size: 30px; font-weight: 600; letter-spacing: .2px; }
+  header .inst { font-size: 15px; color: #B9C6DA; margin-top: 6px; }
+  header .meta { text-align: right; font-size: 13px; color: #B9C6DA; line-height: 1.6; }
+  header .meta b { color: #fff; font-size: 15px; }
+  .band { height: 6px; background: var(--teal); }
+  main { padding: 22px 44px 0; }
+  .kpis { display: grid; grid-template-columns: repeat(5, 1fr); gap: 14px; }
+  .kpi { background: var(--card); border-radius: 10px; padding: 16px 18px 14px; border-top: 4px solid var(--navy);
+    box-shadow: 0 1px 2px rgba(27,42,74,.08); }
+  .kpi.accent { border-top-color: var(--teal); background: var(--teal-soft); }
+  .kpi .label { font-size: 12px; text-transform: uppercase; letter-spacing: .8px; color: var(--muted); font-weight: 600; }
+  .kpi .value { font-size: 34px; font-weight: 700; color: var(--navy); margin: 6px 0 4px; }
+  .kpi.accent .value { color: var(--teal); }
+  .kpi .sub { font-size: 11.5px; color: var(--muted); line-height: 1.35; }
+  .card { background: var(--card); border-radius: 10px; padding: 16px 20px; margin-top: 16px; box-shadow: 0 1px 2px rgba(27,42,74,.08); }
+  h2 { font-size: 15px; color: var(--navy); margin: 0 0 10px; font-weight: 700; }
+  h2 small { font-weight: 400; color: var(--muted); font-size: 12px; margin-left: 6px; }
+  .chart img { width: 100%; display: block; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th { background: var(--navy); color: #fff; font-weight: 600; text-align: right; padding: 7px 10px; font-size: 12px; }
+  th:first-child, td:first-child { text-align: left; }
+  td { padding: 7px 10px; text-align: right; border-bottom: 1px solid var(--line); }
+  tbody tr:nth-child(even) td { background: #F8FAFC; }
+  tr.total td { font-weight: 700; background: var(--teal-soft) !important; color: var(--navy); border-bottom: none; }
+  .pill { display: inline-block; min-width: 28px; padding: 1px 8px; border-radius: 10px; font-size: 12px; font-weight: 600; text-align: center; }
+  .pill.hi { background: #F8D7D3; color: var(--red); }
+  .pill.md { background: #FBEBC8; color: #8A5A00; }
+  .pill.lo { background: var(--teal-soft); color: var(--teal); }
+  .grid2 { display: grid; grid-template-columns: 1.75fr 1fr; gap: 16px; }
+  .reg { border: 2px dashed var(--teal); background: #FBFEFE; }
+  .reg .tag { display: inline-block; background: var(--teal); color: #fff; font-size: 10.5px; font-weight: 700; letter-spacing: .8px;
+    padding: 3px 8px; border-radius: 4px; text-transform: uppercase; margin-left: 8px; vertical-align: 2px; }
+  .reg table { font-size: 12px; }
+  .reg th { background: var(--navy-2); padding: 5px 8px; }
+  .reg td { padding: 4px 8px; }
+  .reg h3 { font-size: 12.5px; color: var(--teal); margin: 12px 0 6px; text-transform: uppercase; letter-spacing: .6px; }
+  .grads { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+  .grads div { background: var(--bg); border-radius: 6px; padding: 8px 10px; }
+  .grads b { display: block; font-size: 20px; color: var(--navy); }
+  .grads span { font-size: 11px; color: var(--muted); }
+  .note { font-size: 11px; color: var(--muted); margin-top: 8px; line-height: 1.4; }
+  .dq td { font-size: 12.5px; }
+  .dq .issues td { font-size: 12px; padding: 5px 8px; }
+  .defs { margin-top: 14px; padding-top: 10px; border-top: 1px solid var(--line); }
+  footer { padding: 14px 44px 0; font-size: 11px; color: var(--muted); display: flex; justify-content: space-between; }
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <div>
+      <h1>Monthly MIS Dashboard &middot; {{ month }}</h1>
+      <div class="inst">{{ institute }} (fictional) &middot; Academic Year 2026-27</div>
+    </div>
+    <div class="meta"><b>Data cut-off: {{ as_of }}</b><br>Sources: Admissions &middot; Finance &middot; Academic ERP &middot; Industry Partners</div>
+  </header>
+  <div class="band"></div>
+  <main>
+    <section class="kpis">
+      {% for k in kpis %}
+      <div class="kpi{% if k.accent %} accent{% endif %}">
+        <div class="label">{{ k.label }}</div>
+        <div class="value">{{ k.value }}</div>
+        <div class="sub">{{ k.sub }}</div>
+      </div>
+      {% endfor %}
+    </section>
+
+    <section class="card chart">
+      <img src="data:image/png;base64,{{ chart }}" alt="Monthly fee collection and admissions trend">
+    </section>
+
+    <section class="card">
+      <h2>Programme-wise summary <small>active students; pass % = May-2026 results; placement % = 2023 batch pass-outs; total open issues includes IDs not linked to any programme</small></h2>
+      <table>
+        <thead><tr><th>Programme</th><th>Enrolled</th><th>Female %</th><th>Fee collected (Rs L)</th><th>Collection %</th><th>Pass %</th><th>Placement %</th><th>Open data issues</th></tr></thead>
+        <tbody>
+        {% for r in programmes %}
+          <tr><td>{{ r.programme }}</td><td>{{ r.enrolled }}</td><td>{{ "%.1f"|format(r.female_pct) }}</td><td>{{ "%.1f"|format(r.collected_lakh) }}</td>
+              <td>{{ "%.1f"|format(r.collection_pct) }}</td><td>{{ "%.1f"|format(r.pass_pct) }}</td><td>{{ "%.1f"|format(r.placement_pct) }}</td><td>{{ r.open_issues }}</td></tr>
+        {% endfor %}
+          <tr class="total"><td>{{ total.programme }}</td><td>{{ total.enrolled }}</td><td>{{ "%.1f"|format(total.female_pct) }}</td><td>{{ "%.1f"|format(total.collected_lakh) }}</td>
+              <td>{{ "%.1f"|format(total.collection_pct) }}</td><td>{{ "%.1f"|format(total.pass_pct) }}</td><td>{{ "%.1f"|format(total.placement_pct) }}</td><td>{{ total.open_issues }}</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <div class="grid2">
+      <section class="card reg">
+        <h2>Regulatory-ready figures <span class="tag">Illustrative</span></h2>
+        <h3>A. Students enrolled by programme and gender</h3>
+        <table>
+          <thead><tr><th>Programme</th>{% for c in by_gender.columns %}<th>{{ c }}</th>{% endfor %}</tr></thead>
+          <tbody>
+          {% for idx, row in by_gender.iterrows() %}
+            <tr{% if idx == "Total" %} class="total"{% endif %}><td>{{ idx }}</td>{% for v in row %}<td>{{ v }}</td>{% endfor %}</tr>
+          {% endfor %}
+          </tbody>
+        </table>
+        <h3>B. Students enrolled by social category</h3>
+        <table>
+          <thead><tr>{% for c in by_cat.index %}<th>{{ c }}</th>{% endfor %}<th>Total</th></tr></thead>
+          <tbody><tr>{% for v in by_cat.values %}<td>{{ v }}</td>{% endfor %}<td><b>{{ by_cat.sum() }}</b></td></tr></tbody>
+        </table>
+        <h3>C. Graduating batch (admitted 2023)</h3>
+        <div class="grads">
+          <div><b>{{ graduates.final_year }}</b><span>Final-year students</span></div>
+          <div><b>{{ graduates.pass_outs }}</b><span>Pass-outs</span></div>
+          <div><b>{{ graduates.placed }}</b><span>Placed</span></div>
+          <div><b>{{ "%.2f"|format(graduates.median_ctc) }}</b><span>Median CTC (Rs lakh p.a.)</span></div>
+        </div>
+        <div class="note">Laid out the way NIRF / AISHE returns ask for student strength, pass-outs and placements.
+          Synthetic data, for illustration only. This is not an official submission.</div>
+        <div class="note defs"><b>How the KPIs are defined</b><br>
+          Enrolled = ERP status Active. Fee collection = valid receipts / (active students &times; annual fee).
+          Pass % = Pass / results with valid marks. Data match rate = students with zero open issues across all four systems.</div>
+      </section>
+
+      <section class="card dq">
+        <h2>Data quality: open items by owner</h2>
+        <table>
+          <thead><tr><th>Department</th><th>High</th><th>Med</th><th>Low</th><th>Total</th></tr></thead>
+          <tbody>
+          {% for d, row in dept.iterrows() %}
+            <tr><td>{{ d }}</td><td><span class="pill hi">{{ row["High"] }}</span></td><td><span class="pill md">{{ row["Medium"] }}</span></td>
+                <td><span class="pill lo">{{ row["Low"] }}</span></td><td><b>{{ row["Total"] }}</b></td></tr>
+          {% endfor %}
+            <tr class="total"><td>All</td><td>{{ dept["High"].sum() }}</td><td>{{ dept["Medium"].sum() }}</td><td>{{ dept["Low"].sum() }}</td><td>{{ dept["Total"].sum() }}</td></tr>
+          </tbody>
+        </table>
+        <h2 style="margin-top:16px">Most frequent issues</h2>
+        <table class="issues">
+          <thead><tr><th>Issue type</th><th>Owner</th><th>Count</th></tr></thead>
+          <tbody>
+          {% for r in top_issues.itertuples() %}<tr><td>{{ r.issue_type }}</td><td>{{ r.owner_dept }}</td><td>{{ r.n }}</td></tr>{% endfor %}
+          </tbody>
+        </table>
+        <div class="note">SLA to close: High 3 days &middot; Medium 7 days &middot; Low 14 days.<br>
+          Full list with source values: <b>reconciliation_report.xlsx &rarr; Discrepancy Log</b>, plus one work-list sheet per department.</div>
+
+      </section>
+    </div>
+  </main>
+  <footer>
+    <span>Generated automatically by reconcile.py &middot; Python, pandas, Jinja2, matplotlib</span>
+    <span>All names and figures are synthetic</span>
+  </footer>
+</div>
+</body>
+</html>
